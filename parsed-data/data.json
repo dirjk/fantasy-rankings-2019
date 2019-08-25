@@ -1,0 +1,1402 @@
+{
+    "Saquon Barkley": {
+        "rankings": {
+            "ff-calculator": 1
+        },
+        "player-name": "Saquon Barkley",
+        "bye-week": "11"
+    },
+    "Christian McCaffrey": {
+        "rankings": {
+            "ff-calculator": 2
+        },
+        "player-name": "Christian McCaffrey",
+        "bye-week": "7"
+    },
+    "Ezekiel Elliott": {
+        "rankings": {
+            "ff-calculator": 3
+        },
+        "player-name": "Ezekiel Elliott",
+        "bye-week": "8"
+    },
+    "Alvin Kamara": {
+        "rankings": {
+            "ff-calculator": 4
+        },
+        "player-name": "Alvin Kamara",
+        "bye-week": "9"
+    },
+    "DeAndre Hopkins": {
+        "rankings": {
+            "ff-calculator": 5
+        },
+        "player-name": "DeAndre Hopkins",
+        "bye-week": "10"
+    },
+    "David Johnson": {
+        "rankings": {
+            "ff-calculator": 6
+        },
+        "player-name": "David Johnson",
+        "bye-week": "12"
+    },
+    "Nick Chubb": {
+        "rankings": {
+            "ff-calculator": 7
+        },
+        "player-name": "Nick Chubb",
+        "bye-week": "7"
+    },
+    "LeVeon Bell": {
+        "rankings": {
+            "ff-calculator": 8
+        },
+        "player-name": "LeVeon Bell",
+        "bye-week": "4"
+    },
+    "Davante Adams": {
+        "rankings": {
+            "ff-calculator": 9
+        },
+        "player-name": "Davante Adams",
+        "bye-week": "11"
+    },
+    "James Conner": {
+        "rankings": {
+            "ff-calculator": 10
+        },
+        "player-name": "James Conner",
+        "bye-week": "7"
+    },
+    "Julio Jones": {
+        "rankings": {
+            "ff-calculator": 11
+        },
+        "player-name": "Julio Jones",
+        "bye-week": "9"
+    },
+    "Todd Gurley": {
+        "rankings": {
+            "ff-calculator": 12
+        },
+        "player-name": "Todd Gurley",
+        "bye-week": "9"
+    },
+    "Michael Thomas": {
+        "rankings": {
+            "ff-calculator": 13
+        },
+        "player-name": "Michael Thomas",
+        "bye-week": "9"
+    },
+    "Tyreek Hill": {
+        "rankings": {
+            "ff-calculator": 14
+        },
+        "player-name": "Tyreek Hill",
+        "bye-week": "12"
+    },
+    "Joe Mixon": {
+        "rankings": {
+            "ff-calculator": 15
+        },
+        "player-name": "Joe Mixon",
+        "bye-week": "9"
+    },
+    "Dalvin Cook": {
+        "rankings": {
+            "ff-calculator": 16
+        },
+        "player-name": "Dalvin Cook",
+        "bye-week": "12"
+    },
+    "Odell Beckham Jr": {
+        "rankings": {
+            "ff-calculator": 17
+        },
+        "player-name": "Odell Beckham Jr",
+        "bye-week": "7"
+    },
+    "JuJu Smith-Schuster": {
+        "rankings": {
+            "ff-calculator": 18
+        },
+        "player-name": "JuJu Smith-Schuster",
+        "bye-week": "7"
+    },
+    "Travis Kelce": {
+        "rankings": {
+            "ff-calculator": 19
+        },
+        "player-name": "Travis Kelce",
+        "bye-week": "12"
+    },
+    "Pat Mahomes": {
+        "rankings": {
+            "ff-calculator": 20
+        },
+        "player-name": "Pat Mahomes",
+        "bye-week": "12"
+    },
+    "Leonard Fournette": {
+        "rankings": {
+            "ff-calculator": 21
+        },
+        "player-name": "Leonard Fournette",
+        "bye-week": "10"
+    },
+    "Mike Evans": {
+        "rankings": {
+            "ff-calculator": 22
+        },
+        "player-name": "Mike Evans",
+        "bye-week": "7"
+    },
+    "Damien Williams": {
+        "rankings": {
+            "ff-calculator": 23
+        },
+        "player-name": "Damien Williams",
+        "bye-week": "12"
+    },
+    "Antonio Brown": {
+        "rankings": {
+            "ff-calculator": 24
+        },
+        "player-name": "Antonio Brown",
+        "bye-week": "6"
+    },
+    "Adam Thielen": {
+        "rankings": {
+            "ff-calculator": 25
+        },
+        "player-name": "Adam Thielen",
+        "bye-week": "12"
+    },
+    "Kerryon Johnson": {
+        "rankings": {
+            "ff-calculator": 26
+        },
+        "player-name": "Kerryon Johnson",
+        "bye-week": "5"
+    },
+    "Devonta Freeman": {
+        "rankings": {
+            "ff-calculator": 27
+        },
+        "player-name": "Devonta Freeman",
+        "bye-week": "9"
+    },
+    "Aaron Jones": {
+        "rankings": {
+            "ff-calculator": 28
+        },
+        "player-name": "Aaron Jones",
+        "bye-week": "11"
+    },
+    "Chris Carson": {
+        "rankings": {
+            "ff-calculator": 29
+        },
+        "player-name": "Chris Carson",
+        "bye-week": "11"
+    },
+    "Keenan Allen": {
+        "rankings": {
+            "ff-calculator": 30
+        },
+        "player-name": "Keenan Allen",
+        "bye-week": "12"
+    },
+    "Josh Jacobs": {
+        "rankings": {
+            "ff-calculator": 31
+        },
+        "player-name": "Josh Jacobs",
+        "bye-week": "6"
+    },
+    "David Montgomery": {
+        "rankings": {
+            "ff-calculator": 32
+        },
+        "player-name": "David Montgomery",
+        "bye-week": "6"
+    },
+    "George Kittle": {
+        "rankings": {
+            "ff-calculator": 33
+        },
+        "player-name": "George Kittle",
+        "bye-week": "4"
+    },
+    "Melvin Gordon": {
+        "rankings": {
+            "ff-calculator": 34
+        },
+        "player-name": "Melvin Gordon",
+        "bye-week": "12"
+    },
+    "Derrick Henry": {
+        "rankings": {
+            "ff-calculator": 35
+        },
+        "player-name": "Derrick Henry",
+        "bye-week": "11"
+    },
+    "Amari Cooper": {
+        "rankings": {
+            "ff-calculator": 36
+        },
+        "player-name": "Amari Cooper",
+        "bye-week": "8"
+    },
+    "Stefon Diggs": {
+        "rankings": {
+            "ff-calculator": 37
+        },
+        "player-name": "Stefon Diggs",
+        "bye-week": "12"
+    },
+    "Mark Ingram": {
+        "rankings": {
+            "ff-calculator": 38
+        },
+        "player-name": "Mark Ingram",
+        "bye-week": "8"
+    },
+    "Sony Michel": {
+        "rankings": {
+            "ff-calculator": 39
+        },
+        "player-name": "Sony Michel",
+        "bye-week": "10"
+    },
+    "Zach Ertz": {
+        "rankings": {
+            "ff-calculator": 40
+        },
+        "player-name": "Zach Ertz",
+        "bye-week": "10"
+    },
+    "Brandin Cooks": {
+        "rankings": {
+            "ff-calculator": 41
+        },
+        "player-name": "Brandin Cooks",
+        "bye-week": "9"
+    },
+    "Robert Woods": {
+        "rankings": {
+            "ff-calculator": 42
+        },
+        "player-name": "Robert Woods",
+        "bye-week": "9"
+    },
+    "Julian Edelman": {
+        "rankings": {
+            "ff-calculator": 43
+        },
+        "player-name": "Julian Edelman",
+        "bye-week": "10"
+    },
+    "Chris Godwin": {
+        "rankings": {
+            "ff-calculator": 44
+        },
+        "player-name": "Chris Godwin",
+        "bye-week": "7"
+    },
+    "Phillip Lindsay": {
+        "rankings": {
+            "ff-calculator": 45
+        },
+        "player-name": "Phillip Lindsay",
+        "bye-week": "10"
+    },
+    "Tyler Lockett": {
+        "rankings": {
+            "ff-calculator": 46
+        },
+        "player-name": "Tyler Lockett",
+        "bye-week": "11"
+    },
+    "Marlon Mack": {
+        "rankings": {
+            "ff-calculator": 47
+        },
+        "player-name": "Marlon Mack",
+        "bye-week": "6"
+    },
+    "Tevin Coleman": {
+        "rankings": {
+            "ff-calculator": 48
+        },
+        "player-name": "Tevin Coleman",
+        "bye-week": "4"
+    },
+    "Deshaun Watson": {
+        "rankings": {
+            "ff-calculator": 49
+        },
+        "player-name": "Deshaun Watson",
+        "bye-week": "10"
+    },
+    "Kenny Golladay": {
+        "rankings": {
+            "ff-calculator": 50
+        },
+        "player-name": "Kenny Golladay",
+        "bye-week": "5"
+    },
+    "Miles Sanders": {
+        "rankings": {
+            "ff-calculator": 51
+        },
+        "player-name": "Miles Sanders",
+        "bye-week": "10"
+    },
+    "Cooper Kupp": {
+        "rankings": {
+            "ff-calculator": 52
+        },
+        "player-name": "Cooper Kupp",
+        "bye-week": "9"
+    },
+    "A.J. Green": {
+        "rankings": {
+            "ff-calculator": 53
+        },
+        "player-name": "A.J. Green",
+        "bye-week": "9"
+    },
+    "T.Y. Hilton": {
+        "rankings": {
+            "ff-calculator": 54
+        },
+        "player-name": "T.Y. Hilton",
+        "bye-week": "6"
+    },
+    "Mike Williams": {
+        "rankings": {
+            "ff-calculator": 55
+        },
+        "player-name": "Mike Williams",
+        "bye-week": "12"
+    },
+    "Calvin Ridley": {
+        "rankings": {
+            "ff-calculator": 56
+        },
+        "player-name": "Calvin Ridley",
+        "bye-week": "9"
+    },
+    "Aaron Rodgers": {
+        "rankings": {
+            "ff-calculator": 57
+        },
+        "player-name": "Aaron Rodgers",
+        "bye-week": "11"
+    },
+    "O.J. Howard": {
+        "rankings": {
+            "ff-calculator": 58
+        },
+        "player-name": "O.J. Howard",
+        "bye-week": "7"
+    },
+    "Lamar Miller": {
+        "rankings": {
+            "ff-calculator": 59
+        },
+        "player-name": "Lamar Miller",
+        "bye-week": "10"
+    },
+    "Tyler Boyd": {
+        "rankings": {
+            "ff-calculator": 60
+        },
+        "player-name": "Tyler Boyd",
+        "bye-week": "9"
+    },
+    "Evan Engram": {
+        "rankings": {
+            "ff-calculator": 61
+        },
+        "player-name": "Evan Engram",
+        "bye-week": "11"
+    },
+    "Austin Ekeler": {
+        "rankings": {
+            "ff-calculator": 62
+        },
+        "player-name": "Austin Ekeler",
+        "bye-week": "12"
+    },
+    "James White": {
+        "rankings": {
+            "ff-calculator": 63
+        },
+        "player-name": "James White",
+        "bye-week": "10"
+    },
+    "Latavius Murray": {
+        "rankings": {
+            "ff-calculator": 64
+        },
+        "player-name": "Latavius Murray",
+        "bye-week": "9"
+    },
+    "D.J. Moore": {
+        "rankings": {
+            "ff-calculator": 65
+        },
+        "player-name": "D.J. Moore",
+        "bye-week": "7"
+    },
+    "Baker Mayfield": {
+        "rankings": {
+            "ff-calculator": 66
+        },
+        "player-name": "Baker Mayfield",
+        "bye-week": "7"
+    },
+    "Hunter Henry": {
+        "rankings": {
+            "ff-calculator": 67
+        },
+        "player-name": "Hunter Henry",
+        "bye-week": "12"
+    },
+    "Derrius Guice": {
+        "rankings": {
+            "ff-calculator": 68
+        },
+        "player-name": "Derrius Guice",
+        "bye-week": "10"
+    },
+    "Robby Anderson": {
+        "rankings": {
+            "ff-calculator": 69
+        },
+        "player-name": "Robby Anderson",
+        "bye-week": "4"
+    },
+    "Alshon Jeffery": {
+        "rankings": {
+            "ff-calculator": 70
+        },
+        "player-name": "Alshon Jeffery",
+        "bye-week": "10"
+    },
+    "Jarvis Landry": {
+        "rankings": {
+            "ff-calculator": 71
+        },
+        "player-name": "Jarvis Landry",
+        "bye-week": "7"
+    },
+    "Josh Gordon": {
+        "rankings": {
+            "ff-calculator": 72
+        },
+        "player-name": "Josh Gordon",
+        "bye-week": "10"
+    },
+    "Matt Ryan": {
+        "rankings": {
+            "ff-calculator": 73
+        },
+        "player-name": "Matt Ryan",
+        "bye-week": "9"
+    },
+    "Will Fuller": {
+        "rankings": {
+            "ff-calculator": 74
+        },
+        "player-name": "Will Fuller",
+        "bye-week": "10"
+    },
+    "Carson Wentz": {
+        "rankings": {
+            "ff-calculator": 75
+        },
+        "player-name": "Carson Wentz",
+        "bye-week": "10"
+    },
+    "Allen Robinson": {
+        "rankings": {
+            "ff-calculator": 76
+        },
+        "player-name": "Allen Robinson",
+        "bye-week": "6"
+    },
+    "Jared Cook": {
+        "rankings": {
+            "ff-calculator": 77
+        },
+        "player-name": "Jared Cook",
+        "bye-week": "9"
+    },
+    "Kenyan Drake": {
+        "rankings": {
+            "ff-calculator": 78
+        },
+        "player-name": "Kenyan Drake",
+        "bye-week": "5"
+    },
+    "Tarik Cohen": {
+        "rankings": {
+            "ff-calculator": 79
+        },
+        "player-name": "Tarik Cohen",
+        "bye-week": "6"
+    },
+    "Curtis Samuel": {
+        "rankings": {
+            "ff-calculator": 80
+        },
+        "player-name": "Curtis Samuel",
+        "bye-week": "7"
+    },
+    "Drew Brees": {
+        "rankings": {
+            "ff-calculator": 81
+        },
+        "player-name": "Drew Brees",
+        "bye-week": "9"
+    },
+    "Rashaad Penny": {
+        "rankings": {
+            "ff-calculator": 82
+        },
+        "player-name": "Rashaad Penny",
+        "bye-week": "11"
+    },
+    "Vance McDonald": {
+        "rankings": {
+            "ff-calculator": 83
+        },
+        "player-name": "Vance McDonald",
+        "bye-week": "7"
+    },
+    "Christian Kirk": {
+        "rankings": {
+            "ff-calculator": 84
+        },
+        "player-name": "Christian Kirk",
+        "bye-week": "12"
+    },
+    "Darrell Henderson": {
+        "rankings": {
+            "ff-calculator": 85
+        },
+        "player-name": "Darrell Henderson",
+        "bye-week": "9"
+    },
+    "Eric Ebron": {
+        "rankings": {
+            "ff-calculator": 86
+        },
+        "player-name": "Eric Ebron",
+        "bye-week": "6"
+    },
+    "Jordan Howard": {
+        "rankings": {
+            "ff-calculator": 87
+        },
+        "player-name": "Jordan Howard",
+        "bye-week": "10"
+    },
+    "Kalen Ballage": {
+        "rankings": {
+            "ff-calculator": 88
+        },
+        "player-name": "Kalen Ballage",
+        "bye-week": "5"
+    },
+    "Dede Westbrook": {
+        "rankings": {
+            "ff-calculator": 89
+        },
+        "player-name": "Dede Westbrook",
+        "bye-week": "10"
+    },
+    "Chicago Defense": {
+        "rankings": {
+            "ff-calculator": 90
+        },
+        "player-name": "Chicago Defense",
+        "bye-week": "6"
+    },
+    "Marvin Jones": {
+        "rankings": {
+            "ff-calculator": 91
+        },
+        "player-name": "Marvin Jones",
+        "bye-week": "5"
+    },
+    "Royce Freeman": {
+        "rankings": {
+            "ff-calculator": 92
+        },
+        "player-name": "Royce Freeman",
+        "bye-week": "10"
+    },
+    "Russell Wilson": {
+        "rankings": {
+            "ff-calculator": 93
+        },
+        "player-name": "Russell Wilson",
+        "bye-week": "11"
+    },
+    "Sammy Watkins": {
+        "rankings": {
+            "ff-calculator": 94
+        },
+        "player-name": "Sammy Watkins",
+        "bye-week": "12"
+    },
+    "Kareem Hunt": {
+        "rankings": {
+            "ff-calculator": 95
+        },
+        "player-name": "Kareem Hunt",
+        "bye-week": "7"
+    },
+    "Dante Pettis": {
+        "rankings": {
+            "ff-calculator": 96
+        },
+        "player-name": "Dante Pettis",
+        "bye-week": "4"
+    },
+    "Cam Newton": {
+        "rankings": {
+            "ff-calculator": 97
+        },
+        "player-name": "Cam Newton",
+        "bye-week": "7"
+    },
+    "Jared Goff": {
+        "rankings": {
+            "ff-calculator": 98
+        },
+        "player-name": "Jared Goff",
+        "bye-week": "9"
+    },
+    "Sterling Shepard": {
+        "rankings": {
+            "ff-calculator": 99
+        },
+        "player-name": "Sterling Shepard",
+        "bye-week": "11"
+    },
+    "Marquez Valdes-Scantling": {
+        "rankings": {
+            "ff-calculator": 100
+        },
+        "player-name": "Marquez Valdes-Scantling",
+        "bye-week": "11"
+    },
+    "LeSean McCoy": {
+        "rankings": {
+            "ff-calculator": 101
+        },
+        "player-name": "LeSean McCoy",
+        "bye-week": "6"
+    },
+    "Adrian Peterson": {
+        "rankings": {
+            "ff-calculator": 102
+        },
+        "player-name": "Adrian Peterson",
+        "bye-week": "10"
+    },
+    "Emmanuel Sanders": {
+        "rankings": {
+            "ff-calculator": 103
+        },
+        "player-name": "Emmanuel Sanders",
+        "bye-week": "10"
+    },
+    "David Njoku": {
+        "rankings": {
+            "ff-calculator": 104
+        },
+        "player-name": "David Njoku",
+        "bye-week": "7"
+    },
+    "Matt Breida": {
+        "rankings": {
+            "ff-calculator": 105
+        },
+        "player-name": "Matt Breida",
+        "bye-week": "4"
+    },
+    "Kyler Murray": {
+        "rankings": {
+            "ff-calculator": 106
+        },
+        "player-name": "Kyler Murray",
+        "bye-week": "12"
+    },
+    "Geronimo Allison": {
+        "rankings": {
+            "ff-calculator": 107
+        },
+        "player-name": "Geronimo Allison",
+        "bye-week": "11"
+    },
+    "Darwin Thompson": {
+        "rankings": {
+            "ff-calculator": 108
+        },
+        "player-name": "Darwin Thompson",
+        "bye-week": "12"
+    },
+    "Peyton Barber": {
+        "rankings": {
+            "ff-calculator": 109
+        },
+        "player-name": "Peyton Barber",
+        "bye-week": "7"
+    },
+    "Philip Rivers": {
+        "rankings": {
+            "ff-calculator": 110
+        },
+        "player-name": "Philip Rivers",
+        "bye-week": "12"
+    },
+    "Corey Davis": {
+        "rankings": {
+            "ff-calculator": 111
+        },
+        "player-name": "Corey Davis",
+        "bye-week": "11"
+    },
+    "Larry Fitzgerald": {
+        "rankings": {
+            "ff-calculator": 112
+        },
+        "player-name": "Larry Fitzgerald",
+        "bye-week": "12"
+    },
+    "James Washington": {
+        "rankings": {
+            "ff-calculator": 113
+        },
+        "player-name": "James Washington",
+        "bye-week": "7"
+    },
+    "Lamar Jackson": {
+        "rankings": {
+            "ff-calculator": 114
+        },
+        "player-name": "Lamar Jackson",
+        "bye-week": "8"
+    },
+    "Jameis Winston": {
+        "rankings": {
+            "ff-calculator": 115
+        },
+        "player-name": "Jameis Winston",
+        "bye-week": "7"
+    },
+    "DeSean Jackson": {
+        "rankings": {
+            "ff-calculator": 116
+        },
+        "player-name": "DeSean Jackson",
+        "bye-week": "10"
+    },
+    "Duke Johnson": {
+        "rankings": {
+            "ff-calculator": 117
+        },
+        "player-name": "Duke Johnson",
+        "bye-week": "10"
+    },
+    "Delanie Walker": {
+        "rankings": {
+            "ff-calculator": 118
+        },
+        "player-name": "Delanie Walker",
+        "bye-week": "11"
+    },
+    "LA Rams Defense": {
+        "rankings": {
+            "ff-calculator": 119
+        },
+        "player-name": "LA Rams Defense",
+        "bye-week": "9"
+    },
+    "Ronald Jones II": {
+        "rankings": {
+            "ff-calculator": 120
+        },
+        "player-name": "Ronald Jones II",
+        "bye-week": "7"
+    },
+    "Jaylen Samuels": {
+        "rankings": {
+            "ff-calculator": 121
+        },
+        "player-name": "Jaylen Samuels",
+        "bye-week": "7"
+    },
+    "Tony Pollard": {
+        "rankings": {
+            "ff-calculator": 122
+        },
+        "player-name": "Tony Pollard",
+        "bye-week": "8"
+    },
+    "Courtland Sutton": {
+        "rankings": {
+            "ff-calculator": 123
+        },
+        "player-name": "Courtland Sutton",
+        "bye-week": "10"
+    },
+    "Tom Brady": {
+        "rankings": {
+            "ff-calculator": 124
+        },
+        "player-name": "Tom Brady",
+        "bye-week": "10"
+    },
+    "Devin Singletary": {
+        "rankings": {
+            "ff-calculator": 125
+        },
+        "player-name": "Devin Singletary",
+        "bye-week": "6"
+    },
+    "Donte Moncrief": {
+        "rankings": {
+            "ff-calculator": 126
+        },
+        "player-name": "Donte Moncrief",
+        "bye-week": "7"
+    },
+    "Jacksonville Defense": {
+        "rankings": {
+            "ff-calculator": 127
+        },
+        "player-name": "Jacksonville Defense",
+        "bye-week": "10"
+    },
+    "Ben Roethlisberger": {
+        "rankings": {
+            "ff-calculator": 128
+        },
+        "player-name": "Ben Roethlisberger",
+        "bye-week": "7"
+    },
+    "Alexander Mattison": {
+        "rankings": {
+            "ff-calculator": 129
+        },
+        "player-name": "Alexander Mattison",
+        "bye-week": "12"
+    },
+    "Justin Jackson": {
+        "rankings": {
+            "ff-calculator": 130
+        },
+        "player-name": "Justin Jackson",
+        "bye-week": "12"
+    },
+    "Tyrell Williams": {
+        "rankings": {
+            "ff-calculator": 131
+        },
+        "player-name": "Tyrell Williams",
+        "bye-week": "6"
+    },
+    "Anthony Miller": {
+        "rankings": {
+            "ff-calculator": 132
+        },
+        "player-name": "Anthony Miller",
+        "bye-week": "6"
+    },
+    "Justice Hill": {
+        "rankings": {
+            "ff-calculator": 133
+        },
+        "player-name": "Justice Hill",
+        "bye-week": "8"
+    },
+    "Baltimore Defense": {
+        "rankings": {
+            "ff-calculator": 134
+        },
+        "player-name": "Baltimore Defense",
+        "bye-week": "8"
+    },
+    "Dak Prescott": {
+        "rankings": {
+            "ff-calculator": 135
+        },
+        "player-name": "Dak Prescott",
+        "bye-week": "8"
+    },
+    "D.K. Metcalf": {
+        "rankings": {
+            "ff-calculator": 136
+        },
+        "player-name": "D.K. Metcalf",
+        "bye-week": "11"
+    },
+    "Damien Harris": {
+        "rankings": {
+            "ff-calculator": 137
+        },
+        "player-name": "Damien Harris",
+        "bye-week": "10"
+    },
+    "Minnesota Defense": {
+        "rankings": {
+            "ff-calculator": 138
+        },
+        "player-name": "Minnesota Defense",
+        "bye-week": "12"
+    },
+    "N'Keal Harry": {
+        "rankings": {
+            "ff-calculator": 139
+        },
+        "player-name": "N'Keal Harry",
+        "bye-week": "10"
+    },
+    "Trey Burton": {
+        "rankings": {
+            "ff-calculator": 140
+        },
+        "player-name": "Trey Burton",
+        "bye-week": "6"
+    },
+    "Kirk Cousins": {
+        "rankings": {
+            "ff-calculator": 141
+        },
+        "player-name": "Kirk Cousins",
+        "bye-week": "12"
+    },
+    "Mark Andrews": {
+        "rankings": {
+            "ff-calculator": 142
+        },
+        "player-name": "Mark Andrews",
+        "bye-week": "8"
+    },
+    "Greg Zuerlein": {
+        "rankings": {
+            "ff-calculator": 143
+        },
+        "player-name": "Greg Zuerlein",
+        "bye-week": "9"
+    },
+    "Carlos Hyde": {
+        "rankings": {
+            "ff-calculator": 144
+        },
+        "player-name": "Carlos Hyde",
+        "bye-week": "12"
+    },
+    "Cleveland Defense": {
+        "rankings": {
+            "ff-calculator": 145
+        },
+        "player-name": "Cleveland Defense",
+        "bye-week": "7"
+    },
+    "John Brown": {
+        "rankings": {
+            "ff-calculator": 146
+        },
+        "player-name": "John Brown",
+        "bye-week": "6"
+    },
+    "Michael Gallup": {
+        "rankings": {
+            "ff-calculator": 147
+        },
+        "player-name": "Michael Gallup",
+        "bye-week": "8"
+    },
+    "LA Chargers Defense": {
+        "rankings": {
+            "ff-calculator": 148
+        },
+        "player-name": "LA Chargers Defense",
+        "bye-week": "12"
+    },
+    "Golden Tate": {
+        "rankings": {
+            "ff-calculator": 149
+        },
+        "player-name": "Golden Tate",
+        "bye-week": "11"
+    },
+    "Justin Tucker": {
+        "rankings": {
+            "ff-calculator": 150
+        },
+        "player-name": "Justin Tucker",
+        "bye-week": "8"
+    },
+    "Keke Coutee": {
+        "rankings": {
+            "ff-calculator": 151
+        },
+        "player-name": "Keke Coutee",
+        "bye-week": "10"
+    },
+    "Austin Hooper": {
+        "rankings": {
+            "ff-calculator": 152
+        },
+        "player-name": "Austin Hooper",
+        "bye-week": "9"
+    },
+    "T.J. Hockenson": {
+        "rankings": {
+            "ff-calculator": 153
+        },
+        "player-name": "T.J. Hockenson",
+        "bye-week": "5"
+    },
+    "Mitch Trubisky": {
+        "rankings": {
+            "ff-calculator": 154
+        },
+        "player-name": "Mitch Trubisky",
+        "bye-week": "6"
+    },
+    "Harrison Butker": {
+        "rankings": {
+            "ff-calculator": 155
+        },
+        "player-name": "Harrison Butker",
+        "bye-week": "12"
+    },
+    "Jamison Crowder": {
+        "rankings": {
+            "ff-calculator": 156
+        },
+        "player-name": "Jamison Crowder",
+        "bye-week": "4"
+    },
+    "Mecole Hardman": {
+        "rankings": {
+            "ff-calculator": 157
+        },
+        "player-name": "Mecole Hardman",
+        "bye-week": "12"
+    },
+    "Josh Allen": {
+        "rankings": {
+            "ff-calculator": 158
+        },
+        "player-name": "Josh Allen",
+        "bye-week": "6"
+    },
+    "Dion Lewis": {
+        "rankings": {
+            "ff-calculator": 159
+        },
+        "player-name": "Dion Lewis",
+        "bye-week": "11"
+    },
+    "Houston Defense": {
+        "rankings": {
+            "ff-calculator": 160
+        },
+        "player-name": "Houston Defense",
+        "bye-week": "10"
+    },
+    "Malcolm Brown": {
+        "rankings": {
+            "ff-calculator": 161
+        },
+        "player-name": "Malcolm Brown",
+        "bye-week": "9"
+    },
+    "Jordan Reed": {
+        "rankings": {
+            "ff-calculator": 162
+        },
+        "player-name": "Jordan Reed",
+        "bye-week": "10"
+    },
+    "Dallas Defense": {
+        "rankings": {
+            "ff-calculator": 163
+        },
+        "player-name": "Dallas Defense",
+        "bye-week": "8"
+    },
+    "Ito Smith": {
+        "rankings": {
+            "ff-calculator": 164
+        },
+        "player-name": "Ito Smith",
+        "bye-week": "9"
+    },
+    "Denver Defense": {
+        "rankings": {
+            "ff-calculator": 165
+        },
+        "player-name": "Denver Defense",
+        "bye-week": "10"
+    },
+    "Wil Lutz": {
+        "rankings": {
+            "ff-calculator": 166
+        },
+        "player-name": "Wil Lutz",
+        "bye-week": "9"
+    },
+    "New England Defense": {
+        "rankings": {
+            "ff-calculator": 167
+        },
+        "player-name": "New England Defense",
+        "bye-week": "10"
+    },
+    "Devin Funchess": {
+        "rankings": {
+            "ff-calculator": 168
+        },
+        "player-name": "Devin Funchess",
+        "bye-week": "6"
+    },
+    "Greg Olsen": {
+        "rankings": {
+            "ff-calculator": 169
+        },
+        "player-name": "Greg Olsen",
+        "bye-week": "7"
+    },
+    "Philadelphia Defense": {
+        "rankings": {
+            "ff-calculator": 170
+        },
+        "player-name": "Philadelphia Defense",
+        "bye-week": "10"
+    },
+    "Jimmy Garoppolo": {
+        "rankings": {
+            "ff-calculator": 171
+        },
+        "player-name": "Jimmy Garoppolo",
+        "bye-week": "4"
+    },
+    "Sam Darnold": {
+        "rankings": {
+            "ff-calculator": 172
+        },
+        "player-name": "Sam Darnold",
+        "bye-week": "4"
+    },
+    "Jimmy Graham": {
+        "rankings": {
+            "ff-calculator": 173
+        },
+        "player-name": "Jimmy Graham",
+        "bye-week": "11"
+    },
+    "Deebo Samuel": {
+        "rankings": {
+            "ff-calculator": 174
+        },
+        "player-name": "Deebo Samuel",
+        "bye-week": "4"
+    },
+    "Marquise Goodwin": {
+        "rankings": {
+            "ff-calculator": 175
+        },
+        "player-name": "Marquise Goodwin",
+        "bye-week": "4"
+    },
+    "Tre'Quan Smith": {
+        "rankings": {
+            "ff-calculator": 176
+        },
+        "player-name": "Tre'Quan Smith",
+        "bye-week": "9"
+    },
+    "Stephen Gostkowski": {
+        "rankings": {
+            "ff-calculator": 177
+        },
+        "player-name": "Stephen Gostkowski",
+        "bye-week": "10"
+    },
+    "Derek Carr": {
+        "rankings": {
+            "ff-calculator": 178
+        },
+        "player-name": "Derek Carr",
+        "bye-week": "6"
+    },
+    "CJ Anderson": {
+        "rankings": {
+            "ff-calculator": 179
+        },
+        "player-name": "CJ Anderson",
+        "bye-week": "5"
+    },
+    "Buffalo Defense": {
+        "rankings": {
+            "ff-calculator": 180
+        },
+        "player-name": "Buffalo Defense",
+        "bye-week": "6"
+    },
+    "Kaimi Fairbairn": {
+        "rankings": {
+            "ff-calculator": 181
+        },
+        "player-name": "Kaimi Fairbairn",
+        "bye-week": "10"
+    },
+    "Jake Elliott": {
+        "rankings": {
+            "ff-calculator": 182
+        },
+        "player-name": "Jake Elliott",
+        "bye-week": "10"
+    },
+    "New Orleans Defense": {
+        "rankings": {
+            "ff-calculator": 183
+        },
+        "player-name": "New Orleans Defense",
+        "bye-week": "9"
+    },
+    "Jerick McKinnon": {
+        "rankings": {
+            "ff-calculator": 184
+        },
+        "player-name": "Jerick McKinnon",
+        "bye-week": "4"
+    },
+    "Giorgio Tavecchio": {
+        "rankings": {
+            "ff-calculator": 185
+        },
+        "player-name": "Giorgio Tavecchio",
+        "bye-week": "9"
+    },
+    "Robbie Gould": {
+        "rankings": {
+            "ff-calculator": 186
+        },
+        "player-name": "Robbie Gould",
+        "bye-week": "4"
+    },
+    "Michael Badgley": {
+        "rankings": {
+            "ff-calculator": 187
+        },
+        "player-name": "Michael Badgley",
+        "bye-week": "12"
+    },
+    "Ty Montgomery": {
+        "rankings": {
+            "ff-calculator": 188
+        },
+        "player-name": "Ty Montgomery",
+        "bye-week": "4"
+    },
+    "Mason Crosby": {
+        "rankings": {
+            "ff-calculator": 189
+        },
+        "player-name": "Mason Crosby",
+        "bye-week": "11"
+    },
+    "Nyheim Hines": {
+        "rankings": {
+            "ff-calculator": 190
+        },
+        "player-name": "Nyheim Hines",
+        "bye-week": "6"
+    },
+    "Adam Vinatieri": {
+        "rankings": {
+            "ff-calculator": 191
+        },
+        "player-name": "Adam Vinatieri",
+        "bye-week": "6"
+    },
+    "Jamaal Williams": {
+        "rankings": {
+            "ff-calculator": 192
+        },
+        "player-name": "Jamaal Williams",
+        "bye-week": "11"
+    },
+    "Matthew Stafford": {
+        "rankings": {
+            "ff-calculator": 193
+        },
+        "player-name": "Matthew Stafford",
+        "bye-week": "5"
+    },
+    "Cole Beasley": {
+        "rankings": {
+            "ff-calculator": 194
+        },
+        "player-name": "Cole Beasley",
+        "bye-week": "6"
+    },
+    "Dan Bailey": {
+        "rankings": {
+            "ff-calculator": 195
+        },
+        "player-name": "Dan Bailey",
+        "bye-week": "12"
+    },
+    "Pittsburgh Defense": {
+        "rankings": {
+            "ff-calculator": 196
+        },
+        "player-name": "Pittsburgh Defense",
+        "bye-week": "7"
+    },
+    "Brett Maher": {
+        "rankings": {
+            "ff-calculator": 197
+        },
+        "player-name": "Brett Maher",
+        "bye-week": "8"
+    },
+    "Miles Boykin": {
+        "rankings": {
+            "ff-calculator": 198
+        },
+        "player-name": "Miles Boykin",
+        "bye-week": "8"
+    },
+    "DeVante Parker": {
+        "rankings": {
+            "ff-calculator": 199
+        },
+        "player-name": "DeVante Parker",
+        "bye-week": "5"
+    },
+    "Kyle Rudolph": {
+        "rankings": {
+            "ff-calculator": 200
+        },
+        "player-name": "Kyle Rudolph",
+        "bye-week": "12"
+    }
+}

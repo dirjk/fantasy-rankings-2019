@@ -1,0 +1,14 @@
+{
+    "player-name": {
+        "bye-week": "string",
+        "team-name": "string",
+        "position": "string",
+        "ranking": "number",
+        "rankings": {
+            "yahoo": "number",
+            "sports-illustrated": "number",
+            "ff-calculator": "number",
+            "fantasy-pros": "number"
+        }
+    }
+}
