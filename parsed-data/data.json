@@ -9,7 +9,7 @@
         "player-name": "Saquon Barkley",
         "bye-week": "11",
         "team-name": "NYG",
-        "position": "RB1",
+        "position": "RB",
         "rank": 1.5
     },
     "Christian McCaffrey": {
@@ -22,7 +22,7 @@
         "player-name": "Christian McCaffrey",
         "bye-week": "7",
         "team-name": "CAR",
-        "position": "RB3",
+        "position": "RB",
         "rank": 3.0
     },
     "Ezekiel Elliott": {
@@ -35,7 +35,7 @@
         "player-name": "Ezekiel Elliott",
         "bye-week": "8",
         "team-name": "DAL",
-        "position": "RB4",
+        "position": "RB",
         "rank": 3.5
     },
     "Alvin Kamara": {
@@ -48,7 +48,7 @@
         "player-name": "Alvin Kamara",
         "bye-week": "9",
         "team-name": "NO",
-        "position": "RB2",
+        "position": "RB",
         "rank": 2.25
     },
     "DeAndre Hopkins": {
@@ -61,7 +61,7 @@
         "player-name": "DeAndre Hopkins",
         "bye-week": "10",
         "team-name": "HOU",
-        "position": "WR1",
+        "position": "WR",
         "rank": 7.0
     },
     "David Johnson": {
@@ -74,7 +74,7 @@
         "player-name": "David Johnson",
         "bye-week": "12",
         "team-name": "ARI",
-        "position": "RB5",
+        "position": "RB",
         "rank": 6.75
     },
     "Nick Chubb": {
@@ -87,7 +87,7 @@
         "player-name": "Nick Chubb",
         "bye-week": "7",
         "team-name": "CLE",
-        "position": "RB6",
+        "position": "RB",
         "rank": 6.0
     },
     "Le'Veon Bell": {
@@ -100,7 +100,7 @@
         "player-name": "Le'Veon Bell",
         "bye-week": "4",
         "team-name": "NYJ",
-        "position": "RB8",
+        "position": "RB",
         "rank": 12.0
     },
     "Davante Adams": {
@@ -113,7 +113,7 @@
         "player-name": "Davante Adams",
         "bye-week": "11",
         "team-name": "GB",
-        "position": "WR2",
+        "position": "WR",
         "rank": 9.75
     },
     "James Conner": {
@@ -126,7 +126,7 @@
         "player-name": "James Conner",
         "bye-week": "7",
         "team-name": "PIT",
-        "position": "RB7",
+        "position": "RB",
         "rank": 8.75
     },
     "Julio Jones": {
@@ -139,7 +139,7 @@
         "player-name": "Julio Jones",
         "bye-week": "9",
         "team-name": "ATL",
-        "position": "WR3",
+        "position": "WR",
         "rank": 10.5
     },
     "Todd Gurley": {
@@ -152,7 +152,7 @@
         "player-name": "Todd Gurley",
         "bye-week": "9",
         "team-name": "LAR",
-        "position": "RB11",
+        "position": "RB",
         "rank": 18.5
     },
     "Michael Thomas": {
@@ -165,7 +165,7 @@
         "player-name": "Michael Thomas",
         "bye-week": "9",
         "team-name": "NO",
-        "position": "WR7",
+        "position": "WR",
         "rank": 15.75
     },
     "Tyreek Hill": {
@@ -178,7 +178,7 @@
         "player-name": "Tyreek Hill",
         "bye-week": "12",
         "team-name": "KC",
-        "position": "WR5",
+        "position": "WR",
         "rank": 16.25
     },
     "Joe Mixon": {
@@ -191,7 +191,7 @@
         "player-name": "Joe Mixon",
         "bye-week": "9",
         "team-name": "CIN",
-        "position": "RB9",
+        "position": "RB",
         "rank": 17.75
     },
     "Dalvin Cook": {
@@ -204,7 +204,7 @@
         "player-name": "Dalvin Cook",
         "bye-week": "12",
         "team-name": "MIN",
-        "position": "RB10",
+        "position": "RB",
         "rank": 16.5
     },
     "Odell Beckham Jr.": {
@@ -217,7 +217,7 @@
         "player-name": "Odell Beckham Jr.",
         "bye-week": "7",
         "team-name": "CLE",
-        "position": "WR4",
+        "position": "WR",
         "rank": 11.5
     },
     "JuJu Smith-Schuster": {
@@ -230,7 +230,7 @@
         "player-name": "JuJu Smith-Schuster",
         "bye-week": "7",
         "team-name": "PIT",
-        "position": "WR6",
+        "position": "WR",
         "rank": 16.25
     },
     "Travis Kelce": {
@@ -243,7 +243,7 @@
         "player-name": "Travis Kelce",
         "bye-week": "12",
         "team-name": "KC",
-        "position": "TE1",
+        "position": "TE",
         "rank": 16.0
     },
     "Pat Mahomes": {
@@ -266,7 +266,7 @@
         "player-name": "Leonard Fournette",
         "bye-week": "10",
         "team-name": "JAX",
-        "position": "RB16",
+        "position": "RB",
         "rank": 32.75
     },
     "Mike Evans": {
@@ -279,7 +279,7 @@
         "player-name": "Mike Evans",
         "bye-week": "7",
         "team-name": "TB",
-        "position": "WR8",
+        "position": "WR",
         "rank": 20.5
     },
     "Damien Williams": {
@@ -292,7 +292,7 @@
         "player-name": "Damien Williams",
         "bye-week": "12",
         "team-name": "KC",
-        "position": "RB14",
+        "position": "RB",
         "rank": 25.25
     },
     "Antonio Brown": {
@@ -305,7 +305,7 @@
         "player-name": "Antonio Brown",
         "bye-week": "6",
         "team-name": "OAK",
-        "position": "WR10",
+        "position": "WR",
         "rank": 23.25
     },
     "Adam Thielen": {
@@ -318,7 +318,7 @@
         "player-name": "Adam Thielen",
         "bye-week": "12",
         "team-name": "MIN",
-        "position": "WR11",
+        "position": "WR",
         "rank": 25.75
     },
     "Kerryon Johnson": {
@@ -331,7 +331,7 @@
         "player-name": "Kerryon Johnson",
         "bye-week": "5",
         "team-name": "DET",
-        "position": "RB13",
+        "position": "RB",
         "rank": 24.5
     },
     "Devonta Freeman": {
@@ -344,7 +344,7 @@
         "player-name": "Devonta Freeman",
         "bye-week": "9",
         "team-name": "ATL",
-        "position": "RB19",
+        "position": "RB",
         "rank": 29.75
     },
     "Aaron Jones": {
@@ -357,7 +357,7 @@
         "player-name": "Aaron Jones",
         "bye-week": "11",
         "team-name": "GB",
-        "position": "RB12",
+        "position": "RB",
         "rank": 20.0
     },
     "Chris Carson": {
@@ -370,7 +370,7 @@
         "player-name": "Chris Carson",
         "bye-week": "11",
         "team-name": "SEA",
-        "position": "RB18",
+        "position": "RB",
         "rank": 29.75
     },
     "Keenan Allen": {
@@ -383,7 +383,7 @@
         "player-name": "Keenan Allen",
         "bye-week": "12",
         "team-name": "LAC",
-        "position": "WR9",
+        "position": "WR",
         "rank": 26.25
     },
     "Josh Jacobs": {
@@ -396,7 +396,7 @@
         "player-name": "Josh Jacobs",
         "bye-week": "6",
         "team-name": "OAK",
-        "position": "RB22",
+        "position": "RB",
         "rank": 42.75
     },
     "David Montgomery": {
@@ -409,7 +409,7 @@
         "player-name": "David Montgomery",
         "bye-week": "6",
         "team-name": "CHI",
-        "position": "RB24",
+        "position": "RB",
         "rank": 39.5
     },
     "George Kittle": {
@@ -422,7 +422,7 @@
         "player-name": "George Kittle",
         "bye-week": "4",
         "team-name": "SF",
-        "position": "TE2",
+        "position": "TE",
         "rank": 27.75
     },
     "Melvin Gordon": {
@@ -435,7 +435,7 @@
         "player-name": "Melvin Gordon",
         "bye-week": "12",
         "team-name": "LAC",
-        "position": "RB20",
+        "position": "RB",
         "rank": 46.25
     },
     "Derrick Henry": {
@@ -448,7 +448,7 @@
         "player-name": "Derrick Henry",
         "bye-week": "11",
         "team-name": "TEN",
-        "position": "RB17",
+        "position": "RB",
         "rank": 35.25
     },
     "Amari Cooper": {
@@ -461,7 +461,7 @@
         "player-name": "Amari Cooper",
         "bye-week": "8",
         "team-name": "DAL",
-        "position": "WR12",
+        "position": "WR",
         "rank": 34.5
     },
     "Stefon Diggs": {
@@ -474,7 +474,7 @@
         "player-name": "Stefon Diggs",
         "bye-week": "12",
         "team-name": "MIN",
-        "position": "WR15",
+        "position": "WR",
         "rank": 35.5
     },
     "Mark Ingram": {
@@ -487,7 +487,7 @@
         "player-name": "Mark Ingram",
         "bye-week": "8",
         "team-name": "BAL",
-        "position": "RB23",
+        "position": "RB",
         "rank": 40.0
     },
     "Sony Michel": {
@@ -500,7 +500,7 @@
         "player-name": "Sony Michel",
         "bye-week": "10",
         "team-name": "NE",
-        "position": "RB21",
+        "position": "RB",
         "rank": 42.25
     },
     "Zach Ertz": {
@@ -513,7 +513,7 @@
         "player-name": "Zach Ertz",
         "bye-week": "10",
         "team-name": "PHI",
-        "position": "TE3",
+        "position": "TE",
         "rank": 35.75
     },
     "Brandin Cooks": {
@@ -526,7 +526,7 @@
         "player-name": "Brandin Cooks",
         "bye-week": "9",
         "team-name": "LAR",
-        "position": "WR13",
+        "position": "WR",
         "rank": 37.5
     },
     "Robert Woods": {
@@ -539,7 +539,7 @@
         "player-name": "Robert Woods",
         "bye-week": "9",
         "team-name": "LAR",
-        "position": "WR16",
+        "position": "WR",
         "rank": 38.75
     },
     "Julian Edelman": {
@@ -552,7 +552,7 @@
         "player-name": "Julian Edelman",
         "bye-week": "10",
         "team-name": "NE",
-        "position": "WR17",
+        "position": "WR",
         "rank": 38.5
     },
     "Chris Godwin": {
@@ -565,7 +565,7 @@
         "player-name": "Chris Godwin",
         "bye-week": "7",
         "team-name": "TB",
-        "position": "WR18",
+        "position": "WR",
         "rank": 43.75
     },
     "Phillip Lindsay": {
@@ -578,7 +578,7 @@
         "player-name": "Phillip Lindsay",
         "bye-week": "10",
         "team-name": "DEN",
-        "position": "RB25",
+        "position": "RB",
         "rank": 55.75
     },
     "Tyler Lockett": {
@@ -591,7 +591,7 @@
         "player-name": "Tyler Lockett",
         "bye-week": "11",
         "team-name": "SEA",
-        "position": "WR19",
+        "position": "WR",
         "rank": 46.75
     },
     "Marlon Mack": {
@@ -604,7 +604,7 @@
         "player-name": "Marlon Mack",
         "bye-week": "6",
         "team-name": "IND",
-        "position": "RB15",
+        "position": "RB",
         "rank": 35.5
     },
     "Tevin Coleman": {
@@ -617,7 +617,7 @@
         "player-name": "Tevin Coleman",
         "bye-week": "4",
         "team-name": "SF",
-        "position": "RB26",
+        "position": "RB",
         "rank": 54.25
     },
     "Deshaun Watson": {
@@ -630,7 +630,7 @@
         "player-name": "Deshaun Watson",
         "bye-week": "10",
         "team-name": "HOU",
-        "position": "QB2",
+        "position": "QB",
         "rank": 51.5
     },
     "Kenny Golladay": {
@@ -643,7 +643,7 @@
         "player-name": "Kenny Golladay",
         "bye-week": "5",
         "team-name": "DET",
-        "position": "WR20",
+        "position": "WR",
         "rank": 43.25
     },
     "Miles Sanders": {
@@ -656,7 +656,7 @@
         "player-name": "Miles Sanders",
         "bye-week": "10",
         "team-name": "PHI",
-        "position": "RB30",
+        "position": "RB",
         "rank": 58.0
     },
     "Cooper Kupp": {
@@ -669,7 +669,7 @@
         "player-name": "Cooper Kupp",
         "bye-week": "9",
         "team-name": "LAR",
-        "position": "WR21",
+        "position": "WR",
         "rank": 51.75
     },
     "A.J. Green": {
@@ -682,7 +682,7 @@
         "player-name": "A.J. Green",
         "bye-week": "9",
         "team-name": "CIN",
-        "position": "WR30",
+        "position": "WR",
         "rank": 74.5
     },
     "T.Y. Hilton": {
@@ -695,7 +695,7 @@
         "player-name": "T.Y. Hilton",
         "bye-week": "6",
         "team-name": "IND",
-        "position": "WR14",
+        "position": "WR",
         "rank": 39.25
     },
     "Mike Williams": {
@@ -708,7 +708,7 @@
         "player-name": "Mike Williams",
         "bye-week": "12",
         "team-name": "LAC",
-        "position": "WR22",
+        "position": "WR",
         "rank": 52.25
     },
     "Calvin Ridley": {
@@ -721,7 +721,7 @@
         "player-name": "Calvin Ridley",
         "bye-week": "9",
         "team-name": "ATL",
-        "position": "WR25",
+        "position": "WR",
         "rank": 54.0
     },
     "Aaron Rodgers": {
@@ -734,7 +734,7 @@
         "player-name": "Aaron Rodgers",
         "bye-week": "11",
         "team-name": "GB",
-        "position": "QB3",
+        "position": "QB",
         "rank": 58.0
     },
     "O.J. Howard": {
@@ -747,7 +747,7 @@
         "player-name": "O.J. Howard",
         "bye-week": "7",
         "team-name": "TB",
-        "position": "TE4",
+        "position": "TE",
         "rank": 57.75
     },
     "Lamar Miller": {
@@ -771,7 +771,7 @@
         "player-name": "Tyler Boyd",
         "bye-week": "9",
         "team-name": "CIN",
-        "position": "WR23",
+        "position": "WR",
         "rank": 56.25
     },
     "Evan Engram": {
@@ -784,7 +784,7 @@
         "player-name": "Evan Engram",
         "bye-week": "11",
         "team-name": "NYG",
-        "position": "TE5",
+        "position": "TE",
         "rank": 67.5
     },
     "Austin Ekeler": {
@@ -797,7 +797,7 @@
         "player-name": "Austin Ekeler",
         "bye-week": "12",
         "team-name": "LAC",
-        "position": "RB35",
+        "position": "RB",
         "rank": 78.0
     },
     "James White": {
@@ -810,7 +810,7 @@
         "player-name": "James White",
         "bye-week": "10",
         "team-name": "NE",
-        "position": "RB27",
+        "position": "RB",
         "rank": 66.5
     },
     "Latavius Murray": {
@@ -823,7 +823,7 @@
         "player-name": "Latavius Murray",
         "bye-week": "9",
         "team-name": "NO",
-        "position": "RB28",
+        "position": "RB",
         "rank": 70.75
     },
     "D.J. Moore": {
@@ -836,7 +836,7 @@
         "player-name": "D.J. Moore",
         "bye-week": "7",
         "team-name": "CAR",
-        "position": "WR24",
+        "position": "WR",
         "rank": 64.25
     },
     "Baker Mayfield": {
@@ -849,7 +849,7 @@
         "player-name": "Baker Mayfield",
         "bye-week": "7",
         "team-name": "CLE",
-        "position": "QB4",
+        "position": "QB",
         "rank": 63.75
     },
     "Hunter Henry": {
@@ -862,7 +862,7 @@
         "player-name": "Hunter Henry",
         "bye-week": "12",
         "team-name": "LAC",
-        "position": "TE6",
+        "position": "TE",
         "rank": 66.25
     },
     "Derrius Guice": {
@@ -875,7 +875,7 @@
         "player-name": "Derrius Guice",
         "bye-week": "10",
         "team-name": "WAS",
-        "position": "RB34",
+        "position": "RB",
         "rank": 74.75
     },
     "Robby Anderson": {
@@ -888,7 +888,7 @@
         "player-name": "Robby Anderson",
         "bye-week": "4",
         "team-name": "NYJ",
-        "position": "WR28",
+        "position": "WR",
         "rank": 56.75
     },
     "Alshon Jeffery": {
@@ -901,7 +901,7 @@
         "player-name": "Alshon Jeffery",
         "bye-week": "10",
         "team-name": "PHI",
-        "position": "WR26",
+        "position": "WR",
         "rank": 58.5
     },
     "Jarvis Landry": {
@@ -914,7 +914,7 @@
         "player-name": "Jarvis Landry",
         "bye-week": "7",
         "team-name": "CLE",
-        "position": "WR31",
+        "position": "WR",
         "rank": 73.0
     },
     "Josh Gordon": {
@@ -927,7 +927,7 @@
         "player-name": "Josh Gordon",
         "bye-week": "10",
         "team-name": "NE",
-        "position": "WR29",
+        "position": "WR",
         "rank": 67.25
     },
     "Matt Ryan": {
@@ -940,7 +940,7 @@
         "player-name": "Matt Ryan",
         "bye-week": "9",
         "team-name": "ATL",
-        "position": "QB5",
+        "position": "QB",
         "rank": 71.25
     },
     "Will Fuller": {
@@ -953,7 +953,7 @@
         "player-name": "Will Fuller",
         "bye-week": "10",
         "team-name": "HOU",
-        "position": "WR33",
+        "position": "WR",
         "rank": 70.0
     },
     "Carson Wentz": {
@@ -966,7 +966,7 @@
         "player-name": "Carson Wentz",
         "bye-week": "10",
         "team-name": "PHI",
-        "position": "QB7",
+        "position": "QB",
         "rank": 74.75
     },
     "Allen Robinson": {
@@ -979,7 +979,7 @@
         "player-name": "Allen Robinson",
         "bye-week": "6",
         "team-name": "CHI",
-        "position": "WR27",
+        "position": "WR",
         "rank": 54.0
     },
     "Jared Cook": {
@@ -992,7 +992,7 @@
         "player-name": "Jared Cook",
         "bye-week": "9",
         "team-name": "NO",
-        "position": "TE7",
+        "position": "TE",
         "rank": 87.0
     },
     "Kenyan Drake": {
@@ -1005,7 +1005,7 @@
         "player-name": "Kenyan Drake",
         "bye-week": "5",
         "team-name": "MIA",
-        "position": "RB31",
+        "position": "RB",
         "rank": 82.0
     },
     "Tarik Cohen": {
@@ -1018,7 +1018,7 @@
         "player-name": "Tarik Cohen",
         "bye-week": "6",
         "team-name": "CHI",
-        "position": "RB33",
+        "position": "RB",
         "rank": 84.25
     },
     "Curtis Samuel": {
@@ -1031,7 +1031,7 @@
         "player-name": "Curtis Samuel",
         "bye-week": "7",
         "team-name": "CAR",
-        "position": "WR34",
+        "position": "WR",
         "rank": 76.0
     },
     "Drew Brees": {
@@ -1044,7 +1044,7 @@
         "player-name": "Drew Brees",
         "bye-week": "9",
         "team-name": "NO",
-        "position": "QB9",
+        "position": "QB",
         "rank": 86.75
     },
     "Rashaad Penny": {
@@ -1057,7 +1057,7 @@
         "player-name": "Rashaad Penny",
         "bye-week": "11",
         "team-name": "SEA",
-        "position": "RB32",
+        "position": "RB",
         "rank": 99.75
     },
     "Vance McDonald": {
@@ -1070,7 +1070,7 @@
         "player-name": "Vance McDonald",
         "bye-week": "7",
         "team-name": "PIT",
-        "position": "TE8",
+        "position": "TE",
         "rank": 94.25
     },
     "Christian Kirk": {
@@ -1083,7 +1083,7 @@
         "player-name": "Christian Kirk",
         "bye-week": "12",
         "team-name": "ARI",
-        "position": "WR36",
+        "position": "WR",
         "rank": 78.25
     },
     "Darrell Henderson": {
@@ -1096,7 +1096,7 @@
         "player-name": "Darrell Henderson",
         "bye-week": "9",
         "team-name": "LAR",
-        "position": "RB40",
+        "position": "RB",
         "rank": 107.5
     },
     "Eric Ebron": {
@@ -1109,7 +1109,7 @@
         "player-name": "Eric Ebron",
         "bye-week": "6",
         "team-name": "IND",
-        "position": "TE10",
+        "position": "TE",
         "rank": 111.75
     },
     "Jordan Howard": {
@@ -1122,7 +1122,7 @@
         "player-name": "Jordan Howard",
         "bye-week": "10",
         "team-name": "PHI",
-        "position": "RB37",
+        "position": "RB",
         "rank": 109.5
     },
     "Kalen Ballage": {
@@ -1135,7 +1135,7 @@
         "player-name": "Kalen Ballage",
         "bye-week": "5",
         "team-name": "MIA",
-        "position": "RB39",
+        "position": "RB",
         "rank": 113.5
     },
     "Dede Westbrook": {
@@ -1148,7 +1148,7 @@
         "player-name": "Dede Westbrook",
         "bye-week": "10",
         "team-name": "JAX",
-        "position": "WR39",
+        "position": "WR",
         "rank": 85.5
     },
     "Chicago": {
@@ -1161,7 +1161,7 @@
         "player-name": "Chicago",
         "bye-week": "6",
         "team-name": "CHI",
-        "position": "DST1",
+        "position": "DST",
         "rank": 135.75
     },
     "Marvin Jones": {
@@ -1174,7 +1174,7 @@
         "player-name": "Marvin Jones",
         "bye-week": "5",
         "team-name": "DET",
-        "position": "WR35",
+        "position": "WR",
         "rank": 87.75
     },
     "Royce Freeman": {
@@ -1187,7 +1187,7 @@
         "player-name": "Royce Freeman",
         "bye-week": "10",
         "team-name": "DEN",
-        "position": "RB36",
+        "position": "RB",
         "rank": 87.5
     },
     "Russell Wilson": {
@@ -1200,7 +1200,7 @@
         "player-name": "Russell Wilson",
         "bye-week": "11",
         "team-name": "SEA",
-        "position": "QB8",
+        "position": "QB",
         "rank": 84.75
     },
     "Sammy Watkins": {
@@ -1213,7 +1213,7 @@
         "player-name": "Sammy Watkins",
         "bye-week": "12",
         "team-name": "KC",
-        "position": "WR32",
+        "position": "WR",
         "rank": 86.0
     },
     "Kareem Hunt": {
@@ -1226,7 +1226,7 @@
         "player-name": "Kareem Hunt",
         "bye-week": "7",
         "team-name": "CLE",
-        "position": "RB53",
+        "position": "RB",
         "rank": 148.5
     },
     "Dante Pettis": {
@@ -1239,7 +1239,7 @@
         "player-name": "Dante Pettis",
         "bye-week": "4",
         "team-name": "SF",
-        "position": "WR38",
+        "position": "WR",
         "rank": 106.5
     },
     "Cam Newton": {
@@ -1252,7 +1252,7 @@
         "player-name": "Cam Newton",
         "bye-week": "7",
         "team-name": "CAR",
-        "position": "QB6",
+        "position": "QB",
         "rank": 84.25
     },
     "Jared Goff": {
@@ -1265,7 +1265,7 @@
         "player-name": "Jared Goff",
         "bye-week": "9",
         "team-name": "LAR",
-        "position": "QB10",
+        "position": "QB",
         "rank": 99.5
     },
     "Sterling Shepard": {
@@ -1278,7 +1278,7 @@
         "player-name": "Sterling Shepard",
         "bye-week": "11",
         "team-name": "NYG",
-        "position": "WR40",
+        "position": "WR",
         "rank": 93.0
     },
     "Marquez Valdes-Scantling": {
@@ -1291,7 +1291,7 @@
         "player-name": "Marquez Valdes-Scantling",
         "bye-week": "11",
         "team-name": "GB",
-        "position": "WR45",
+        "position": "WR",
         "rank": 110.75
     },
     "LeSean McCoy": {
@@ -1304,7 +1304,7 @@
         "player-name": "LeSean McCoy",
         "bye-week": "6",
         "team-name": "BUF",
-        "position": "RB41",
+        "position": "RB",
         "rank": 116.0
     },
     "Adrian Peterson": {
@@ -1317,7 +1317,7 @@
         "player-name": "Adrian Peterson",
         "bye-week": "10",
         "team-name": "WAS",
-        "position": "RB43",
+        "position": "RB",
         "rank": 130.0
     },
     "Emmanuel Sanders": {
@@ -1330,7 +1330,7 @@
         "player-name": "Emmanuel Sanders",
         "bye-week": "10",
         "team-name": "DEN",
-        "position": "WR47",
+        "position": "WR",
         "rank": 100.0
     },
     "David Njoku": {
@@ -1343,7 +1343,7 @@
         "player-name": "David Njoku",
         "bye-week": "7",
         "team-name": "CLE",
-        "position": "TE9",
+        "position": "TE",
         "rank": 111.5
     },
     "Matt Breida": {
@@ -1356,7 +1356,7 @@
         "player-name": "Matt Breida",
         "bye-week": "4",
         "team-name": "SF",
-        "position": "RB38",
+        "position": "RB",
         "rank": 109.5
     },
     "Kyler Murray": {
@@ -1369,7 +1369,7 @@
         "player-name": "Kyler Murray",
         "bye-week": "12",
         "team-name": "ARI",
-        "position": "QB12",
+        "position": "QB",
         "rank": 92.75
     },
     "Geronimo Allison": {
@@ -1382,7 +1382,7 @@
         "player-name": "Geronimo Allison",
         "bye-week": "11",
         "team-name": "GB",
-        "position": "WR43",
+        "position": "WR",
         "rank": 108.5
     },
     "Darwin Thompson": {
@@ -1395,7 +1395,7 @@
         "player-name": "Darwin Thompson",
         "bye-week": "12",
         "team-name": "KC",
-        "position": "RB58",
+        "position": "RB",
         "rank": 144.5
     },
     "Peyton Barber": {
@@ -1408,7 +1408,7 @@
         "player-name": "Peyton Barber",
         "bye-week": "7",
         "team-name": "TB",
-        "position": "RB42",
+        "position": "RB",
         "rank": 123.0
     },
     "Philip Rivers": {
@@ -1421,7 +1421,7 @@
         "player-name": "Philip Rivers",
         "bye-week": "12",
         "team-name": "LAC",
-        "position": "QB16",
+        "position": "QB",
         "rank": 113.25
     },
     "Corey Davis": {
@@ -1434,7 +1434,7 @@
         "player-name": "Corey Davis",
         "bye-week": "11",
         "team-name": "TEN",
-        "position": "WR37",
+        "position": "WR",
         "rank": 93.25
     },
     "Larry Fitzgerald": {
@@ -1447,7 +1447,7 @@
         "player-name": "Larry Fitzgerald",
         "bye-week": "12",
         "team-name": "ARI",
-        "position": "WR42",
+        "position": "WR",
         "rank": 96.5
     },
     "James Washington": {
@@ -1460,7 +1460,7 @@
         "player-name": "James Washington",
         "bye-week": "7",
         "team-name": "PIT",
-        "position": "WR54",
+        "position": "WR",
         "rank": 132.75
     },
     "Lamar Jackson": {
@@ -1473,7 +1473,7 @@
         "player-name": "Lamar Jackson",
         "bye-week": "8",
         "team-name": "BAL",
-        "position": "QB13",
+        "position": "QB",
         "rank": 100.5
     },
     "Jameis Winston": {
@@ -1486,7 +1486,7 @@
         "player-name": "Jameis Winston",
         "bye-week": "7",
         "team-name": "TB",
-        "position": "QB11",
+        "position": "QB",
         "rank": 99.0
     },
     "DeSean Jackson": {
@@ -1499,7 +1499,7 @@
         "player-name": "DeSean Jackson",
         "bye-week": "10",
         "team-name": "PHI",
-        "position": "WR44",
+        "position": "WR",
         "rank": 113.75
     },
     "Duke Johnson": {
@@ -1512,7 +1512,7 @@
         "player-name": "Duke Johnson",
         "bye-week": "10",
         "team-name": "HOU",
-        "position": "RB29",
+        "position": "RB",
         "rank": 91.25
     },
     "Delanie Walker": {
@@ -1525,7 +1525,7 @@
         "player-name": "Delanie Walker",
         "bye-week": "11",
         "team-name": "TEN",
-        "position": "TE12",
+        "position": "TE",
         "rank": 116.25
     },
     "LA Rams": {
@@ -1538,7 +1538,7 @@
         "player-name": "LA Rams",
         "bye-week": "9",
         "team-name": "LAR",
-        "position": "DST2",
+        "position": "DST",
         "rank": 146.25
     },
     "Ronald Jones II": {
@@ -1551,7 +1551,7 @@
         "player-name": "Ronald Jones II",
         "bye-week": "7",
         "team-name": "TB",
-        "position": "RB44",
+        "position": "RB",
         "rank": 121.25
     },
     "Jaylen Samuels": {
@@ -1564,7 +1564,7 @@
         "player-name": "Jaylen Samuels",
         "bye-week": "7",
         "team-name": "PIT",
-        "position": "RB48",
+        "position": "RB",
         "rank": 141.5
     },
     "Tony Pollard": {
@@ -1577,7 +1577,7 @@
         "player-name": "Tony Pollard",
         "bye-week": "8",
         "team-name": "DAL",
-        "position": "RB62",
+        "position": "RB",
         "rank": 154.75
     },
     "Courtland Sutton": {
@@ -1590,7 +1590,7 @@
         "player-name": "Courtland Sutton",
         "bye-week": "10",
         "team-name": "DEN",
-        "position": "WR41",
+        "position": "WR",
         "rank": 103.5
     },
     "Tom Brady": {
@@ -1603,7 +1603,7 @@
         "player-name": "Tom Brady",
         "bye-week": "10",
         "team-name": "NE",
-        "position": "QB17",
+        "position": "QB",
         "rank": 119.25
     },
     "Devin Singletary": {
@@ -1616,7 +1616,7 @@
         "player-name": "Devin Singletary",
         "bye-week": "6",
         "team-name": "BUF",
-        "position": "RB47",
+        "position": "RB",
         "rank": 139.5
     },
     "Donte Moncrief": {
@@ -1629,7 +1629,7 @@
         "player-name": "Donte Moncrief",
         "bye-week": "7",
         "team-name": "PIT",
-        "position": "WR49",
+        "position": "WR",
         "rank": 134.0
     },
     "Jacksonville": {
@@ -1642,7 +1642,7 @@
         "player-name": "Jacksonville",
         "bye-week": "10",
         "team-name": "JAX",
-        "position": "DST3",
+        "position": "DST",
         "rank": 150.0
     },
     "Ben Roethlisberger": {
@@ -1655,7 +1655,7 @@
         "player-name": "Ben Roethlisberger",
         "bye-week": "7",
         "team-name": "PIT",
-        "position": "QB14",
+        "position": "QB",
         "rank": 111.0
     },
     "Alexander Mattison": {
@@ -1667,7 +1667,7 @@
         "player-name": "Alexander Mattison",
         "bye-week": "12",
         "team-name": "MIN",
-        "position": "RB55",
+        "position": "RB",
         "rank": 150.66666666666666
     },
     "Justin Jackson": {
@@ -1680,7 +1680,7 @@
         "player-name": "Justin Jackson",
         "bye-week": "12",
         "team-name": "LAC",
-        "position": "RB46",
+        "position": "RB",
         "rank": 143.0
     },
     "Tyrell Williams": {
@@ -1693,7 +1693,7 @@
         "player-name": "Tyrell Williams",
         "bye-week": "6",
         "team-name": "OAK",
-        "position": "WR51",
+        "position": "WR",
         "rank": 126.5
     },
     "Anthony Miller": {
@@ -1706,7 +1706,7 @@
         "player-name": "Anthony Miller",
         "bye-week": "6",
         "team-name": "CHI",
-        "position": "WR46",
+        "position": "WR",
         "rank": 114.25
     },
     "Justice Hill": {
@@ -1719,7 +1719,7 @@
         "player-name": "Justice Hill",
         "bye-week": "8",
         "team-name": "BAL",
-        "position": "RB50",
+        "position": "RB",
         "rank": 146.5
     },
     "Baltimore": {
@@ -1732,7 +1732,7 @@
         "player-name": "Baltimore",
         "bye-week": "8",
         "team-name": "BAL",
-        "position": "DST4",
+        "position": "DST",
         "rank": 161.75
     },
     "Dak Prescott": {
@@ -1745,7 +1745,7 @@
         "player-name": "Dak Prescott",
         "bye-week": "8",
         "team-name": "DAL",
-        "position": "QB15",
+        "position": "QB",
         "rank": 110.25
     },
     "D.K. Metcalf": {
@@ -1758,7 +1758,7 @@
         "player-name": "D.K. Metcalf",
         "bye-week": "11",
         "team-name": "SEA",
-        "position": "WR58",
+        "position": "WR",
         "rank": 148.25
     },
     "Damien Harris": {
@@ -1771,7 +1771,7 @@
         "player-name": "Damien Harris",
         "bye-week": "10",
         "team-name": "NE",
-        "position": "RB51",
+        "position": "RB",
         "rank": 144.75
     },
     "Minnesota": {
@@ -1784,7 +1784,7 @@
         "player-name": "Minnesota",
         "bye-week": "12",
         "team-name": "MIN",
-        "position": "DST5",
+        "position": "DST",
         "rank": 155.75
     },
     "N'Keal Harry": {
@@ -1797,7 +1797,7 @@
         "player-name": "N'Keal Harry",
         "bye-week": "10",
         "team-name": "NE",
-        "position": "WR59",
+        "position": "WR",
         "rank": 176.0
     },
     "Trey Burton": {
@@ -1810,7 +1810,7 @@
         "player-name": "Trey Burton",
         "bye-week": "6",
         "team-name": "CHI",
-        "position": "TE13",
+        "position": "TE",
         "rank": 136.75
     },
     "Kirk Cousins": {
@@ -1823,7 +1823,7 @@
         "player-name": "Kirk Cousins",
         "bye-week": "12",
         "team-name": "MIN",
-        "position": "QB19",
+        "position": "QB",
         "rank": 124.5
     },
     "Mark Andrews": {
@@ -1836,7 +1836,7 @@
         "player-name": "Mark Andrews",
         "bye-week": "8",
         "team-name": "BAL",
-        "position": "TE14",
+        "position": "TE",
         "rank": 130.75
     },
     "Greg Zuerlein": {
@@ -1849,7 +1849,7 @@
         "player-name": "Greg Zuerlein",
         "bye-week": "9",
         "team-name": "LAR",
-        "position": "K1",
+        "position": "PK",
         "rank": 165.5
     },
     "Carlos Hyde": {
@@ -1861,7 +1861,7 @@
         "player-name": "Carlos Hyde",
         "bye-week": "12",
         "team-name": "KC",
-        "position": "RB57",
+        "position": "RB",
         "rank": 172.33333333333334
     },
     "Cleveland": {
@@ -1874,7 +1874,7 @@
         "player-name": "Cleveland",
         "bye-week": "7",
         "team-name": "CLE",
-        "position": "DST8",
+        "position": "DST",
         "rank": 163.75
     },
     "John Brown": {
@@ -1887,7 +1887,7 @@
         "player-name": "John Brown",
         "bye-week": "6",
         "team-name": "BUF",
-        "position": "WR50",
+        "position": "WR",
         "rank": 129.75
     },
     "Michael Gallup": {
@@ -1900,7 +1900,7 @@
         "player-name": "Michael Gallup",
         "bye-week": "8",
         "team-name": "DAL",
-        "position": "WR48",
+        "position": "WR",
         "rank": 117.0
     },
     "LA Chargers": {
@@ -1913,7 +1913,7 @@
         "player-name": "LA Chargers",
         "bye-week": "12",
         "team-name": "LAC",
-        "position": "DST6",
+        "position": "DST",
         "rank": 160.5
     },
     "Golden Tate": {
@@ -1926,7 +1926,7 @@
         "player-name": "Golden Tate",
         "bye-week": "11",
         "team-name": "NYG",
-        "position": "WR56",
+        "position": "WR",
         "rank": 158.75
     },
     "Justin Tucker": {
@@ -1939,7 +1939,7 @@
         "player-name": "Justin Tucker",
         "bye-week": "8",
         "team-name": "BAL",
-        "position": "K2",
+        "position": "PK",
         "rank": 170.75
     },
     "Keke Coutee": {
@@ -1952,7 +1952,7 @@
         "player-name": "Keke Coutee",
         "bye-week": "10",
         "team-name": "HOU",
-        "position": "WR52",
+        "position": "WR",
         "rank": 140.0
     },
     "Austin Hooper": {
@@ -1965,7 +1965,7 @@
         "player-name": "Austin Hooper",
         "bye-week": "9",
         "team-name": "ATL",
-        "position": "TE11",
+        "position": "TE",
         "rank": 135.5
     },
     "T.J. Hockenson": {
@@ -1978,7 +1978,7 @@
         "player-name": "T.J. Hockenson",
         "bye-week": "5",
         "team-name": "DET",
-        "position": "TE21",
+        "position": "TE",
         "rank": 176.5
     },
     "Mitch Trubisky": {
@@ -1991,7 +1991,7 @@
         "player-name": "Mitch Trubisky",
         "bye-week": "6",
         "team-name": "CHI",
-        "position": "QB18",
+        "position": "QB",
         "rank": 131.0
     },
     "Harrison Butker": {
@@ -2004,7 +2004,7 @@
         "player-name": "Harrison Butker",
         "bye-week": "12",
         "team-name": "KC",
-        "position": "K3",
+        "position": "PK",
         "rank": 175.0
     },
     "Jamison Crowder": {
@@ -2017,7 +2017,7 @@
         "player-name": "Jamison Crowder",
         "bye-week": "4",
         "team-name": "NYJ",
-        "position": "WR57",
+        "position": "WR",
         "rank": 128.75
     },
     "Mecole Hardman": {
@@ -2030,7 +2030,7 @@
         "player-name": "Mecole Hardman",
         "bye-week": "12",
         "team-name": "KC",
-        "position": "WR72",
+        "position": "WR",
         "rank": 194.0
     },
     "Josh Allen": {
@@ -2043,7 +2043,7 @@
         "player-name": "Josh Allen",
         "bye-week": "6",
         "team-name": "BUF",
-        "position": "QB20",
+        "position": "QB",
         "rank": 135.0
     },
     "Dion Lewis": {
@@ -2056,7 +2056,7 @@
         "player-name": "Dion Lewis",
         "bye-week": "11",
         "team-name": "TEN",
-        "position": "RB45",
+        "position": "RB",
         "rank": 142.0
     },
     "Houston": {
@@ -2069,7 +2069,7 @@
         "player-name": "Houston",
         "bye-week": "10",
         "team-name": "HOU",
-        "position": "DST7",
+        "position": "DST",
         "rank": 165.75
     },
     "Malcolm Brown": {
@@ -2082,7 +2082,7 @@
         "player-name": "Malcolm Brown",
         "bye-week": "9",
         "team-name": "LAR",
-        "position": "RB64",
+        "position": "RB",
         "rank": 197.25
     },
     "Jordan Reed": {
@@ -2095,7 +2095,7 @@
         "player-name": "Jordan Reed",
         "bye-week": "10",
         "team-name": "WAS",
-        "position": "TE15",
+        "position": "TE",
         "rank": 154.0
     },
     "Dallas": {
@@ -2120,7 +2120,7 @@
         "player-name": "Ito Smith",
         "bye-week": "9",
         "team-name": "ATL",
-        "position": "RB52",
+        "position": "RB",
         "rank": 162.25
     },
     "Denver": {
@@ -2169,7 +2169,7 @@
         "player-name": "Devin Funchess",
         "bye-week": "6",
         "team-name": "IND",
-        "position": "WR55",
+        "position": "WR",
         "rank": 137.75
     },
     "Greg Olsen": {
@@ -2182,7 +2182,7 @@
         "player-name": "Greg Olsen",
         "bye-week": "7",
         "team-name": "CAR",
-        "position": "TE16",
+        "position": "TE",
         "rank": 160.25
     },
     "Philadelphia": {
@@ -2207,7 +2207,7 @@
         "player-name": "Jimmy Garoppolo",
         "bye-week": "4",
         "team-name": "SF",
-        "position": "QB21",
+        "position": "QB",
         "rank": 140.25
     },
     "Sam Darnold": {
@@ -2220,7 +2220,7 @@
         "player-name": "Sam Darnold",
         "bye-week": "4",
         "team-name": "NYJ",
-        "position": "QB22",
+        "position": "QB",
         "rank": 144.0
     },
     "Jimmy Graham": {
@@ -2233,7 +2233,7 @@
         "player-name": "Jimmy Graham",
         "bye-week": "11",
         "team-name": "GB",
-        "position": "TE17",
+        "position": "TE",
         "rank": 167.5
     },
     "Deebo Samuel": {
@@ -2246,7 +2246,7 @@
         "player-name": "Deebo Samuel",
         "bye-week": "4",
         "team-name": "SF",
-        "position": "WR65",
+        "position": "WR",
         "rank": 156.75
     },
     "Marquise Goodwin": {
@@ -2259,7 +2259,7 @@
         "player-name": "Marquise Goodwin",
         "bye-week": "4",
         "team-name": "SF",
-        "position": "WR61",
+        "position": "WR",
         "rank": 140.0
     },
     "Tre'Quan Smith": {
@@ -2272,7 +2272,7 @@
         "player-name": "Tre'Quan Smith",
         "bye-week": "9",
         "team-name": "NO",
-        "position": "WR60",
+        "position": "WR",
         "rank": 155.75
     },
     "Stephen Gostkowski": {
@@ -2297,7 +2297,7 @@
         "player-name": "Derek Carr",
         "bye-week": "6",
         "team-name": "OAK",
-        "position": "QB24",
+        "position": "QB",
         "rank": 154.0
     },
     "C.J. Anderson": {
@@ -2310,7 +2310,7 @@
         "player-name": "C.J. Anderson",
         "bye-week": "5",
         "team-name": "DET",
-        "position": "RB54",
+        "position": "RB",
         "rank": 181.25
     },
     "Buffalo": {
@@ -2359,7 +2359,7 @@
         "player-name": "New Orleans",
         "bye-week": "9",
         "team-name": "NO",
-        "position": "DST9",
+        "position": "DST",
         "rank": 188.5
     },
     "Jerick McKinnon": {
@@ -2371,7 +2371,7 @@
         "player-name": "Jerick McKinnon",
         "bye-week": "4",
         "team-name": "SF",
-        "position": "RB65",
+        "position": "RB",
         "rank": 206.33333333333334
     },
     "Giorgio Tavecchio": {
@@ -2443,7 +2443,7 @@
         "player-name": "Nyheim Hines",
         "bye-week": "6",
         "team-name": "IND",
-        "position": "RB49",
+        "position": "RB",
         "rank": 151.75
     },
     "Adam Vinatieri": {
@@ -2467,7 +2467,7 @@
         "player-name": "Jamaal Williams",
         "bye-week": "11",
         "team-name": "GB",
-        "position": "RB60",
+        "position": "RB",
         "rank": 178.0
     },
     "Matthew Stafford": {
@@ -2480,7 +2480,7 @@
         "player-name": "Matthew Stafford",
         "bye-week": "5",
         "team-name": "DET",
-        "position": "QB23",
+        "position": "QB",
         "rank": 155.25
     },
     "Cole Beasley": {
@@ -2550,7 +2550,7 @@
         "player-name": "Devante Parker",
         "bye-week": "5",
         "team-name": "MIA",
-        "position": "WR67",
+        "position": "WR",
         "rank": 196.25
     },
     "Kyle Rudolph": {
@@ -2563,7 +2563,7 @@
         "player-name": "Kyle Rudolph",
         "bye-week": "12",
         "team-name": "MIN",
-        "position": "TE18",
+        "position": "TE",
         "rank": 179.5
     },
     "Patrick Mahomes": {
@@ -2574,7 +2574,7 @@
         },
         "player-name": "Patrick Mahomes",
         "team-name": "KC",
-        "position": "QB1",
+        "position": "QB",
         "rank": 46.333333333333336
     },
     "DaeSean Hamilton": {
@@ -2585,7 +2585,7 @@
         },
         "player-name": "DaeSean Hamilton",
         "team-name": "DEN",
-        "position": "WR62",
+        "position": "WR",
         "rank": 156.66666666666666
     },
     "Jack Doyle": {
@@ -2596,7 +2596,7 @@
         },
         "player-name": "Jack Doyle",
         "team-name": "IND",
-        "position": "TE19",
+        "position": "TE",
         "rank": 180.33333333333334
     },
     "Chris Herndon IV": {
@@ -2607,7 +2607,7 @@
         },
         "player-name": "Chris Herndon IV",
         "team-name": "NYJ",
-        "position": "TE20",
+        "position": "TE",
         "rank": 167.0
     },
     "Dallas Goedert": {
@@ -2618,7 +2618,7 @@
         },
         "player-name": "Dallas Goedert",
         "team-name": "PHI",
-        "position": "TE22",
+        "position": "TE",
         "rank": 182.66666666666666
     },
     "Kenny Stills": {
@@ -2629,7 +2629,7 @@
         },
         "player-name": "Kenny Stills",
         "team-name": "MIA",
-        "position": "WR53",
+        "position": "WR",
         "rank": 150.66666666666666
     },
     "Nick Foles": {
@@ -2640,7 +2640,7 @@
         },
         "player-name": "Nick Foles",
         "team-name": "JAC",
-        "position": "QB27",
+        "position": "QB",
         "rank": 165.33333333333334
     },
     "Andy Dalton": {
@@ -2651,7 +2651,7 @@
         },
         "player-name": "Andy Dalton",
         "team-name": "CIN",
-        "position": "QB26",
+        "position": "QB",
         "rank": 200.33333333333334
     },
     "Mohamed Sanu": {
@@ -2662,7 +2662,7 @@
         },
         "player-name": "Mohamed Sanu",
         "team-name": "ATL",
-        "position": "WR63",
+        "position": "WR",
         "rank": 192.66666666666666
     },
     "Zay Jones": {
@@ -2673,7 +2673,7 @@
         },
         "player-name": "Zay Jones",
         "team-name": "BUF",
-        "position": "WR70",
+        "position": "WR",
         "rank": 203.0
     },
     "Jacoby Brissett": {
@@ -2683,7 +2683,7 @@
         },
         "player-name": "Jacoby Brissett",
         "team-name": "IND",
-        "position": "QB25",
+        "position": "QB",
         "rank": 173.5
     },
     "Chris Thompson": {
@@ -2693,7 +2693,7 @@
         },
         "player-name": "Chris Thompson",
         "team-name": "WAS",
-        "position": "RB59",
+        "position": "RB",
         "rank": 175.0
     },
     "Noah Fant": {
@@ -2714,7 +2714,7 @@
         },
         "player-name": "Parris Campbell",
         "team-name": "IND",
-        "position": "WR68",
+        "position": "WR",
         "rank": 180.66666666666666
     },
     "Adam Humphries": {
@@ -2725,7 +2725,7 @@
         },
         "player-name": "Adam Humphries",
         "team-name": "TEN",
-        "position": "WR66",
+        "position": "WR",
         "rank": 191.33333333333334
     },
     "Quincy Enunwa": {
@@ -2736,7 +2736,7 @@
         },
         "player-name": "Quincy Enunwa",
         "team-name": "NYJ",
-        "position": "WR69",
+        "position": "WR",
         "rank": 169.66666666666666
     },
     "Ted Ginn": {
@@ -2766,7 +2766,7 @@
         },
         "player-name": "Giovani Bernard",
         "team-name": "CIN",
-        "position": "RB61",
+        "position": "RB",
         "rank": 194.66666666666666
     },
     "Mike Davis": {
@@ -2776,7 +2776,7 @@
         },
         "player-name": "Mike Davis",
         "team-name": "CHI",
-        "position": "RB56",
+        "position": "RB",
         "rank": 179.0
     },
     "Joe Flacco": {
@@ -2856,7 +2856,7 @@
         },
         "player-name": "Albert Wilson",
         "team-name": "MIA",
-        "position": "WR64",
+        "position": "WR",
         "rank": 193.0
     },
     "Matt Prater": {
@@ -2896,7 +2896,7 @@
         },
         "player-name": "Marcus Mariota",
         "team-name": "TEN",
-        "position": "QB28",
+        "position": "QB",
         "rank": 184.33333333333334
     },
     "Jalen Hurd": {
@@ -2915,7 +2915,7 @@
         },
         "player-name": "Robert Foster",
         "team-name": "BUF",
-        "position": "WR73",
+        "position": "WR",
         "rank": 207.0
     },
     "Tyler Eifert": {
@@ -3095,7 +3095,7 @@
         },
         "player-name": "Chase Edmonds",
         "team-name": "ARI",
-        "position": "RB63",
+        "position": "RB",
         "rank": 211.33333333333334
     },
     "Trey Quinn": {
@@ -3275,7 +3275,7 @@
         },
         "player-name": "Marquise Brown",
         "team-name": "BAL",
-        "position": "WR71",
+        "position": "WR",
         "rank": 216.33333333333334
     },
     "KeeSean Johnson": {

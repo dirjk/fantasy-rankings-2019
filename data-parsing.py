@@ -98,7 +98,6 @@ def ff_pros_parse():
                 team_name = data_items[2].rstrip().split(' ')[-1]
                 if player_name in json_data.keys():
                     json_data[player_name]['rankings']['fantasy-pros'] = int(data_items[0])
-                    json_data[player_name]['position'] = data_items[3].rstrip()
                 else:
                     player = { 'rankings': {}}
                     player['rankings']['fantasy-pros'] = int(data_items[0])
