@@ -23,5 +23,60 @@ def ff_calculator_parse():
         json.dump(results, f, indent=4)
     # done.
 
+def yahoo_parse():
+    # open existing data
+    final_data = None
+    with open('./parsed-data/data.json', 'r') as j:
+        text = j.read()
+        json_data = json.loads(text)
+        results = {}
+        # open the file
+        with open('./original-data/yahoo-fantasy-rankings.csv', 'r') as f:
+            lines = f.readlines()
+            for line in lines[5:]:
+                # parse the file
+                data_items = line.rstrip().split(',')
+                player_name = data_items[1].rstrip()
+                if player_name in json_data.keys():
+                    json_data[player_name]['rankings']['yahoo'] = int(data_items[0])
+                else:
+                    # print('new player!', player_name)
+                    player = { 'rankings': {}}
+                    player['rankings']['yahoo'] = int(data_items[0])
+                    player['player-name'] = data_items[1].rstrip()
+                    json_data[player_name] = player
+        final_data = json_data
+    with open('./parsed-data/data.json', 'w') as f:
+        json.dump(final_data, f, indent=4)
+    # done.
+
+def si_parse():
+    # open existing data
+    final_data = None
+    with open('./parsed-data/data.json', 'r') as j:
+        text = j.read()
+        json_data = json.loads(text)
+        results = {}
+        # open the file
+        with open('./original-data/sports-ilustrated-rankings.csv', 'r') as f:
+            lines = f.readlines()
+            for line in lines[5:]:
+                # parse the file
+                data_items = line.rstrip().split(',')
+                player_name = data_items[1].rstrip()
+                if player_name in json_data.keys():
+                    json_data[player_name]['rankings']['sports-illustrated'] = int(data_items[0])
+                else:
+                    # print('new player!', player_name)
+                    player = { 'rankings': {}}
+                    player['rankings']['sports-illustrated'] = int(data_items[0])
+                    player['player-name'] = data_items[1].rstrip()
+                    json_data[player_name] = player
+        final_data = json_data
+    with open('./parsed-data/data.json', 'w') as f:
+        json.dump(final_data, f, indent=4)
+    # done.
 if __name__ == "__main__":
     ff_calculator_parse()
+    yahoo_parse()
+    si_parse()
