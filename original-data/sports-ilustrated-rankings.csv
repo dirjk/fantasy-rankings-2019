@@ -158,8 +158,8 @@ Rank,Player Name,Team,Position,ECR,vs. ECR
 153,Ryquell Armstead,JAC,RB,230,77
 154,Ito Smith,ATL,RB,144,-10
 155,David Njoku,CLE,TE,99,-56
-156,Chicago Bears,CHI,DST,174,18
-157,Los Angeles Rams,LAR,DST,176,19
+156,Chicago,CHI,DST,174,18
+157,LA Rams,LAR,DST,176,19
 158,Trey Quinn,WAS,WR,213,55
 159,Kareem Hunt,CLE,RB,146,-13
 160,Kenny Stills,MIA,WR,129,-31
@@ -168,15 +168,15 @@ Rank,Player Name,Team,Position,ECR,vs. ECR
 163,Greg Olsen,CAR,TE,156,-7
 164,Chris Herndon IV,NYJ,TE,179,15
 165,C.J. Anderson,DET,RB,147,-18
-166,Jacksonville Jaguars,JAC,DST,177,11
-167,Minnesota Vikings,MIN,DST,182,15
+166,Jacksonville,JAC,DST,177,11
+167,Minnesota,MIN,DST,182,15
 168,Alexander Mattison,MIN,RB,155,-13
-169,Houston Texans,HOU,DST,187,18
+169,Houston,HOU,DST,187,18
 170,Keke Coutee,HOU,WR,126,-44
-171,Los Angeles Chargers,LAC,DST,185,14
+171,LA Chargers,LAC,DST,185,14
 172,Devin Singletary,BUF,RB,133,-39
-173,Denver Broncos,DEN,DST,207,34
-174,Cleveland Browns,CLE,DST,194,20
+173,Denver,DEN,DST,207,34
+174,Cleveland,CLE,DST,194,20
 175,Greg Zuerlein,LAR,K,195,20
 176,Terry McLaurin,WAS,WR,277,101
 177,Mike Gesicki,MIA,TE,257,80
@@ -187,21 +187,21 @@ Rank,Player Name,Team,Position,ECR,vs. ECR
 182,Parris Campbell,IND,WR,172,-10
 183,Donte Moncrief,PIT,WR,119,-64
 184,DaeSean Hamilton,DEN,WR,152,-32
-185,New Orleans Saints,NO,DST,200,15
+185,New Orleans,NO,DST,200,15
 186,A.J. Brown,TEN,WR,220,34
 187,Wil Lutz,NO,K,202,15
-188,Pittsburgh Steelers,PIT,DST,231,43
+188,Pittsburgh,PIT,DST,231,43
 189,Tyler Eifert,CIN,TE,242,53
 190,Nelson Agholor,PHI,WR,218,28
 191,Marquise Brown,BAL,WR,190,-1
-192,Baltimore Ravens,BAL,DST,181,-11
+192,Baltimore,BAL,DST,181,-11
 193,Golden Tate,NYG,WR,138,-55
 194,Dallas Goedert,PHI,TE,193,-1
 195,Chris Conley,JAC,WR,271,76
-196,Philadelphia Eagles,PHI,DST,219,23
-197,New England Patriots,NE,DST,208,11
+196,Philadelphia,PHI,DST,219,23
+197,New England,NE,DST,208,11
 198,Stephen Gostkowski,NE,K,203,5
-199,Buffalo Bills,BUF,DST,210,11
+199,Buffalo,BUF,DST,210,11
 200,Josh Doctson,WAS,WR,249,49
 201,Albert Wilson,MIA,WR,164,-37
 202,Ka'imi Fairbairn,HOU,K,215,13
@@ -213,8 +213,8 @@ Rank,Player Name,Team,Position,ECR,vs. ECR
 208,Mecole Hardman,KC,WR,191,-17
 209,Robbie Gould,SF,K,229,20
 210,Matt Prater,DET,K,227,17
-211,Washington Redskins,WAS,DST,331,120
-212,Kansas City Chiefs,KC,DST,250,38
+211,Washington,WAS,DST,331,120
+212,Kansas City,KC,DST,250,38
 213,Adam Humphries,TEN,WR,170,-43
 214,Giovani Bernard,CIN,RB,173,-41
 215,Ryan Fitzpatrick,MIA,QB,243,28
@@ -226,10 +226,10 @@ Rank,Player Name,Team,Position,ECR,vs. ECR
 221,Darren Waller,OAK,TE,241,20
 222,Mason Crosby,GB,K,214,-8
 223,D.J. Chark,JAC,WR,240,17
-224,Tennessee Titans,TEN,DST,238,14
+224,Tennessee,TEN,DST,238,14
 225,Michael Crabtree,ARI,WR,327,102
 226,Brett Maher,DAL,K,221,-5
-227,Seattle Seahawks,SEA,DST,233,6
+227,Seattle,SEA,DST,233,6
 228,Jack Doyle,IND,TE,163,-65
 229,Noah Fant,DEN,TE,205,-24
 230,Antonio Callaway,CLE,WR,239,9
@@ -238,7 +238,7 @@ Rank,Player Name,Team,Position,ECR,vs. ECR
 233,Dare Ogunbowale,TB,RB,353,120
 234,Frank Gore,BUF,RB,222,-12
 235,Malcolm Brown,LAR,RB,183,-52
-236,Dallas Cowboys,DAL,DST,212,-24
+236,Dallas,DAL,DST,212,-24
 237,Karan Higdon,HOU,RB,355,118
 238,Adam Vinatieri,IND,K,237,-1
 239,Chris Boswell,PIT,K,310,71

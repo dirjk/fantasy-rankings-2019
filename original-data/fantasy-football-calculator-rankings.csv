@@ -5,7 +5,7 @@
 5,DeAndre Hopkins ,WR ,HOU ,10
 6,David Johnson ,RB ,ARI ,12
 7,Nick Chubb ,RB ,CLE ,7
-8,LeVeon Bell ,RB ,NYJ ,4
+8,Le'Veon Bell ,RB ,NYJ ,4
 9,Davante Adams ,WR ,GB ,11
 10,James Conner ,RB ,PIT ,7
 11,Julio Jones ,WR ,ATL ,9
@@ -14,7 +14,7 @@
 14,Tyreek Hill ,WR ,KC ,12
 15,Joe Mixon ,RB ,CIN ,9
 16,Dalvin Cook ,RB ,MIN ,12
-17,Odell Beckham Jr ,WR ,CLE ,7
+17,Odell Beckham Jr. ,WR ,CLE ,7
 18,JuJu Smith-Schuster ,WR ,PIT ,7
 19,Travis Kelce ,TE ,KC ,12
 20,Pat Mahomes ,QB ,KC ,12
@@ -87,7 +87,7 @@
 87,Jordan Howard ,RB ,PHI ,10
 88,Kalen Ballage ,RB ,MIA ,5
 89,Dede Westbrook ,WR ,JAX ,10
-90,Chicago Defense ,DEF ,CHI ,6
+90,Chicago ,DST ,CHI ,6
 91,Marvin Jones ,WR ,DET ,5
 92,Royce Freeman ,RB ,DEN ,10
 93,Russell Wilson ,QB ,SEA ,11
@@ -116,7 +116,7 @@
 116,DeSean Jackson ,WR ,PHI ,10
 117,Duke Johnson ,RB ,HOU ,10
 118,Delanie Walker ,TE ,TEN ,11
-119,LA Rams Defense ,DEF ,LAR ,9
+119,LA Rams ,DST ,LAR ,9
 120,Ronald Jones II ,RB ,TB ,7
 121,Jaylen Samuels ,RB ,PIT ,7
 122,Tony Pollard ,RB ,DAL ,8
@@ -124,28 +124,28 @@
 124,Tom Brady ,QB ,NE ,10
 125,Devin Singletary ,RB ,BUF ,6
 126,Donte Moncrief ,WR ,PIT ,7
-127,Jacksonville Defense ,DEF ,JAX ,10
+127,Jacksonville ,DST ,JAX ,10
 128,Ben Roethlisberger ,QB ,PIT ,7
 129,Alexander Mattison ,RB ,MIN ,12
 130,Justin Jackson ,RB ,LAC ,12
 131,Tyrell Williams ,WR ,OAK ,6
 132,Anthony Miller ,WR ,CHI ,6
 133,Justice Hill ,RB ,BAL ,8
-134,Baltimore Defense ,DEF ,BAL ,8
+134,Baltimore ,DST ,BAL ,8
 135,Dak Prescott ,QB ,DAL ,8
 136,D.K. Metcalf ,WR ,SEA ,11
 137,Damien Harris ,RB ,NE ,10
-138,Minnesota Defense ,DEF ,MIN ,12
+138,Minnesota ,DST ,MIN ,12
 139,N'Keal Harry ,WR ,NE ,10
 140,Trey Burton ,TE ,CHI ,6
 141,Kirk Cousins ,QB ,MIN ,12
 142,Mark Andrews ,TE ,BAL ,8
 143,Greg Zuerlein ,PK ,LAR ,9
 144,Carlos Hyde ,RB ,KC ,12
-145,Cleveland Defense ,DEF ,CLE ,7
+145,Cleveland ,DST ,CLE ,7
 146,John Brown ,WR ,BUF ,6
 147,Michael Gallup ,WR ,DAL ,8
-148,LA Chargers Defense ,DEF ,LAC ,12
+148,LA Chargers ,DST ,LAC ,12
 149,Golden Tate ,WR ,NYG ,11
 150,Justin Tucker ,PK ,BAL ,8
 151,Keke Coutee ,WR ,HOU ,10
@@ -157,17 +157,17 @@
 157,Mecole Hardman ,WR ,KC ,12
 158,Josh Allen ,QB ,BUF ,6
 159,Dion Lewis ,RB ,TEN ,11
-160,Houston Defense ,DEF ,HOU ,10
+160,Houston ,DST ,HOU ,10
 161,Malcolm Brown ,RB ,LAR ,9
 162,Jordan Reed ,TE ,WAS ,10
-163,Dallas Defense ,DEF ,DAL ,8
+163,Dallas ,DST ,DAL ,8
 164,Ito Smith ,RB ,ATL ,9
-165,Denver Defense ,DEF ,DEN ,10
+165,Denver ,DST ,DEN ,10
 166,Wil Lutz ,PK ,NO ,9
-167,New England Defense ,DEF ,NE ,10
+167,New England ,DST ,NE ,10
 168,Devin Funchess ,WR ,IND ,6
 169,Greg Olsen ,TE ,CAR ,7
-170,Philadelphia Defense ,DEF ,PHI ,10
+170,Philadelphia ,DST ,PHI ,10
 171,Jimmy Garoppolo ,QB ,SF ,4
 172,Sam Darnold ,QB ,NYJ ,4
 173,Jimmy Graham ,TE ,GB ,11
@@ -176,11 +176,11 @@
 176,Tre'Quan Smith ,WR ,NO ,9
 177,Stephen Gostkowski ,PK ,NE ,10
 178,Derek Carr ,QB ,OAK ,6
-179,CJ Anderson ,RB ,DET ,5
-180,Buffalo Defense ,DEF ,BUF ,6
-181,Kaimi Fairbairn ,PK ,HOU ,10
+179,C.J. Anderson ,RB ,DET ,5
+180,Buffalo ,DST ,BUF ,6
+181,Ka'imi Fairbairn ,PK ,HOU ,10
 182,Jake Elliott ,PK ,PHI ,10
-183,New Orleans Defense ,DEF ,NO ,9
+183,New Orleans ,DST ,NO ,9
 184,Jerick McKinnon ,RB ,SF ,4
 185,Giorgio Tavecchio ,PK ,ATL ,9
 186,Robbie Gould ,PK ,SF ,4
@@ -193,8 +193,8 @@
 193,Matthew Stafford ,QB ,DET ,5
 194,Cole Beasley ,WR ,BUF ,6
 195,Dan Bailey ,PK ,MIN ,12
-196,Pittsburgh Defense ,DEF ,PIT ,7
+196,Pittsburgh ,DST ,PIT ,7
 197,Brett Maher ,PK ,DAL ,8
 198,Miles Boykin ,WR ,BAL ,8
-199,DeVante Parker ,WR ,MIA ,5
+199,Devante Parker ,WR ,MIA ,5
 200,Kyle Rudolph ,TE ,MIN ,12

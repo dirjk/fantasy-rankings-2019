@@ -3,7 +3,7 @@
         "bye-week": "string",
         "team-name": "string",
         "position": "string",
-        "ranking": "number",
+        "rank": "number",
         "rankings": {
             "yahoo": "number",
             "sports-illustrated": "number",
