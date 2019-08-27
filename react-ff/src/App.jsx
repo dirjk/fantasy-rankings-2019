@@ -4,6 +4,7 @@ import getData from './parsed-data/data.js'
 
 import { Player } from './player'
 import { FilterBox } from './filter-box'
+import { TabControls } from './tab-controls'
 
 class App extends Component {
   constructor (props) {
@@ -16,10 +17,12 @@ class App extends Component {
       TE: true,
       K: true,
       PK: true,
-      DST: true
+      DST: true,
+      activeTab: 'available'
     }
     this.togglePlayer = this.togglePlayer.bind(this)
     this.onCheckChange = this.onCheckChange.bind(this)
+    this.changeTab = this.changeTab.bind(this)
   }
   componentDidMount () {
     let temp_data = getData()
@@ -28,6 +31,7 @@ class App extends Component {
     Object.keys(temp_data).forEach(key => {
       let player = temp_data[key]
       player['picked'] = false
+      player['myteam'] = false
       players.push(player)
     })
     players.sort((a,b) => {
@@ -42,6 +46,13 @@ class App extends Component {
     tempPlayers[i].picked = !tempPlayers[i].picked
     this.setState({
       players: tempPlayers      
+    })
+  }
+  togglePlayerDraft(i) {
+    let tempPlayers = this.state.players
+    tempPlayers[i].myteam = !tempPlayers[i].myteam
+    this.setState({
+      players: tempPlayers
     })
   }
   onCheckChange (filterType) {
@@ -63,10 +74,14 @@ class App extends Component {
     }
     this.setState(newState)
   }
+  changeTab (newTab) {
+    this.setState({activeTab: newTab})
+  }
   render () {
-    const { players, RB, WR, QB, TE, K, PK, DST } = this.state
+    const { players, RB, WR, QB, TE, K, PK, DST, activeTab } = this.state
     return (
       <div style={{'padding': '2px'}}>
+        <TabControls changeTab={this.changeTab}/>
         <FilterBox filter='RB' checked={RB} onToggle={() => {this.onCheckChange('RB')}}/>
         <FilterBox filter='WR' checked={WR} onToggle={() => {this.onCheckChange('WR')}}/>
         <FilterBox filter='QB' checked={QB} onToggle={() => {this.onCheckChange('QB')}}/>
@@ -74,13 +89,21 @@ class App extends Component {
         <FilterBox filter='K' checked={K} onToggle={() => {this.onCheckChange('K')}}/>
         <FilterBox filter='PK' checked={PK} onToggle={() => {this.onCheckChange('PK')}}/>
         <FilterBox filter='DEFENSE' checked={DST} onToggle={() => {this.onCheckChange('DST')}}/>
+        <div>
+          <span>Showing: {activeTab}</span>
+        </div>
         {
           players.map((player, i) => {
-            if (!player.picked && this.state[player.position]) {
-              return (<Player player={player} toggleView={() => { this.togglePlayer(i) }} key={player['player-name']}/>)
-            } else {
-              return null
-            }
+            return (
+              <Player
+                key={player['player-name']}
+                player={player}
+                toggleView={() => { this.togglePlayer(i) }}
+                toggleDraft={() => { this.togglePlayerDraft(i) }}
+                showPosition={this.state[player.position]}
+                activeTab={activeTab}
+                />
+              )
           })
         }
       </div>

@@ -10,7 +10,6 @@ export default class FilterBox extends Component {
     render () {
         const { filter, checked, onToggle } = this.props
         const fbid = 'filter-box-' + filter
-        console.log(filter, checked)
         return (
             <Fragment>
                 <input type='checkbox' id={fbid} name={fbid} checked={checked} onChange={onToggle}></input>
