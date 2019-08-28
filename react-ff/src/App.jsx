@@ -3,6 +3,7 @@ import './App.css';
 import getData from './parsed-data/data.js'
 
 import { Player } from './player'
+import { FilterBar } from './filter-bar'
 import { FilterBox } from './filter-box'
 import { TabControls } from './tab-controls'
 
@@ -18,10 +19,12 @@ class App extends Component {
       K: true,
       PK: true,
       DST: true,
-      activeTab: 'available'
+      activeTab: 'available',
+      searchTerm: ''
     }
     this.togglePlayer = this.togglePlayer.bind(this)
     this.onCheckChange = this.onCheckChange.bind(this)
+    this.onSearchChange = this.onSearchChange.bind(this)
     this.changeTab = this.changeTab.bind(this)
   }
   componentDidMount () {
@@ -74,13 +77,17 @@ class App extends Component {
     }
     this.setState(newState)
   }
+  onSearchChange (newSearchTerm) {
+    this.setState({ searchTerm: newSearchTerm.toLowerCase() })
+  }
   changeTab (newTab) {
-    this.setState({activeTab: newTab})
+    this.setState({ activeTab: newTab })
   }
   render () {
-    const { players, RB, WR, QB, TE, K, PK, DST, activeTab } = this.state
+    const { players, RB, WR, QB, TE, K, PK, DST, activeTab, searchTerm } = this.state
     return (
       <div style={{'padding': '2px'}}>
+        <FilterBar handleSearchChange={this.onSearchChange}/>
         <TabControls changeTab={this.changeTab}/>
         <FilterBox filter='RB' checked={RB} onToggle={() => {this.onCheckChange('RB')}}/>
         <FilterBox filter='WR' checked={WR} onToggle={() => {this.onCheckChange('WR')}}/>
@@ -102,6 +109,7 @@ class App extends Component {
                 toggleDraft={() => { this.togglePlayerDraft(i) }}
                 showPosition={this.state[player.position]}
                 activeTab={activeTab}
+                searchTerm={searchTerm}
                 />
               )
           })

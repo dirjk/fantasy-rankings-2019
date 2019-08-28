@@ -50,7 +50,8 @@ export default class Player extends Component {
         }
     }
     render () {
-        const { activeTab } = this.props
+        const { activeTab, searchTerm, player } = this.props
+        if ( player['player-name'].toLowerCase().indexOf(searchTerm) === -1) { return null }
         if ( activeTab === 'available') { return this.showIfAvailable() }
         if ( activeTab === 'picked') { return this.showIfPicked() }
         if ( activeTab === 'my team') { return this.showMyTeam() }
