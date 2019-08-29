@@ -5,6 +5,7 @@ import getData from './parsed-data/data.js'
 import { Player } from './player'
 import { FilterBar } from './filter-bar'
 import { FilterBox } from './filter-box'
+import { FilterControls } from './filter-controls'
 import { TabControls } from './tab-controls'
 
 class App extends Component {
@@ -26,6 +27,7 @@ class App extends Component {
     this.onCheckChange = this.onCheckChange.bind(this)
     this.onSearchChange = this.onSearchChange.bind(this)
     this.changeTab = this.changeTab.bind(this)
+    this.setAllFilterBoxes = this.setAllFilterBoxes.bind(this)
   }
   componentDidMount () {
     let temp_data = getData()
@@ -56,6 +58,17 @@ class App extends Component {
     tempPlayers[i].myteam = !tempPlayers[i].myteam
     this.setState({
       players: tempPlayers
+    })
+  }
+  setAllFilterBoxes (trueFalse) {
+    this.setState({
+      RB: trueFalse,
+      WR: trueFalse,
+      QB: trueFalse,
+      TE: trueFalse,
+      K: trueFalse,
+      PK: trueFalse,
+      DST: trueFalse
     })
   }
   onCheckChange (filterType) {
@@ -96,6 +109,7 @@ class App extends Component {
         <FilterBox filter='K' checked={K} onToggle={() => {this.onCheckChange('K')}}/>
         <FilterBox filter='PK' checked={PK} onToggle={() => {this.onCheckChange('PK')}}/>
         <FilterBox filter='DEFENSE' checked={DST} onToggle={() => {this.onCheckChange('DST')}}/>
+        <FilterControls setAllFilterBoxes={this.setAllFilterBoxes}></FilterControls>
         <div>
           <span>Showing: <strong>{activeTab}</strong></span>
         </div>
