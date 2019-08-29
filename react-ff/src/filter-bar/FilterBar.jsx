@@ -16,7 +16,10 @@ export default class FilterBar extends Component {
     render () {
         const { searchTerm } = this.state
         return (
-            <input type='text' value={searchTerm} onChange={this.handleChange}/>
+            <div>
+                <span style={{ padding: '4px'}}>Filter Players:</span>
+                <input type='text' value={searchTerm} onChange={this.handleChange}/>
+            </div>
         )
     }
 }

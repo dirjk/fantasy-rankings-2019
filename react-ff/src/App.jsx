@@ -86,7 +86,7 @@ class App extends Component {
   render () {
     const { players, RB, WR, QB, TE, K, PK, DST, activeTab, searchTerm } = this.state
     return (
-      <div style={{'padding': '2px'}}>
+      <div style={{'padding': '20px'}}>
         <FilterBar handleSearchChange={this.onSearchChange}/>
         <TabControls changeTab={this.changeTab}/>
         <FilterBox filter='RB' checked={RB} onToggle={() => {this.onCheckChange('RB')}}/>
@@ -97,7 +97,7 @@ class App extends Component {
         <FilterBox filter='PK' checked={PK} onToggle={() => {this.onCheckChange('PK')}}/>
         <FilterBox filter='DEFENSE' checked={DST} onToggle={() => {this.onCheckChange('DST')}}/>
         <div>
-          <span>Showing: {activeTab}</span>
+          <span>Showing: <strong>{activeTab}</strong></span>
         </div>
         {
           players.map((player, i) => {
