@@ -3,7 +3,7 @@
 a simple one day project that takes in multiple sources for fantasy football draft rankings, normalizes the data, and then displays using react.
 
 Youtube video is available for watching development of this project.
-https://youtu.be/gwSizt7ArZI
+https://youtu.be/J8EGp1Pksdo
 
 To run the project on your local machine, you will need to install node and npm.
 
