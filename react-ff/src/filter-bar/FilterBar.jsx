@@ -19,6 +19,7 @@ export default class FilterBar extends Component {
             <div>
                 <span style={{ padding: '4px'}}>Filter Players:</span>
                 <input type='text' value={searchTerm} onChange={this.handleChange}/>
+                { searchTerm.length > 0 ? <button onClick={() => this.handleChange({target: {value: ''}})}>(X)</button> : null }
             </div>
         )
     }
