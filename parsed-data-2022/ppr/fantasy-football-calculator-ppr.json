@@ -1,0 +1,912 @@
+[
+    [
+        "1",
+        "Jonathan Taylor",
+        "RB",
+        "IND",
+        "14"
+    ],
+    [
+        "2",
+        "Christian McCaffrey",
+        "RB",
+        "CAR",
+        "13"
+    ],
+    [
+        "3",
+        "Austin Ekeler",
+        "RB",
+        "LAC",
+        "8"
+    ],
+    [
+        "4",
+        "Derrick Henry",
+        "RB",
+        "TEN",
+        "6"
+    ],
+    [
+        "5",
+        "Justin Jefferson",
+        "WR",
+        "MIN",
+        "7"
+    ],
+    [
+        "6",
+        "Cooper Kupp",
+        "WR",
+        "LAR",
+        "7"
+    ],
+    [
+        "7",
+        "Najee Harris",
+        "RB",
+        "PIT",
+        "9"
+    ],
+    [
+        "8",
+        "Dalvin Cook",
+        "RB",
+        "MIN",
+        "7"
+    ],
+    [
+        "9",
+        "Ja'Marr Chase",
+        "WR",
+        "CIN",
+        "10"
+    ],
+    [
+        "10",
+        "Joe Mixon",
+        "RB",
+        "CIN",
+        "10"
+    ],
+    [
+        "11",
+        "Alvin Kamara",
+        "RB",
+        "NO",
+        "14"
+    ],
+    [
+        "12",
+        "Davante Adams",
+        "WR",
+        "LV",
+        "6"
+    ],
+    [
+        "13",
+        "D'Andre Swift",
+        "RB",
+        "DET",
+        "6"
+    ],
+    [
+        "14",
+        "Stefon Diggs",
+        "WR",
+        "BUF",
+        "7"
+    ],
+    [
+        "15",
+        "Aaron Jones",
+        "RB",
+        "GB",
+        "14"
+    ],
+    [
+        "16",
+        "Saquon Barkley",
+        "RB",
+        "NYG",
+        "9"
+    ],
+    [
+        "17",
+        "Travis Kelce",
+        "TE",
+        "KC",
+        "8"
+    ],
+    [
+        "18",
+        "CeeDee Lamb",
+        "WR",
+        "DAL",
+        "9"
+    ],
+    [
+        "19",
+        "Nick Chubb",
+        "RB",
+        "CLE",
+        "9"
+    ],
+    [
+        "20",
+        "Deebo Samuel",
+        "WR",
+        "SF",
+        "9"
+    ],
+    [
+        "21",
+        "Javonte Williams",
+        "RB",
+        "DEN",
+        "9"
+    ],
+    [
+        "22",
+        "Josh Allen",
+        "QB",
+        "BUF",
+        "7"
+    ],
+    [
+        "23",
+        "Leonard Fournette",
+        "RB",
+        "TB",
+        "11"
+    ],
+    [
+        "24",
+        "Tyreek Hill",
+        "WR",
+        "MIA",
+        "11"
+    ],
+    [
+        "25",
+        "Michael Pittman",
+        "WR",
+        "IND",
+        "14"
+    ],
+    [
+        "26",
+        "Mike Evans",
+        "WR",
+        "TB",
+        "11"
+    ],
+    [
+        "27",
+        "Mark Andrews",
+        "TE",
+        "BAL",
+        "10"
+    ],
+    [
+        "28",
+        "Ezekiel Elliott",
+        "RB",
+        "DAL",
+        "9"
+    ],
+    [
+        "29",
+        "James Conner",
+        "RB",
+        "ARI",
+        "13"
+    ],
+    [
+        "30",
+        "Keenan Allen",
+        "WR",
+        "LAC",
+        "8"
+    ],
+    [
+        "31",
+        "AJ Brown",
+        "WR",
+        "PHI",
+        "7"
+    ],
+    [
+        "32",
+        "Tee Higgins",
+        "WR",
+        "CIN",
+        "10"
+    ],
+    [
+        "33",
+        "Kyle Pitts",
+        "TE",
+        "ATL",
+        "14"
+    ],
+    [
+        "34",
+        "Cam Akers",
+        "RB",
+        "LAR",
+        "7"
+    ],
+    [
+        "35",
+        "Justin Herbert",
+        "QB",
+        "LAC",
+        "8"
+    ],
+    [
+        "36",
+        "Travis Etienne",
+        "RB",
+        "JAX",
+        "11"
+    ],
+    [
+        "37",
+        "DJ Moore",
+        "WR",
+        "CAR",
+        "13"
+    ],
+    [
+        "38",
+        "Terry McLaurin",
+        "WR",
+        "WAS",
+        "14"
+    ],
+    [
+        "39",
+        "J.K. Dobbins",
+        "RB",
+        "BAL",
+        "10"
+    ],
+    [
+        "40",
+        "David Montgomery",
+        "RB",
+        "CHI",
+        "14"
+    ],
+    [
+        "41",
+        "Patrick Mahomes II",
+        "QB",
+        "KC",
+        "8"
+    ],
+    [
+        "42",
+        "Mike Williams",
+        "WR",
+        "LAC",
+        "8"
+    ],
+    [
+        "43",
+        "Elijah Mitchell",
+        "RB",
+        "SF",
+        "9"
+    ],
+    [
+        "44",
+        "Diontae Johnson",
+        "WR",
+        "PIT",
+        "9"
+    ],
+    [
+        "45",
+        "Breece Hall",
+        "RB",
+        "NYJ",
+        "10"
+    ],
+    [
+        "46",
+        "George Kittle",
+        "TE",
+        "SF",
+        "9"
+    ],
+    [
+        "47",
+        "Joe Burrow",
+        "QB",
+        "CIN",
+        "10"
+    ],
+    [
+        "48",
+        "Josh Jacobs",
+        "RB",
+        "LV",
+        "6"
+    ],
+    [
+        "49",
+        "Jaylen Waddle",
+        "WR",
+        "MIA",
+        "11"
+    ],
+    [
+        "50",
+        "Courtland Sutton",
+        "WR",
+        "DEN",
+        "9"
+    ],
+    [
+        "51",
+        "AJ Dillon",
+        "RB",
+        "GB",
+        "14"
+    ],
+    [
+        "52",
+        "DK Metcalf",
+        "WR",
+        "SEA",
+        "11"
+    ],
+    [
+        "53",
+        "Darren Waller",
+        "TE",
+        "LV",
+        "6"
+    ],
+    [
+        "54",
+        "Michael Thomas",
+        "WR",
+        "NO",
+        "14"
+    ],
+    [
+        "55",
+        "Lamar Jackson",
+        "QB",
+        "BAL",
+        "10"
+    ],
+    [
+        "56",
+        "Clyde Edwards-Helaire",
+        "RB",
+        "KC",
+        "8"
+    ],
+    [
+        "57",
+        "Allen Robinson II",
+        "WR",
+        "LAR",
+        "7"
+    ],
+    [
+        "58",
+        "Chris Godwin",
+        "WR",
+        "TB",
+        "11"
+    ],
+    [
+        "59",
+        "Brandin Cooks",
+        "WR",
+        "HOU",
+        "6"
+    ],
+    [
+        "60",
+        "Jalen Hurts",
+        "QB",
+        "PHI",
+        "7"
+    ],
+    [
+        "61",
+        "Damien Harris",
+        "RB",
+        "NE",
+        "10"
+    ],
+    [
+        "62",
+        "Miles Sanders",
+        "RB",
+        "PHI",
+        "7"
+    ],
+    [
+        "63",
+        "Jerry Jeudy",
+        "WR",
+        "DEN",
+        "9"
+    ],
+    [
+        "64",
+        "Kyler Murray",
+        "QB",
+        "ARI",
+        "13"
+    ],
+    [
+        "65",
+        "Adam Thielen",
+        "WR",
+        "MIN",
+        "7"
+    ],
+    [
+        "66",
+        "Rashaad Penny",
+        "RB",
+        "SEA",
+        "11"
+    ],
+    [
+        "67",
+        "Gabriel Davis",
+        "WR",
+        "BUF",
+        "7"
+    ],
+    [
+        "68",
+        "Dalton Schultz",
+        "TE",
+        "DAL",
+        "9"
+    ],
+    [
+        "69",
+        "Darnell Mooney",
+        "WR",
+        "CHI",
+        "14"
+    ],
+    [
+        "70",
+        "Marquise Brown",
+        "WR",
+        "ARI",
+        "13"
+    ],
+    [
+        "71",
+        "Kareem Hunt",
+        "RB",
+        "CLE",
+        "9"
+    ],
+    [
+        "72",
+        "Hunter Renfrow",
+        "WR",
+        "LV",
+        "6"
+    ],
+    [
+        "73",
+        "Tony Pollard",
+        "RB",
+        "DAL",
+        "9"
+    ],
+    [
+        "74",
+        "Devin Singletary",
+        "RB",
+        "BUF",
+        "7"
+    ],
+    [
+        "75",
+        "Chase Edmonds",
+        "RB",
+        "MIA",
+        "11"
+    ],
+    [
+        "76",
+        "Amon-Ra St. Brown",
+        "WR",
+        "DET",
+        "6"
+    ],
+    [
+        "77",
+        "Russell Wilson",
+        "QB",
+        "DEN",
+        "9"
+    ],
+    [
+        "78",
+        "JuJu Smith-Schuster",
+        "WR",
+        "KC",
+        "8"
+    ],
+    [
+        "79",
+        "Rhamondre Stevenson",
+        "RB",
+        "NE",
+        "10"
+    ],
+    [
+        "80",
+        "Dallas Goedert",
+        "TE",
+        "PHI",
+        "7"
+    ],
+    [
+        "81",
+        "Dameon Pierce",
+        "RB",
+        "HOU",
+        "6"
+    ],
+    [
+        "82",
+        "Aaron Rodgers",
+        "QB",
+        "GB",
+        "14"
+    ],
+    [
+        "83",
+        "Rashod Bateman",
+        "WR",
+        "BAL",
+        "10"
+    ],
+    [
+        "84",
+        "Amari Cooper",
+        "WR",
+        "CLE",
+        "9"
+    ],
+    [
+        "85",
+        "Dak Prescott",
+        "QB",
+        "DAL",
+        "9"
+    ],
+    [
+        "86",
+        "DeVonta Smith",
+        "WR",
+        "PHI",
+        "7"
+    ],
+    [
+        "87",
+        "Elijah Moore",
+        "WR",
+        "NYJ",
+        "10"
+    ],
+    [
+        "88",
+        "Melvin Gordon III",
+        "RB",
+        "DEN",
+        "9"
+    ],
+    [
+        "89",
+        "Tom Brady",
+        "QB",
+        "TB",
+        "11"
+    ],
+    [
+        "90",
+        "Matthew Stafford",
+        "QB",
+        "LAR",
+        "7"
+    ],
+    [
+        "91",
+        "Brandon Aiyuk",
+        "WR",
+        "SF",
+        "9"
+    ],
+    [
+        "92",
+        "Allen Lazard",
+        "WR",
+        "GB",
+        "14"
+    ],
+    [
+        "93",
+        "Cordarrelle Patterson",
+        "WR",
+        "ATL",
+        "14"
+    ],
+    [
+        "94",
+        "DeAndre Hopkins",
+        "WR",
+        "ARI",
+        "13"
+    ],
+    [
+        "95",
+        "Zach Ertz",
+        "TE",
+        "ARI",
+        "13"
+    ],
+    [
+        "96",
+        "Trey Lance",
+        "QB",
+        "SF",
+        "9"
+    ],
+    [
+        "97",
+        "James Cook",
+        "RB",
+        "BUF",
+        "7"
+    ],
+    [
+        "98",
+        "Christian Kirk",
+        "WR",
+        "JAX",
+        "11"
+    ],
+    [
+        "99",
+        "Nyheim Hines",
+        "RB",
+        "IND",
+        "14"
+    ],
+    [
+        "100",
+        "Kenneth Walker III",
+        "RB",
+        "SEA",
+        "11"
+    ],
+    [
+        "101",
+        "Derek Carr",
+        "QB",
+        "LV",
+        "6"
+    ],
+    [
+        "102",
+        "Robert Woods",
+        "WR",
+        "TEN",
+        "6"
+    ],
+    [
+        "103",
+        "Pat Freiermuth",
+        "TE",
+        "PIT",
+        "9"
+    ],
+    [
+        "104",
+        "Drake London",
+        "WR",
+        "ATL",
+        "14"
+    ],
+    [
+        "105",
+        "Kadarius Toney",
+        "WR",
+        "NYG",
+        "9"
+    ],
+    [
+        "106",
+        "James Robinson",
+        "RB",
+        "JAX",
+        "11"
+    ],
+    [
+        "107",
+        "Raheem Mostert",
+        "RB",
+        "MIA",
+        "11"
+    ],
+    [
+        "108",
+        "Kirk Cousins",
+        "QB",
+        "MIN",
+        "7"
+    ],
+    [
+        "109",
+        "Cole Kmet",
+        "TE",
+        "CHI",
+        "14"
+    ],
+    [
+        "110",
+        "Kenneth Gainwell",
+        "RB",
+        "PHI",
+        "7"
+    ],
+    [
+        "111",
+        "Tyler Allgeier",
+        "RB",
+        "ATL",
+        "14"
+    ],
+    [
+        "112",
+        "Chris Olave",
+        "WR",
+        "NO",
+        "14"
+    ],
+    [
+        "113",
+        "Tyler Lockett",
+        "WR",
+        "SEA",
+        "11"
+    ],
+    [
+        "114",
+        "J.D. McKissic",
+        "RB",
+        "WAS",
+        "14"
+    ],
+    [
+        "115",
+        "Mike Gesicki",
+        "TE",
+        "MIA",
+        "11"
+    ],
+    [
+        "116",
+        "Brian Robinson",
+        "RB",
+        "WAS",
+        "14"
+    ],
+    [
+        "117",
+        "Tua Tagovailoa",
+        "QB",
+        "MIA",
+        "11"
+    ],
+    [
+        "118",
+        "Michael Carter",
+        "RB",
+        "NYJ",
+        "10"
+    ],
+    [
+        "119",
+        "Skyy Moore",
+        "WR",
+        "KC",
+        "8"
+    ],
+    [
+        "120",
+        "Michael Gallup",
+        "WR",
+        "DAL",
+        "9"
+    ],
+    [
+        "121",
+        "Darrell Henderson",
+        "RB",
+        "LAR",
+        "7"
+    ],
+    [
+        "122",
+        "Dawson Knox",
+        "TE",
+        "BUF",
+        "7"
+    ],
+    [
+        "123",
+        "Tyler Boyd",
+        "WR",
+        "CIN",
+        "10"
+    ],
+    [
+        "124",
+        "Julio Jones",
+        "WR",
+        "TB",
+        "11"
+    ],
+    [
+        "125",
+        "Isiah Pacheco",
+        "RB",
+        "KC",
+        "8"
+    ],
+    [
+        "126",
+        "Jamaal Williams",
+        "RB",
+        "DET",
+        "6"
+    ],
+    [
+        "127",
+        "Buffalo Defense",
+        "DEF",
+        "BUF",
+        "7"
+    ],
+    [
+        "128",
+        "George Pickens",
+        "WR",
+        "PIT",
+        "9"
+    ],
+    [
+        "129",
+        "Rachaad White",
+        "RB",
+        "TB",
+        "11"
+    ],
+    [
+        "130",
+        "Marquez Valdes-Scantling",
+        "WR",
+        "KC",
+        "8"
+    ]
+]

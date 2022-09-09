@@ -19,17 +19,21 @@ WAFFL is PPR (as of 2021).
 
 ## collect all the data
 
-(as of 2021):
+(as of 2022):
 
 https://fantasyfootballcalculator.com/rankings/standard
 
+https://fantasyfootballcalculator.com/rankings/ppr
+
 https://www.fantasypros.com/nfl/rankings/ppr-cheatsheets.php
 
-https://www.si.com/fantasy/2021/06/25/top-200-ppr-redraft-rankings
+https://www.si.com/fantasy/2022/07/14/fantasy-football-2022-ppr-rankings-stat-projections
 
 (note that I couldn't find a sports illustrated standard ranking list)
 
 https://sports.yahoo.com/fantasy-football-draft-rankings-for-2021-nfl-season-164710339.html
+
+https://sports.yahoo.com/fantasy-football-2022-top-300-draft-rankings-202418103.html
 
 ## Normalize the data
 

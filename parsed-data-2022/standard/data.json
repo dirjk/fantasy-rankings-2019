@@ -1,0 +1,3321 @@
+{
+    "Jonathan Taylor": {
+        "rankings": {
+            "fantasy-pros-standard": "1",
+            "fantasy-football-calculator-standard": "1",
+            "sporting-news-standard": "1"
+        },
+        "player-name": "Jonathan Taylor",
+        "team-name": "IND",
+        "position": "RB",
+        "bye-week": "14",
+        "rank": 1.0
+    },
+    "Christian McCaffrey": {
+        "rankings": {
+            "fantasy-pros-standard": "2",
+            "fantasy-football-calculator-standard": "2",
+            "sporting-news-standard": "8"
+        },
+        "player-name": "Christian McCaffrey",
+        "team-name": "CAR",
+        "position": "RB",
+        "bye-week": "13",
+        "rank": 4.0
+    },
+    "Derrick Henry": {
+        "rankings": {
+            "fantasy-pros-standard": "3",
+            "fantasy-football-calculator-standard": "3",
+            "sporting-news-standard": "2"
+        },
+        "player-name": "Derrick Henry",
+        "team-name": "TEN",
+        "position": "RB",
+        "bye-week": "6",
+        "rank": 2.6666666666666665
+    },
+    "Dalvin Cook": {
+        "rankings": {
+            "fantasy-pros-standard": "4",
+            "fantasy-football-calculator-standard": "4",
+            "sporting-news-standard": "4"
+        },
+        "player-name": "Dalvin Cook",
+        "team-name": "MIN",
+        "position": "RB",
+        "bye-week": "7",
+        "rank": 4.0
+    },
+    "Austin Ekeler": {
+        "rankings": {
+            "fantasy-pros-standard": "5",
+            "fantasy-football-calculator-standard": "9",
+            "sporting-news-standard": "6"
+        },
+        "player-name": "Austin Ekeler",
+        "team-name": "LAC",
+        "position": "RB",
+        "bye-week": "8",
+        "rank": 6.666666666666667
+    },
+    "Joe Mixon": {
+        "rankings": {
+            "fantasy-pros-standard": "6",
+            "fantasy-football-calculator-standard": "18",
+            "sporting-news-standard": "12"
+        },
+        "player-name": "Joe Mixon",
+        "team-name": "CIN",
+        "position": "RB",
+        "bye-week": "10",
+        "rank": 12.0
+    },
+    "Najee Harris": {
+        "rankings": {
+            "fantasy-pros-standard": "7",
+            "fantasy-football-calculator-standard": "11",
+            "sporting-news-standard": "3"
+        },
+        "player-name": "Najee Harris",
+        "team-name": "PIT",
+        "position": "RB",
+        "bye-week": "9",
+        "rank": 7.0
+    },
+    "Justin Jefferson": {
+        "rankings": {
+            "fantasy-pros-standard": "8",
+            "fantasy-football-calculator-standard": "6",
+            "sporting-news-standard": "9"
+        },
+        "player-name": "Justin Jefferson",
+        "team-name": "MIN",
+        "position": "WR",
+        "bye-week": "7",
+        "rank": 7.666666666666667
+    },
+    "Cooper Kupp": {
+        "rankings": {
+            "fantasy-pros-standard": "9",
+            "fantasy-football-calculator-standard": "5",
+            "sporting-news-standard": "5"
+        },
+        "player-name": "Cooper Kupp",
+        "team-name": "LAR",
+        "position": "WR",
+        "bye-week": "7",
+        "rank": 6.333333333333333
+    },
+    "Nick Chubb": {
+        "rankings": {
+            "fantasy-pros-standard": "10",
+            "fantasy-football-calculator-standard": "8",
+            "sporting-news-standard": "7"
+        },
+        "player-name": "Nick Chubb",
+        "team-name": "CLE",
+        "position": "RB",
+        "bye-week": "9",
+        "rank": 8.333333333333334
+    },
+    "Ja'Marr Chase": {
+        "rankings": {
+            "fantasy-pros-standard": "11",
+            "fantasy-football-calculator-standard": "7",
+            "sporting-news-standard": "10"
+        },
+        "player-name": "Ja'Marr Chase",
+        "team-name": "CIN",
+        "position": "WR",
+        "bye-week": "10",
+        "rank": 9.333333333333334
+    },
+    "Alvin Kamara": {
+        "rankings": {
+            "fantasy-pros-standard": "12",
+            "fantasy-football-calculator-standard": "14",
+            "sporting-news-standard": "11"
+        },
+        "player-name": "Alvin Kamara",
+        "team-name": "NO",
+        "position": "RB",
+        "bye-week": "14",
+        "rank": 12.333333333333334
+    },
+    "Mark Andrews": {
+        "rankings": {
+            "fantasy-pros-standard": "13",
+            "fantasy-football-calculator-standard": "27",
+            "sporting-news-standard": "14"
+        },
+        "player-name": "Mark Andrews",
+        "team-name": "BAL",
+        "position": "TE",
+        "bye-week": "10",
+        "rank": 18.0
+    },
+    "Saquon Barkley": {
+        "rankings": {
+            "fantasy-pros-standard": "14",
+            "fantasy-football-calculator-standard": "20",
+            "sporting-news-standard": "26"
+        },
+        "player-name": "Saquon Barkley",
+        "team-name": "NYG",
+        "position": "RB",
+        "bye-week": "9",
+        "rank": 20.0
+    },
+    "D'Andre Swift": {
+        "rankings": {
+            "fantasy-pros-standard": "15",
+            "fantasy-football-calculator-standard": "10",
+            "sporting-news-standard": "20"
+        },
+        "player-name": "D'Andre Swift",
+        "team-name": "DET",
+        "position": "RB",
+        "bye-week": "6",
+        "rank": 15.0
+    },
+    "Travis Kelce": {
+        "rankings": {
+            "fantasy-pros-standard": "16",
+            "fantasy-football-calculator-standard": "16",
+            "sporting-news-standard": "13"
+        },
+        "player-name": "Travis Kelce",
+        "team-name": "KC",
+        "position": "TE",
+        "bye-week": "8",
+        "rank": 15.0
+    },
+    "Stefon Diggs": {
+        "rankings": {
+            "fantasy-pros-standard": "17",
+            "fantasy-football-calculator-standard": "12",
+            "sporting-news-standard": "17"
+        },
+        "player-name": "Stefon Diggs",
+        "team-name": "BUF",
+        "position": "WR",
+        "bye-week": "7",
+        "rank": 15.333333333333334
+    },
+    "Davante Adams": {
+        "rankings": {
+            "fantasy-pros-standard": "18",
+            "fantasy-football-calculator-standard": "13",
+            "sporting-news-standard": "18"
+        },
+        "player-name": "Davante Adams",
+        "team-name": "LV",
+        "position": "WR",
+        "bye-week": "6",
+        "rank": 16.333333333333332
+    },
+    "Deebo Samuel": {
+        "rankings": {
+            "fantasy-pros-standard": "19",
+            "fantasy-football-calculator-standard": "28",
+            "sporting-news-standard": "24"
+        },
+        "player-name": "Deebo Samuel",
+        "team-name": "SF",
+        "position": "WR",
+        "bye-week": "9",
+        "rank": 23.666666666666668
+    },
+    "Javonte Williams": {
+        "rankings": {
+            "fantasy-pros-standard": "20",
+            "fantasy-football-calculator-standard": "17",
+            "sporting-news-standard": "19"
+        },
+        "player-name": "Javonte Williams",
+        "team-name": "DEN",
+        "position": "RB",
+        "bye-week": "9",
+        "rank": 18.666666666666668
+    },
+    "CeeDee Lamb": {
+        "rankings": {
+            "fantasy-pros-standard": "21",
+            "fantasy-football-calculator-standard": "21",
+            "sporting-news-standard": "16"
+        },
+        "player-name": "CeeDee Lamb",
+        "team-name": "DAL",
+        "position": "WR",
+        "bye-week": "9",
+        "rank": 19.333333333333332
+    },
+    "Aaron Jones": {
+        "rankings": {
+            "fantasy-pros-standard": "22",
+            "fantasy-football-calculator-standard": "15",
+            "sporting-news-standard": "37"
+        },
+        "player-name": "Aaron Jones",
+        "team-name": "GB",
+        "position": "RB",
+        "bye-week": "14",
+        "rank": 24.666666666666668
+    },
+    "Leonard Fournette": {
+        "rankings": {
+            "fantasy-pros-standard": "23",
+            "fantasy-football-calculator-standard": "24",
+            "sporting-news-standard": "29"
+        },
+        "player-name": "Leonard Fournette",
+        "team-name": "TB",
+        "position": "RB",
+        "bye-week": "11",
+        "rank": 25.333333333333332
+    },
+    "Mike Evans": {
+        "rankings": {
+            "fantasy-pros-standard": "24",
+            "fantasy-football-calculator-standard": "22",
+            "sporting-news-standard": "15"
+        },
+        "player-name": "Mike Evans",
+        "team-name": "TB",
+        "position": "WR",
+        "bye-week": "11",
+        "rank": 20.333333333333332
+    },
+    "Tyreek Hill": {
+        "rankings": {
+            "fantasy-pros-standard": "25",
+            "fantasy-football-calculator-standard": "23",
+            "sporting-news-standard": "23"
+        },
+        "player-name": "Tyreek Hill",
+        "team-name": "MIA",
+        "position": "WR",
+        "bye-week": "11",
+        "rank": 23.666666666666668
+    },
+    "James Conner": {
+        "rankings": {
+            "fantasy-pros-standard": "26",
+            "fantasy-football-calculator-standard": "31",
+            "sporting-news-standard": "32"
+        },
+        "player-name": "James Conner",
+        "team-name": "ARI",
+        "position": "RB",
+        "bye-week": "13",
+        "rank": 29.666666666666668
+    },
+    "AJ Brown": {
+        "rankings": {
+            "fantasy-pros-standard": "27",
+            "fantasy-football-calculator-standard": "26",
+            "sporting-news-standard": "33"
+        },
+        "player-name": "AJ Brown",
+        "team-name": "PHI",
+        "position": "WR",
+        "bye-week": "7",
+        "rank": 28.666666666666668
+    },
+    "Kyle Pitts": {
+        "rankings": {
+            "fantasy-pros-standard": "28",
+            "fantasy-football-calculator-standard": "38",
+            "sporting-news-standard": "30"
+        },
+        "player-name": "Kyle Pitts",
+        "team-name": "ATL",
+        "position": "TE",
+        "bye-week": "14",
+        "rank": 32.0
+    },
+    "Tee Higgins": {
+        "rankings": {
+            "fantasy-pros-standard": "29",
+            "fantasy-football-calculator-standard": "32",
+            "sporting-news-standard": "39"
+        },
+        "player-name": "Tee Higgins",
+        "team-name": "CIN",
+        "position": "WR",
+        "bye-week": "10",
+        "rank": 33.333333333333336
+    },
+    "Ezekiel Elliott": {
+        "rankings": {
+            "fantasy-pros-standard": "30",
+            "fantasy-football-calculator-standard": "25",
+            "sporting-news-standard": "25"
+        },
+        "player-name": "Ezekiel Elliott",
+        "team-name": "DAL",
+        "position": "RB",
+        "bye-week": "9",
+        "rank": 26.666666666666668
+    },
+    "Michael Pittman": {
+        "rankings": {
+            "fantasy-pros-standard": "31",
+            "fantasy-football-calculator-standard": "34",
+            "sporting-news-standard": "48"
+        },
+        "player-name": "Michael Pittman",
+        "team-name": "IND",
+        "position": "WR",
+        "bye-week": "14",
+        "rank": 37.666666666666664
+    },
+    "Josh Allen": {
+        "rankings": {
+            "fantasy-pros-standard": "32",
+            "fantasy-football-calculator-standard": "19",
+            "sporting-news-standard": "27"
+        },
+        "player-name": "Josh Allen",
+        "team-name": "BUF",
+        "position": "QB",
+        "bye-week": "7",
+        "rank": 26.0
+    },
+    "DJ Moore": {
+        "rankings": {
+            "fantasy-pros-standard": "33",
+            "fantasy-football-calculator-standard": "54",
+            "sporting-news-standard": "47"
+        },
+        "player-name": "DJ Moore",
+        "team-name": "CAR",
+        "position": "WR",
+        "bye-week": "13",
+        "rank": 44.666666666666664
+    },
+    "Courtland Sutton": {
+        "rankings": {
+            "fantasy-pros-standard": "34",
+            "fantasy-football-calculator-standard": "66",
+            "sporting-news-standard": "54"
+        },
+        "player-name": "Courtland Sutton",
+        "team-name": "DEN",
+        "position": "WR",
+        "bye-week": "9",
+        "rank": 51.333333333333336
+    },
+    "Mike Williams": {
+        "rankings": {
+            "fantasy-pros-standard": "35",
+            "fantasy-football-calculator-standard": "56",
+            "sporting-news-standard": "22"
+        },
+        "player-name": "Mike Williams",
+        "team-name": "LAC",
+        "position": "WR",
+        "bye-week": "8",
+        "rank": 37.666666666666664
+    },
+    "Keenan Allen": {
+        "rankings": {
+            "fantasy-pros-standard": "36",
+            "fantasy-football-calculator-standard": "30",
+            "sporting-news-standard": "35"
+        },
+        "player-name": "Keenan Allen",
+        "team-name": "LAC",
+        "position": "WR",
+        "bye-week": "8",
+        "rank": 33.666666666666664
+    },
+    "Terry McLaurin": {
+        "rankings": {
+            "fantasy-pros-standard": "37",
+            "fantasy-football-calculator-standard": "37",
+            "sporting-news-standard": "38"
+        },
+        "player-name": "Terry McLaurin",
+        "team-name": "WAS",
+        "position": "WR",
+        "bye-week": "14",
+        "rank": 37.333333333333336
+    },
+    "Breece Hall": {
+        "rankings": {
+            "fantasy-pros-standard": "38",
+            "fantasy-football-calculator-standard": "55",
+            "sporting-news-standard": "55"
+        },
+        "player-name": "Breece Hall",
+        "team-name": "NYJ",
+        "position": "RB",
+        "bye-week": "10",
+        "rank": 49.333333333333336
+    },
+    "Travis Etienne": {
+        "rankings": {
+            "fantasy-pros-standard": "39",
+            "sporting-news-standard": "42"
+        },
+        "player-name": "Travis Etienne",
+        "team-name": "JAC",
+        "position": "RB",
+        "rank": 40.5
+    },
+    "David Montgomery": {
+        "rankings": {
+            "fantasy-pros-standard": "40",
+            "fantasy-football-calculator-standard": "33",
+            "sporting-news-standard": "50"
+        },
+        "player-name": "David Montgomery",
+        "team-name": "CHI",
+        "position": "RB",
+        "bye-week": "14",
+        "rank": 41.0
+    },
+    "Justin Herbert": {
+        "rankings": {
+            "fantasy-pros-standard": "41",
+            "fantasy-football-calculator-standard": "46",
+            "sporting-news-standard": "44"
+        },
+        "player-name": "Justin Herbert",
+        "team-name": "LAC",
+        "position": "QB",
+        "bye-week": "8",
+        "rank": 43.666666666666664
+    },
+    "Cam Akers": {
+        "rankings": {
+            "fantasy-pros-standard": "42",
+            "fantasy-football-calculator-standard": "29",
+            "sporting-news-standard": "28"
+        },
+        "player-name": "Cam Akers",
+        "team-name": "LAR",
+        "position": "RB",
+        "bye-week": "7",
+        "rank": 33.0
+    },
+    "Elijah Mitchell": {
+        "rankings": {
+            "fantasy-pros-standard": "43",
+            "fantasy-football-calculator-standard": "36",
+            "sporting-news-standard": "31"
+        },
+        "player-name": "Elijah Mitchell",
+        "team-name": "SF",
+        "position": "RB",
+        "bye-week": "9",
+        "rank": 36.666666666666664
+    },
+    "DK Metcalf": {
+        "rankings": {
+            "fantasy-pros-standard": "44",
+            "fantasy-football-calculator-standard": "45",
+            "sporting-news-standard": "34"
+        },
+        "player-name": "DK Metcalf",
+        "team-name": "SEA",
+        "position": "WR",
+        "bye-week": "11",
+        "rank": 41.0
+    },
+    "Jaylen Waddle": {
+        "rankings": {
+            "fantasy-pros-standard": "45",
+            "fantasy-football-calculator-standard": "51",
+            "sporting-news-standard": "58"
+        },
+        "player-name": "Jaylen Waddle",
+        "team-name": "MIA",
+        "position": "WR",
+        "bye-week": "11",
+        "rank": 51.333333333333336
+    },
+    "Gabriel Davis": {
+        "rankings": {
+            "fantasy-pros-standard": "46",
+            "fantasy-football-calculator-standard": "76",
+            "sporting-news-standard": "66"
+        },
+        "player-name": "Gabriel Davis",
+        "team-name": "BUF",
+        "position": "WR",
+        "bye-week": "7",
+        "rank": 62.666666666666664
+    },
+    "George Kittle": {
+        "rankings": {
+            "fantasy-pros-standard": "47",
+            "fantasy-football-calculator-standard": "40",
+            "sporting-news-standard": "36"
+        },
+        "player-name": "George Kittle",
+        "team-name": "SF",
+        "position": "TE",
+        "bye-week": "9",
+        "rank": 41.0
+    },
+    "Diontae Johnson": {
+        "rankings": {
+            "fantasy-pros-standard": "48",
+            "fantasy-football-calculator-standard": "47",
+            "sporting-news-standard": "40"
+        },
+        "player-name": "Diontae Johnson",
+        "team-name": "PIT",
+        "position": "WR",
+        "bye-week": "9",
+        "rank": 45.0
+    },
+    "Brandin Cooks": {
+        "rankings": {
+            "fantasy-pros-standard": "49",
+            "fantasy-football-calculator-standard": "74",
+            "sporting-news-standard": "57"
+        },
+        "player-name": "Brandin Cooks",
+        "team-name": "HOU",
+        "position": "WR",
+        "bye-week": "6",
+        "rank": 60.0
+    },
+    "AJ Dillon": {
+        "rankings": {
+            "fantasy-pros-standard": "50",
+            "fantasy-football-calculator-standard": "49",
+            "sporting-news-standard": "70"
+        },
+        "player-name": "AJ Dillon",
+        "team-name": "GB",
+        "position": "RB",
+        "bye-week": "14",
+        "rank": 56.333333333333336
+    },
+    "Patrick Mahomes II": {
+        "rankings": {
+            "fantasy-pros-standard": "51",
+            "fantasy-football-calculator-standard": "52",
+            "sporting-news-standard": "46"
+        },
+        "player-name": "Patrick Mahomes II",
+        "team-name": "KC",
+        "position": "QB",
+        "bye-week": "8",
+        "rank": 49.666666666666664
+    },
+    "Allen Robinson II": {
+        "rankings": {
+            "fantasy-pros-standard": "52",
+            "fantasy-football-calculator-standard": "65",
+            "sporting-news-standard": "67"
+        },
+        "player-name": "Allen Robinson II",
+        "team-name": "LAR",
+        "position": "WR",
+        "bye-week": "7",
+        "rank": 61.333333333333336
+    },
+    "Darren Waller": {
+        "rankings": {
+            "fantasy-pros-standard": "53",
+            "fantasy-football-calculator-standard": "50",
+            "sporting-news-standard": "45"
+        },
+        "player-name": "Darren Waller",
+        "team-name": "LV",
+        "position": "TE",
+        "bye-week": "6",
+        "rank": 49.333333333333336
+    },
+    "Lamar Jackson": {
+        "rankings": {
+            "fantasy-pros-standard": "54",
+            "fantasy-football-calculator-standard": "41",
+            "sporting-news-standard": "65"
+        },
+        "player-name": "Lamar Jackson",
+        "team-name": "BAL",
+        "position": "QB",
+        "bye-week": "10",
+        "rank": 53.333333333333336
+    },
+    "J.K. Dobbins": {
+        "rankings": {
+            "fantasy-pros-standard": "55",
+            "fantasy-football-calculator-standard": "35",
+            "sporting-news-standard": "21"
+        },
+        "player-name": "J.K. Dobbins",
+        "team-name": "BAL",
+        "position": "RB",
+        "bye-week": "10",
+        "rank": 37.0
+    },
+    "Marquise Brown": {
+        "rankings": {
+            "fantasy-pros-standard": "56",
+            "fantasy-football-calculator-standard": "69",
+            "sporting-news-standard": "53"
+        },
+        "player-name": "Marquise Brown",
+        "team-name": "ARI",
+        "position": "WR",
+        "bye-week": "13",
+        "rank": 59.333333333333336
+    },
+    "Josh Jacobs": {
+        "rankings": {
+            "fantasy-pros-standard": "57",
+            "fantasy-football-calculator-standard": "44",
+            "sporting-news-standard": "49"
+        },
+        "player-name": "Josh Jacobs",
+        "team-name": "LV",
+        "position": "RB",
+        "bye-week": "6",
+        "rank": 50.0
+    },
+    "Jerry Jeudy": {
+        "rankings": {
+            "fantasy-pros-standard": "58",
+            "fantasy-football-calculator-standard": "61",
+            "sporting-news-standard": "60"
+        },
+        "player-name": "Jerry Jeudy",
+        "team-name": "DEN",
+        "position": "WR",
+        "bye-week": "9",
+        "rank": 59.666666666666664
+    },
+    "Darnell Mooney": {
+        "rankings": {
+            "fantasy-pros-standard": "59",
+            "fantasy-football-calculator-standard": "89",
+            "sporting-news-standard": "52"
+        },
+        "player-name": "Darnell Mooney",
+        "team-name": "CHI",
+        "position": "WR",
+        "bye-week": "14",
+        "rank": 66.66666666666667
+    },
+    "Kyler Murray": {
+        "rankings": {
+            "fantasy-pros-standard": "60",
+            "fantasy-football-calculator-standard": "68",
+            "sporting-news-standard": "59"
+        },
+        "player-name": "Kyler Murray",
+        "team-name": "ARI",
+        "position": "QB",
+        "bye-week": "13",
+        "rank": 62.333333333333336
+    },
+    "Dalton Schultz": {
+        "rankings": {
+            "fantasy-pros-standard": "61",
+            "fantasy-football-calculator-standard": "78",
+            "sporting-news-standard": "68"
+        },
+        "player-name": "Dalton Schultz",
+        "team-name": "DAL",
+        "position": "TE",
+        "bye-week": "9",
+        "rank": 69.0
+    },
+    "Jalen Hurts": {
+        "rankings": {
+            "fantasy-pros-standard": "62",
+            "fantasy-football-calculator-standard": "43",
+            "sporting-news-standard": "64"
+        },
+        "player-name": "Jalen Hurts",
+        "team-name": "PHI",
+        "position": "QB",
+        "bye-week": "7",
+        "rank": 56.333333333333336
+    },
+    "Rashod Bateman": {
+        "rankings": {
+            "fantasy-pros-standard": "63",
+            "fantasy-football-calculator-standard": "95",
+            "sporting-news-standard": "76"
+        },
+        "player-name": "Rashod Bateman",
+        "team-name": "BAL",
+        "position": "WR",
+        "bye-week": "10",
+        "rank": 78.0
+    },
+    "Damien Harris": {
+        "rankings": {
+            "fantasy-pros-standard": "64",
+            "fantasy-football-calculator-standard": "53",
+            "sporting-news-standard": "41"
+        },
+        "player-name": "Damien Harris",
+        "team-name": "NE",
+        "position": "RB",
+        "bye-week": "10",
+        "rank": 52.666666666666664
+    },
+    "Chris Godwin": {
+        "rankings": {
+            "fantasy-pros-standard": "65",
+            "fantasy-football-calculator-standard": "59",
+            "sporting-news-standard": "73"
+        },
+        "player-name": "Chris Godwin",
+        "team-name": "TB",
+        "position": "WR",
+        "bye-week": "11",
+        "rank": 65.66666666666667
+    },
+    "Antonio Gibson": {
+        "rankings": {
+            "fantasy-pros-standard": "66",
+            "fantasy-football-calculator-standard": "39",
+            "sporting-news-standard": "51"
+        },
+        "player-name": "Antonio Gibson",
+        "team-name": "WAS",
+        "position": "RB",
+        "bye-week": "14",
+        "rank": 52.0
+    },
+    "Elijah Moore": {
+        "rankings": {
+            "fantasy-pros-standard": "67",
+            "fantasy-football-calculator-standard": "91",
+            "sporting-news-standard": "72"
+        },
+        "player-name": "Elijah Moore",
+        "team-name": "NYJ",
+        "position": "WR",
+        "bye-week": "10",
+        "rank": 76.66666666666667
+    },
+    "Amari Cooper": {
+        "rankings": {
+            "fantasy-pros-standard": "68",
+            "fantasy-football-calculator-standard": "70",
+            "sporting-news-standard": "78"
+        },
+        "player-name": "Amari Cooper",
+        "team-name": "CLE",
+        "position": "WR",
+        "bye-week": "9",
+        "rank": 72.0
+    },
+    "Michael Thomas": {
+        "rankings": {
+            "fantasy-pros-standard": "69",
+            "fantasy-football-calculator-standard": "57",
+            "sporting-news-standard": "56"
+        },
+        "player-name": "Michael Thomas",
+        "team-name": "NO",
+        "position": "WR",
+        "bye-week": "14",
+        "rank": 60.666666666666664
+    },
+    "Amon-Ra St. Brown": {
+        "rankings": {
+            "fantasy-pros-standard": "70",
+            "fantasy-football-calculator-standard": "88",
+            "sporting-news-standard": "62"
+        },
+        "player-name": "Amon-Ra St. Brown",
+        "team-name": "DET",
+        "position": "WR",
+        "bye-week": "6",
+        "rank": 73.33333333333333
+    },
+    "JuJu Smith-Schuster": {
+        "rankings": {
+            "fantasy-pros-standard": "71",
+            "fantasy-football-calculator-standard": "93",
+            "sporting-news-standard": "94"
+        },
+        "player-name": "JuJu Smith-Schuster",
+        "team-name": "KC",
+        "position": "WR",
+        "bye-week": "8",
+        "rank": 86.0
+    },
+    "Dameon Pierce": {
+        "rankings": {
+            "fantasy-pros-standard": "72",
+            "fantasy-football-calculator-standard": "117",
+            "sporting-news-standard": "104"
+        },
+        "player-name": "Dameon Pierce",
+        "team-name": "HOU",
+        "position": "RB",
+        "bye-week": "6",
+        "rank": 97.66666666666667
+    },
+    "Dallas Goedert": {
+        "rankings": {
+            "fantasy-pros-standard": "73",
+            "fantasy-football-calculator-standard": "72",
+            "sporting-news-standard": "110"
+        },
+        "player-name": "Dallas Goedert",
+        "team-name": "PHI",
+        "position": "TE",
+        "bye-week": "7",
+        "rank": 85.0
+    },
+    "Rashaad Penny": {
+        "rankings": {
+            "fantasy-pros-standard": "74",
+            "fantasy-football-calculator-standard": "62",
+            "sporting-news-standard": "96"
+        },
+        "player-name": "Rashaad Penny",
+        "team-name": "SEA",
+        "position": "RB",
+        "bye-week": "11",
+        "rank": 77.33333333333333
+    },
+    "Joe Burrow": {
+        "rankings": {
+            "fantasy-pros-standard": "75",
+            "fantasy-football-calculator-standard": "63",
+            "sporting-news-standard": "63"
+        },
+        "player-name": "Joe Burrow",
+        "team-name": "CIN",
+        "position": "QB",
+        "bye-week": "10",
+        "rank": 67.0
+    },
+    "Adam Thielen": {
+        "rankings": {
+            "fantasy-pros-standard": "76",
+            "fantasy-football-calculator-standard": "60",
+            "sporting-news-standard": "95"
+        },
+        "player-name": "Adam Thielen",
+        "team-name": "MIN",
+        "position": "WR",
+        "bye-week": "7",
+        "rank": 77.0
+    },
+    "Brandon Aiyuk": {
+        "rankings": {
+            "fantasy-pros-standard": "77",
+            "fantasy-football-calculator-standard": "98",
+            "sporting-news-standard": "88"
+        },
+        "player-name": "Brandon Aiyuk",
+        "team-name": "SF",
+        "position": "WR",
+        "bye-week": "9",
+        "rank": 87.66666666666667
+    },
+    "Clyde Edwards-Helaire": {
+        "rankings": {
+            "fantasy-pros-standard": "78",
+            "fantasy-football-calculator-standard": "85",
+            "sporting-news-standard": "43"
+        },
+        "player-name": "Clyde Edwards-Helaire",
+        "team-name": "KC",
+        "position": "RB",
+        "bye-week": "8",
+        "rank": 68.66666666666667
+    },
+    "Chase Edmonds": {
+        "rankings": {
+            "fantasy-pros-standard": "79",
+            "fantasy-football-calculator-standard": "81",
+            "sporting-news-standard": "86"
+        },
+        "player-name": "Chase Edmonds",
+        "team-name": "MIA",
+        "position": "RB",
+        "bye-week": "11",
+        "rank": 82.0
+    },
+    "DeVonta Smith": {
+        "rankings": {
+            "fantasy-pros-standard": "80",
+            "fantasy-football-calculator-standard": "80",
+            "sporting-news-standard": "61"
+        },
+        "player-name": "DeVonta Smith",
+        "team-name": "PHI",
+        "position": "WR",
+        "bye-week": "7",
+        "rank": 73.66666666666667
+    },
+    "T.J. Hockenson": {
+        "rankings": {
+            "fantasy-pros-standard": "81",
+            "fantasy-football-calculator-standard": "92",
+            "sporting-news-standard": "79"
+        },
+        "player-name": "T.J. Hockenson",
+        "team-name": "DET",
+        "position": "TE",
+        "bye-week": "6",
+        "rank": 84.0
+    },
+    "Miles Sanders": {
+        "rankings": {
+            "fantasy-pros-standard": "82",
+            "fantasy-football-calculator-standard": "58",
+            "sporting-news-standard": "71"
+        },
+        "player-name": "Miles Sanders",
+        "team-name": "PHI",
+        "position": "RB",
+        "bye-week": "7",
+        "rank": 70.33333333333333
+    },
+    "Allen Lazard": {
+        "rankings": {
+            "fantasy-pros-standard": "83",
+            "fantasy-football-calculator-standard": "108",
+            "sporting-news-standard": "113"
+        },
+        "player-name": "Allen Lazard",
+        "team-name": "GB",
+        "position": "WR",
+        "bye-week": "14",
+        "rank": 101.33333333333333
+    },
+    "Tom Brady": {
+        "rankings": {
+            "fantasy-pros-standard": "84",
+            "fantasy-football-calculator-standard": "84",
+            "sporting-news-standard": "81"
+        },
+        "player-name": "Tom Brady",
+        "team-name": "TB",
+        "position": "QB",
+        "bye-week": "11",
+        "rank": 83.0
+    },
+    "Rhamondre Stevenson": {
+        "rankings": {
+            "fantasy-pros-standard": "85",
+            "fantasy-football-calculator-standard": "86",
+            "sporting-news-standard": "102"
+        },
+        "player-name": "Rhamondre Stevenson",
+        "team-name": "NE",
+        "position": "RB",
+        "bye-week": "10",
+        "rank": 91.0
+    },
+    "Russell Wilson": {
+        "rankings": {
+            "fantasy-pros-standard": "86",
+            "fantasy-football-calculator-standard": "73",
+            "sporting-news-standard": "85"
+        },
+        "player-name": "Russell Wilson",
+        "team-name": "DEN",
+        "position": "QB",
+        "bye-week": "9",
+        "rank": 81.33333333333333
+    },
+    "Drake London": {
+        "rankings": {
+            "fantasy-pros-standard": "87",
+            "sporting-news-standard": "109"
+        },
+        "player-name": "Drake London",
+        "team-name": "ATL",
+        "position": "WR",
+        "rank": 98.0
+    },
+    "Tyler Lockett": {
+        "rankings": {
+            "fantasy-pros-standard": "88",
+            "fantasy-football-calculator-standard": "105",
+            "sporting-news-standard": "89"
+        },
+        "player-name": "Tyler Lockett",
+        "team-name": "SEA",
+        "position": "WR",
+        "bye-week": "11",
+        "rank": 94.0
+    },
+    "Devin Singletary": {
+        "rankings": {
+            "fantasy-pros-standard": "89",
+            "fantasy-football-calculator-standard": "83",
+            "sporting-news-standard": "103"
+        },
+        "player-name": "Devin Singletary",
+        "team-name": "BUF",
+        "position": "RB",
+        "bye-week": "7",
+        "rank": 91.66666666666667
+    },
+    "Dawson Knox": {
+        "rankings": {
+            "fantasy-pros-standard": "90",
+            "fantasy-football-calculator-standard": "75",
+            "sporting-news-standard": "83"
+        },
+        "player-name": "Dawson Knox",
+        "team-name": "BUF",
+        "position": "TE",
+        "bye-week": "7",
+        "rank": 82.66666666666667
+    },
+    "Kareem Hunt": {
+        "rankings": {
+            "fantasy-pros-standard": "91",
+            "fantasy-football-calculator-standard": "64",
+            "sporting-news-standard": "74"
+        },
+        "player-name": "Kareem Hunt",
+        "team-name": "CLE",
+        "position": "RB",
+        "bye-week": "9",
+        "rank": 76.33333333333333
+    },
+    "Tony Pollard": {
+        "rankings": {
+            "fantasy-pros-standard": "92",
+            "fantasy-football-calculator-standard": "71",
+            "sporting-news-standard": "69"
+        },
+        "player-name": "Tony Pollard",
+        "team-name": "DAL",
+        "position": "RB",
+        "bye-week": "9",
+        "rank": 77.33333333333333
+    },
+    "Dak Prescott": {
+        "rankings": {
+            "fantasy-pros-standard": "93",
+            "fantasy-football-calculator-standard": "82",
+            "sporting-news-standard": "75"
+        },
+        "player-name": "Dak Prescott",
+        "team-name": "DAL",
+        "position": "QB",
+        "bye-week": "9",
+        "rank": 83.33333333333333
+    },
+    "Christian Kirk": {
+        "rankings": {
+            "fantasy-pros-standard": "94",
+            "fantasy-football-calculator-standard": "112",
+            "sporting-news-standard": "99"
+        },
+        "player-name": "Christian Kirk",
+        "team-name": "JAC",
+        "position": "WR",
+        "bye-week": "11",
+        "rank": 101.66666666666667
+    },
+    "Hunter Renfrow": {
+        "rankings": {
+            "fantasy-pros-standard": "95",
+            "fantasy-football-calculator-standard": "90",
+            "sporting-news-standard": "91"
+        },
+        "player-name": "Hunter Renfrow",
+        "team-name": "LV",
+        "position": "WR",
+        "bye-week": "6",
+        "rank": 92.0
+    },
+    "Trey Lance": {
+        "rankings": {
+            "fantasy-pros-standard": "96",
+            "fantasy-football-calculator-standard": "94",
+            "sporting-news-standard": "101"
+        },
+        "player-name": "Trey Lance",
+        "team-name": "SF",
+        "position": "QB",
+        "bye-week": "9",
+        "rank": 97.0
+    },
+    "DeAndre Hopkins": {
+        "rankings": {
+            "fantasy-pros-standard": "97",
+            "fantasy-football-calculator-standard": "48",
+            "sporting-news-standard": "100"
+        },
+        "player-name": "DeAndre Hopkins",
+        "team-name": "ARI",
+        "position": "WR",
+        "bye-week": "13",
+        "rank": 81.66666666666667
+    },
+    "Cordarrelle Patterson": {
+        "rankings": {
+            "fantasy-pros-standard": "98",
+            "fantasy-football-calculator-standard": "87",
+            "sporting-news-standard": "90"
+        },
+        "player-name": "Cordarrelle Patterson",
+        "team-name": "ATL",
+        "position": "RB",
+        "bye-week": "14",
+        "rank": 91.66666666666667
+    },
+    "Zach Ertz": {
+        "rankings": {
+            "fantasy-pros-standard": "99",
+            "fantasy-football-calculator-standard": "99",
+            "sporting-news-standard": "111"
+        },
+        "player-name": "Zach Ertz",
+        "team-name": "ARI",
+        "position": "TE",
+        "bye-week": "13",
+        "rank": 103.0
+    },
+    "Melvin Gordon III": {
+        "rankings": {
+            "fantasy-pros-standard": "100",
+            "fantasy-football-calculator-standard": "79",
+            "sporting-news-standard": "107"
+        },
+        "player-name": "Melvin Gordon III",
+        "team-name": "DEN",
+        "position": "RB",
+        "bye-week": "9",
+        "rank": 95.33333333333333
+    },
+    "Robert Woods": {
+        "rankings": {
+            "fantasy-pros-standard": "101",
+            "fantasy-football-calculator-standard": "113",
+            "sporting-news-standard": "77"
+        },
+        "player-name": "Robert Woods",
+        "team-name": "TEN",
+        "position": "WR",
+        "bye-week": "6",
+        "rank": 97.0
+    },
+    "Matthew Stafford": {
+        "rankings": {
+            "fantasy-pros-standard": "102",
+            "fantasy-football-calculator-standard": "77",
+            "sporting-news-standard": "82"
+        },
+        "player-name": "Matthew Stafford",
+        "team-name": "LAR",
+        "position": "QB",
+        "bye-week": "7",
+        "rank": 87.0
+    },
+    "Aaron Rodgers": {
+        "rankings": {
+            "fantasy-pros-standard": "103",
+            "fantasy-football-calculator-standard": "67",
+            "sporting-news-standard": "92"
+        },
+        "player-name": "Aaron Rodgers",
+        "team-name": "GB",
+        "position": "QB",
+        "bye-week": "14",
+        "rank": 87.33333333333333
+    },
+    "Kadarius Toney": {
+        "rankings": {
+            "fantasy-pros-standard": "104",
+            "fantasy-football-calculator-standard": "109",
+            "sporting-news-standard": "159"
+        },
+        "player-name": "Kadarius Toney",
+        "team-name": "NYG",
+        "position": "WR",
+        "bye-week": "9",
+        "rank": 124.0
+    },
+    "Chris Olave": {
+        "rankings": {
+            "fantasy-pros-standard": "105",
+            "fantasy-football-calculator-standard": "128",
+            "sporting-news-standard": "123"
+        },
+        "player-name": "Chris Olave",
+        "team-name": "NO",
+        "position": "WR",
+        "bye-week": "14",
+        "rank": 118.66666666666667
+    },
+    "Kenneth Walker III": {
+        "rankings": {
+            "fantasy-pros-standard": "106",
+            "fantasy-football-calculator-standard": "96",
+            "sporting-news-standard": "80"
+        },
+        "player-name": "Kenneth Walker III",
+        "team-name": "SEA",
+        "position": "RB",
+        "bye-week": "11",
+        "rank": 94.0
+    },
+    "Kirk Cousins": {
+        "rankings": {
+            "fantasy-pros-standard": "107",
+            "fantasy-football-calculator-standard": "103",
+            "sporting-news-standard": "112"
+        },
+        "player-name": "Kirk Cousins",
+        "team-name": "MIN",
+        "position": "QB",
+        "bye-week": "7",
+        "rank": 107.33333333333333
+    },
+    "Derek Carr": {
+        "rankings": {
+            "fantasy-pros-standard": "108",
+            "fantasy-football-calculator-standard": "101",
+            "sporting-news-standard": "93"
+        },
+        "player-name": "Derek Carr",
+        "team-name": "LV",
+        "position": "QB",
+        "bye-week": "6",
+        "rank": 100.66666666666667
+    },
+    "Treylon Burks": {
+        "rankings": {
+            "fantasy-pros-standard": "109",
+            "sporting-news-standard": "114"
+        },
+        "player-name": "Treylon Burks",
+        "team-name": "TEN",
+        "position": "WR",
+        "rank": 111.5
+    },
+    "Chase Claypool": {
+        "rankings": {
+            "fantasy-pros-standard": "110",
+            "sporting-news-standard": "115"
+        },
+        "player-name": "Chase Claypool",
+        "team-name": "PIT",
+        "position": "WR",
+        "rank": 112.5
+    },
+    "Cole Kmet": {
+        "rankings": {
+            "fantasy-pros-standard": "111",
+            "fantasy-football-calculator-standard": "130",
+            "sporting-news-standard": "135"
+        },
+        "player-name": "Cole Kmet",
+        "team-name": "CHI",
+        "position": "TE",
+        "bye-week": "14",
+        "rank": 125.33333333333333
+    },
+    "Michael Carter": {
+        "rankings": {
+            "fantasy-pros-standard": "112",
+            "fantasy-football-calculator-standard": "104",
+            "sporting-news-standard": "106"
+        },
+        "player-name": "Michael Carter",
+        "team-name": "NYJ",
+        "position": "RB",
+        "bye-week": "10",
+        "rank": 107.33333333333333
+    },
+    "Darrell Henderson": {
+        "rankings": {
+            "fantasy-pros-standard": "113",
+            "fantasy-football-calculator-standard": "110",
+            "sporting-news-standard": "118"
+        },
+        "player-name": "Darrell Henderson",
+        "team-name": "LAR",
+        "position": "RB",
+        "bye-week": "7",
+        "rank": 113.66666666666667
+    },
+    "Pat Freiermuth": {
+        "rankings": {
+            "fantasy-pros-standard": "114",
+            "fantasy-football-calculator-standard": "107",
+            "sporting-news-standard": "108"
+        },
+        "player-name": "Pat Freiermuth",
+        "team-name": "PIT",
+        "position": "TE",
+        "bye-week": "9",
+        "rank": 109.66666666666667
+    },
+    "James Cook": {
+        "rankings": {
+            "fantasy-pros-standard": "115",
+            "fantasy-football-calculator-standard": "102",
+            "sporting-news-standard": "87"
+        },
+        "player-name": "James Cook",
+        "team-name": "BUF",
+        "position": "RB",
+        "bye-week": "7",
+        "rank": 101.33333333333333
+    },
+    "Hunter Henry": {
+        "rankings": {
+            "fantasy-pros-standard": "116",
+            "fantasy-football-calculator-standard": "121",
+            "sporting-news-standard": "84"
+        },
+        "player-name": "Hunter Henry",
+        "team-name": "NE",
+        "position": "TE",
+        "bye-week": "10",
+        "rank": 107.0
+    },
+    "Tua Tagovailoa": {
+        "rankings": {
+            "fantasy-pros-standard": "117",
+            "fantasy-football-calculator-standard": "124",
+            "sporting-news-standard": "132"
+        },
+        "player-name": "Tua Tagovailoa",
+        "team-name": "MIA",
+        "position": "QB",
+        "bye-week": "11",
+        "rank": 124.33333333333333
+    },
+    "Justin Fields": {
+        "rankings": {
+            "fantasy-pros-standard": "118",
+            "sporting-news-standard": "126"
+        },
+        "player-name": "Justin Fields",
+        "team-name": "CHI",
+        "position": "QB",
+        "rank": 122.0
+    },
+    "James Robinson": {
+        "rankings": {
+            "fantasy-pros-standard": "119",
+            "fantasy-football-calculator-standard": "97",
+            "sporting-news-standard": "105"
+        },
+        "player-name": "James Robinson",
+        "team-name": "JAC",
+        "position": "RB",
+        "bye-week": "11",
+        "rank": 107.0
+    },
+    "Garrett Wilson": {
+        "rankings": {
+            "fantasy-pros-standard": "120",
+            "sporting-news-standard": "121"
+        },
+        "player-name": "Garrett Wilson",
+        "team-name": "NYJ",
+        "position": "WR",
+        "rank": 120.5
+    },
+    "Marquez Valdes-Scantling": {
+        "rankings": {
+            "fantasy-pros-standard": "121",
+            "fantasy-football-calculator-standard": "125",
+            "sporting-news-standard": "120"
+        },
+        "player-name": "Marquez Valdes-Scantling",
+        "team-name": "KC",
+        "position": "WR",
+        "bye-week": "8",
+        "rank": 122.0
+    },
+    "Skyy Moore": {
+        "rankings": {
+            "fantasy-pros-standard": "122",
+            "fantasy-football-calculator-standard": "126",
+            "sporting-news-standard": "133"
+        },
+        "player-name": "Skyy Moore",
+        "team-name": "KC",
+        "position": "WR",
+        "bye-week": "8",
+        "rank": 127.0
+    },
+    "Trevor Lawrence": {
+        "rankings": {
+            "fantasy-pros-standard": "123",
+            "sporting-news-standard": "139"
+        },
+        "player-name": "Trevor Lawrence",
+        "team-name": "JAC",
+        "position": "QB",
+        "rank": 131.0
+    },
+    "Tyler Boyd": {
+        "rankings": {
+            "fantasy-pros-standard": "124",
+            "sporting-news-standard": "131"
+        },
+        "player-name": "Tyler Boyd",
+        "team-name": "CIN",
+        "position": "WR",
+        "rank": 127.5
+    },
+    "Alexander Mattison": {
+        "rankings": {
+            "fantasy-pros-standard": "125",
+            "fantasy-football-calculator-standard": "122",
+            "sporting-news-standard": "116"
+        },
+        "player-name": "Alexander Mattison",
+        "team-name": "MIN",
+        "position": "RB",
+        "bye-week": "7",
+        "rank": 121.0
+    },
+    "Irv Smith": {
+        "rankings": {
+            "fantasy-pros-standard": "126",
+            "sporting-news-standard": "119"
+        },
+        "player-name": "Irv Smith",
+        "team-name": "MIN",
+        "position": "TE",
+        "rank": 122.5
+    },
+    "Kenneth Gainwell": {
+        "rankings": {
+            "fantasy-pros-standard": "127",
+            "sporting-news-standard": "161"
+        },
+        "player-name": "Kenneth Gainwell",
+        "team-name": "PHI",
+        "position": "RB",
+        "rank": 144.0
+    },
+    "Albert Okwuegbunam": {
+        "rankings": {
+            "fantasy-pros-standard": "128",
+            "sporting-news-standard": "168"
+        },
+        "player-name": "Albert Okwuegbunam",
+        "team-name": "DEN",
+        "position": "TE",
+        "rank": 148.0
+    },
+    "Nyheim Hines": {
+        "rankings": {
+            "fantasy-pros-standard": "129",
+            "fantasy-football-calculator-standard": "120",
+            "sporting-news-standard": "180"
+        },
+        "player-name": "Nyheim Hines",
+        "team-name": "IND",
+        "position": "RB",
+        "bye-week": "14",
+        "rank": 143.0
+    },
+    "Russell Gage": {
+        "rankings": {
+            "fantasy-pros-standard": "130",
+            "fantasy-football-calculator-standard": "111"
+        },
+        "player-name": "Russell Gage",
+        "team-name": "TB",
+        "position": "WR",
+        "bye-week": "11",
+        "rank": 120.5
+    },
+    "Raheem Mostert": {
+        "rankings": {
+            "fantasy-pros-standard": "131",
+            "fantasy-football-calculator-standard": "106",
+            "sporting-news-standard": "154"
+        },
+        "player-name": "Raheem Mostert",
+        "team-name": "MIA",
+        "position": "RB",
+        "bye-week": "11",
+        "rank": 130.33333333333334
+    },
+    "David Njoku": {
+        "rankings": {
+            "fantasy-pros-standard": "132"
+        },
+        "player-name": "David Njoku",
+        "team-name": "CLE",
+        "position": "TE",
+        "rank": 132.0
+    },
+    "Michael Gallup": {
+        "rankings": {
+            "fantasy-pros-standard": "133",
+            "fantasy-football-calculator-standard": "114",
+            "sporting-news-standard": "98"
+        },
+        "player-name": "Michael Gallup",
+        "team-name": "DAL",
+        "position": "WR",
+        "bye-week": "9",
+        "rank": 115.0
+    },
+    "Mike Gesicki": {
+        "rankings": {
+            "fantasy-pros-standard": "134",
+            "fantasy-football-calculator-standard": "115",
+            "sporting-news-standard": "125"
+        },
+        "player-name": "Mike Gesicki",
+        "team-name": "MIA",
+        "position": "TE",
+        "bye-week": "11",
+        "rank": 124.66666666666667
+    },
+    "Khalil Herbert": {
+        "rankings": {
+            "fantasy-pros-standard": "135",
+            "sporting-news-standard": "117"
+        },
+        "player-name": "Khalil Herbert",
+        "team-name": "CHI",
+        "position": "RB",
+        "rank": 126.0
+    },
+    "Jamaal Williams": {
+        "rankings": {
+            "fantasy-pros-standard": "136",
+            "sporting-news-standard": "127"
+        },
+        "player-name": "Jamaal Williams",
+        "team-name": "DET",
+        "position": "RB",
+        "rank": 131.5
+    },
+    "George Pickens": {
+        "rankings": {
+            "fantasy-pros-standard": "137",
+            "sporting-news-standard": "143"
+        },
+        "player-name": "George Pickens",
+        "team-name": "PIT",
+        "position": "WR",
+        "rank": 140.0
+    },
+    "Jameis Winston": {
+        "rankings": {
+            "fantasy-pros-standard": "138",
+            "sporting-news-standard": "129"
+        },
+        "player-name": "Jameis Winston",
+        "team-name": "NO",
+        "position": "QB",
+        "rank": 133.5
+    },
+    "Jakobi Meyers": {
+        "rankings": {
+            "fantasy-pros-standard": "139",
+            "sporting-news-standard": "122"
+        },
+        "player-name": "Jakobi Meyers",
+        "team-name": "NE",
+        "position": "WR",
+        "rank": 130.5
+    },
+    "DJ Chark": {
+        "rankings": {
+            "fantasy-pros-standard": "140",
+            "sporting-news-standard": "141"
+        },
+        "player-name": "DJ Chark",
+        "team-name": "DET",
+        "position": "WR",
+        "rank": 140.5
+    },
+    "DeVante Parker": {
+        "rankings": {
+            "fantasy-pros-standard": "141",
+            "sporting-news-standard": "130"
+        },
+        "player-name": "DeVante Parker",
+        "team-name": "NE",
+        "position": "WR",
+        "rank": 135.5
+    },
+    "Matt Ryan": {
+        "rankings": {
+            "fantasy-pros-standard": "142",
+            "fantasy-football-calculator-standard": "127",
+            "sporting-news-standard": "149"
+        },
+        "player-name": "Matt Ryan",
+        "team-name": "IND",
+        "position": "QB",
+        "bye-week": "14",
+        "rank": 139.33333333333334
+    },
+    "Tyler Allgeier": {
+        "rankings": {
+            "fantasy-pros-standard": "143",
+            "fantasy-football-calculator-standard": "119",
+            "sporting-news-standard": "137"
+        },
+        "player-name": "Tyler Allgeier",
+        "team-name": "ATL",
+        "position": "RB",
+        "bye-week": "14",
+        "rank": 133.0
+    },
+    "Robert Tonyan": {
+        "rankings": {
+            "fantasy-pros-standard": "144",
+            "sporting-news-standard": "134"
+        },
+        "player-name": "Robert Tonyan",
+        "team-name": "GB",
+        "position": "TE",
+        "rank": 139.0
+    },
+    "Gerald Everett": {
+        "rankings": {
+            "fantasy-pros-standard": "145"
+        },
+        "player-name": "Gerald Everett",
+        "team-name": "LAC",
+        "position": "TE",
+        "rank": 145.0
+    },
+    "Tyler Higbee": {
+        "rankings": {
+            "fantasy-pros-standard": "146",
+            "sporting-news-standard": "164"
+        },
+        "player-name": "Tyler Higbee",
+        "team-name": "LAR",
+        "position": "TE",
+        "rank": 155.0
+    },
+    "Julio Jones": {
+        "rankings": {
+            "fantasy-pros-standard": "147",
+            "sporting-news-standard": "97"
+        },
+        "player-name": "Julio Jones",
+        "team-name": "TB",
+        "position": "WR",
+        "rank": 122.0
+    },
+    "Noah Fant": {
+        "rankings": {
+            "fantasy-pros-standard": "148",
+            "sporting-news-standard": "169"
+        },
+        "player-name": "Noah Fant",
+        "team-name": "SEA",
+        "position": "TE",
+        "rank": 158.5
+    },
+    "Jarvis Landry": {
+        "rankings": {
+            "fantasy-pros-standard": "149",
+            "sporting-news-standard": "155"
+        },
+        "player-name": "Jarvis Landry",
+        "team-name": "NO",
+        "position": "WR",
+        "rank": 152.0
+    },
+    "Rachaad White": {
+        "rankings": {
+            "fantasy-pros-standard": "150",
+            "sporting-news-standard": "136"
+        },
+        "player-name": "Rachaad White",
+        "team-name": "TB",
+        "position": "RB",
+        "rank": 143.0
+    },
+    "Ryan Tannehill": {
+        "rankings": {
+            "fantasy-pros-standard": "151",
+            "sporting-news-standard": "150"
+        },
+        "player-name": "Ryan Tannehill",
+        "team-name": "TEN",
+        "position": "QB",
+        "rank": 150.5
+    },
+    "Rondale Moore": {
+        "rankings": {
+            "fantasy-pros-standard": "152",
+            "sporting-news-standard": "142"
+        },
+        "player-name": "Rondale Moore",
+        "team-name": "ARI",
+        "position": "WR",
+        "rank": 147.0
+    },
+    "J.D. McKissic": {
+        "rankings": {
+            "fantasy-pros-standard": "153",
+            "sporting-news-standard": "175"
+        },
+        "player-name": "J.D. McKissic",
+        "team-name": "WAS",
+        "position": "RB",
+        "rank": 164.0
+    },
+    "Buffalo Bills": {
+        "rankings": {
+            "fantasy-pros-standard": "154",
+            "sporting-news-standard": "153"
+        },
+        "player-name": "Buffalo Bills",
+        "team-name": "BUF",
+        "position": "DST",
+        "rank": 153.5
+    },
+    "Kenny Golladay": {
+        "rankings": {
+            "fantasy-pros-standard": "155",
+            "sporting-news-standard": "140"
+        },
+        "player-name": "Kenny Golladay",
+        "team-name": "NYG",
+        "position": "WR",
+        "rank": 147.5
+    },
+    "Jahan Dotson": {
+        "rankings": {
+            "fantasy-pros-standard": "156",
+            "sporting-news-standard": "171"
+        },
+        "player-name": "Jahan Dotson",
+        "team-name": "WAS",
+        "position": "WR",
+        "rank": 163.5
+    },
+    "Tampa Bay Buccaneers": {
+        "rankings": {
+            "fantasy-pros-standard": "157",
+            "sporting-news-standard": "162"
+        },
+        "player-name": "Tampa Bay Buccaneers",
+        "team-name": "TB",
+        "position": "DST",
+        "rank": 159.5
+    },
+    "Evan Engram": {
+        "rankings": {
+            "fantasy-pros-standard": "158"
+        },
+        "player-name": "Evan Engram",
+        "team-name": "JAC",
+        "position": "TE",
+        "rank": 158.0
+    },
+    "Nico Collins": {
+        "rankings": {
+            "fantasy-pros-standard": "159"
+        },
+        "player-name": "Nico Collins",
+        "team-name": "HOU",
+        "position": "WR",
+        "rank": 159.0
+    },
+    "Daniel Jones": {
+        "rankings": {
+            "fantasy-pros-standard": "160",
+            "sporting-news-standard": "166"
+        },
+        "player-name": "Daniel Jones",
+        "team-name": "NYG",
+        "position": "QB",
+        "rank": 163.0
+    },
+    "Mac Jones": {
+        "rankings": {
+            "fantasy-pros-standard": "161"
+        },
+        "player-name": "Mac Jones",
+        "team-name": "NE",
+        "position": "QB",
+        "rank": 161.0
+    },
+    "Zamir White": {
+        "rankings": {
+            "fantasy-pros-standard": "162",
+            "sporting-news-standard": "184"
+        },
+        "player-name": "Zamir White",
+        "team-name": "LV",
+        "position": "RB",
+        "rank": 173.0
+    },
+    "Austin Hooper": {
+        "rankings": {
+            "fantasy-pros-standard": "163"
+        },
+        "player-name": "Austin Hooper",
+        "team-name": "TEN",
+        "position": "TE",
+        "rank": 163.0
+    },
+    "San Francisco 49ers": {
+        "rankings": {
+            "fantasy-pros-standard": "164",
+            "sporting-news-standard": "163"
+        },
+        "player-name": "San Francisco 49ers",
+        "team-name": "SF",
+        "position": "DST",
+        "rank": 163.5
+    },
+    "Isaiah Spiller": {
+        "rankings": {
+            "fantasy-pros-standard": "165",
+            "sporting-news-standard": "183"
+        },
+        "player-name": "Isaiah Spiller",
+        "team-name": "LAC",
+        "position": "RB",
+        "rank": 174.0
+    },
+    "Carson Wentz": {
+        "rankings": {
+            "fantasy-pros-standard": "166",
+            "sporting-news-standard": "177"
+        },
+        "player-name": "Carson Wentz",
+        "team-name": "WAS",
+        "position": "QB",
+        "rank": 171.5
+    },
+    "Corey Davis": {
+        "rankings": {
+            "fantasy-pros-standard": "167",
+            "sporting-news-standard": "200"
+        },
+        "player-name": "Corey Davis",
+        "team-name": "NYJ",
+        "position": "WR",
+        "rank": 183.5
+    },
+    "Mark Ingram II": {
+        "rankings": {
+            "fantasy-pros-standard": "168",
+            "fantasy-football-calculator-standard": "129"
+        },
+        "player-name": "Mark Ingram II",
+        "team-name": "NO",
+        "position": "RB",
+        "bye-week": "14",
+        "rank": 148.5
+    },
+    "Jared Goff": {
+        "rankings": {
+            "fantasy-pros-standard": "169"
+        },
+        "player-name": "Jared Goff",
+        "team-name": "DET",
+        "position": "QB",
+        "rank": 169.0
+    },
+    "Indianapolis Colts": {
+        "rankings": {
+            "fantasy-pros-standard": "170",
+            "sporting-news-standard": "178"
+        },
+        "player-name": "Indianapolis Colts",
+        "team-name": "IND",
+        "position": "DST",
+        "rank": 174.0
+    },
+    "Joshua Palmer": {
+        "rankings": {
+            "fantasy-pros-standard": "171",
+            "sporting-news-standard": "152"
+        },
+        "player-name": "Joshua Palmer",
+        "team-name": "LAC",
+        "position": "WR",
+        "rank": 161.5
+    },
+    "Logan Thomas": {
+        "rankings": {
+            "fantasy-pros-standard": "172",
+            "sporting-news-standard": "124"
+        },
+        "player-name": "Logan Thomas",
+        "team-name": "WAS",
+        "position": "TE",
+        "rank": 148.0
+    },
+    "Justin Tucker": {
+        "rankings": {
+            "fantasy-pros-standard": "173"
+        },
+        "player-name": "Justin Tucker",
+        "team-name": "BAL",
+        "position": "K",
+        "rank": 173.0
+    },
+    "Mecole Hardman": {
+        "rankings": {
+            "fantasy-pros-standard": "174",
+            "sporting-news-standard": "151"
+        },
+        "player-name": "Mecole Hardman",
+        "team-name": "KC",
+        "position": "WR",
+        "rank": 162.5
+    },
+    "K.J. Osborn": {
+        "rankings": {
+            "fantasy-pros-standard": "175",
+            "sporting-news-standard": "170"
+        },
+        "player-name": "K.J. Osborn",
+        "team-name": "MIN",
+        "position": "WR",
+        "rank": 172.5
+    },
+    "D'Onta Foreman": {
+        "rankings": {
+            "fantasy-pros-standard": "176"
+        },
+        "player-name": "D'Onta Foreman",
+        "team-name": "CAR",
+        "position": "RB",
+        "rank": 176.0
+    },
+    "Robbie Anderson": {
+        "rankings": {
+            "fantasy-pros-standard": "177",
+            "sporting-news-standard": "176"
+        },
+        "player-name": "Robbie Anderson",
+        "team-name": "CAR",
+        "position": "WR",
+        "rank": 176.5
+    },
+    "New Orleans Saints": {
+        "rankings": {
+            "fantasy-pros-standard": "178",
+            "sporting-news-standard": "192"
+        },
+        "player-name": "New Orleans Saints",
+        "team-name": "NO",
+        "position": "DST",
+        "rank": 185.0
+    },
+    "Hayden Hurst": {
+        "rankings": {
+            "fantasy-pros-standard": "179"
+        },
+        "player-name": "Hayden Hurst",
+        "team-name": "CIN",
+        "position": "TE",
+        "rank": 179.0
+    },
+    "Gus Edwards": {
+        "rankings": {
+            "fantasy-pros-standard": "180",
+            "fantasy-football-calculator-standard": "123",
+            "sporting-news-standard": "128"
+        },
+        "player-name": "Gus Edwards",
+        "team-name": "BAL",
+        "position": "RB",
+        "bye-week": "10",
+        "rank": 143.66666666666666
+    },
+    "Van Jefferson": {
+        "rankings": {
+            "fantasy-pros-standard": "181",
+            "sporting-news-standard": "147"
+        },
+        "player-name": "Van Jefferson",
+        "team-name": "LAR",
+        "position": "WR",
+        "rank": 164.0
+    },
+    "Denver Broncos": {
+        "rankings": {
+            "fantasy-pros-standard": "182",
+            "sporting-news-standard": "173"
+        },
+        "player-name": "Denver Broncos",
+        "team-name": "DEN",
+        "position": "DST",
+        "rank": 177.5
+    },
+    "Los Angeles Rams": {
+        "rankings": {
+            "fantasy-pros-standard": "183",
+            "sporting-news-standard": "191"
+        },
+        "player-name": "Los Angeles Rams",
+        "team-name": "LAR",
+        "position": "DST",
+        "rank": 187.0
+    },
+    "Baker Mayfield": {
+        "rankings": {
+            "fantasy-pros-standard": "184",
+            "sporting-news-standard": "172"
+        },
+        "player-name": "Baker Mayfield",
+        "team-name": "CAR",
+        "position": "QB",
+        "rank": 178.0
+    },
+    "Zach Wilson": {
+        "rankings": {
+            "fantasy-pros-standard": "185",
+            "sporting-news-standard": "160"
+        },
+        "player-name": "Zach Wilson",
+        "team-name": "NYJ",
+        "position": "QB",
+        "rank": 172.5
+    },
+    "Brian Robinson": {
+        "rankings": {
+            "fantasy-pros-standard": "186",
+            "sporting-news-standard": "185"
+        },
+        "player-name": "Brian Robinson",
+        "team-name": "WAS",
+        "position": "RB",
+        "rank": 185.5
+    },
+    "New England Patriots": {
+        "rankings": {
+            "fantasy-pros-standard": "187",
+            "sporting-news-standard": "174"
+        },
+        "player-name": "New England Patriots",
+        "team-name": "NE",
+        "position": "DST",
+        "rank": 180.5
+    },
+    "Jameson Williams": {
+        "rankings": {
+            "fantasy-pros-standard": "188",
+            "sporting-news-standard": "148"
+        },
+        "player-name": "Jameson Williams",
+        "team-name": "DET",
+        "position": "WR",
+        "rank": 168.0
+    },
+    "Jalen Tolbert": {
+        "rankings": {
+            "fantasy-pros-standard": "189",
+            "sporting-news-standard": "193"
+        },
+        "player-name": "Jalen Tolbert",
+        "team-name": "DAL",
+        "position": "WR",
+        "rank": 191.0
+    },
+    "Christian Watson": {
+        "rankings": {
+            "fantasy-pros-standard": "190",
+            "sporting-news-standard": "199"
+        },
+        "player-name": "Christian Watson",
+        "team-name": "GB",
+        "position": "WR",
+        "rank": 194.5
+    },
+    "Tyler Bass": {
+        "rankings": {
+            "fantasy-pros-standard": "191"
+        },
+        "player-name": "Tyler Bass",
+        "team-name": "BUF",
+        "position": "K",
+        "rank": 191.0
+    },
+    "Boston Scott": {
+        "rankings": {
+            "fantasy-pros-standard": "192"
+        },
+        "player-name": "Boston Scott",
+        "team-name": "PHI",
+        "position": "RB",
+        "rank": 192.0
+    },
+    "Marvin Jones": {
+        "rankings": {
+            "fantasy-pros-standard": "193",
+            "sporting-news-standard": "157"
+        },
+        "player-name": "Marvin Jones",
+        "team-name": "JAC",
+        "position": "WR",
+        "rank": 175.0
+    },
+    "Darrel Williams": {
+        "rankings": {
+            "fantasy-pros-standard": "194",
+            "sporting-news-standard": "181"
+        },
+        "player-name": "Darrel Williams",
+        "team-name": "ARI",
+        "position": "RB",
+        "rank": 187.5
+    },
+    "Davis Mills": {
+        "rankings": {
+            "fantasy-pros-standard": "195"
+        },
+        "player-name": "Davis Mills",
+        "team-name": "HOU",
+        "position": "QB",
+        "rank": 195.0
+    },
+    "Isiah Pacheco": {
+        "rankings": {
+            "fantasy-pros-standard": "196",
+            "sporting-news-standard": "182"
+        },
+        "player-name": "Isiah Pacheco",
+        "team-name": "KC",
+        "position": "RB",
+        "rank": 189.0
+    },
+    "Dallas Cowboys": {
+        "rankings": {
+            "fantasy-pros-standard": "197",
+            "sporting-news-standard": "158"
+        },
+        "player-name": "Dallas Cowboys",
+        "team-name": "DAL",
+        "position": "DST",
+        "rank": 177.5
+    },
+    "Matt Gay": {
+        "rankings": {
+            "fantasy-pros-standard": "198"
+        },
+        "player-name": "Matt Gay",
+        "team-name": "LAR",
+        "position": "K",
+        "rank": 198.0
+    },
+    "Wan'Dale Robinson": {
+        "rankings": {
+            "fantasy-pros-standard": "199"
+        },
+        "player-name": "Wan'Dale Robinson",
+        "team-name": "NYG",
+        "position": "WR",
+        "rank": 199.0
+    },
+    "KJ Hamler": {
+        "rankings": {
+            "fantasy-pros-standard": "200",
+            "sporting-news-standard": "156"
+        },
+        "player-name": "KJ Hamler",
+        "team-name": "DEN",
+        "position": "WR",
+        "rank": 178.0
+    },
+    "Evan McPherson": {
+        "rankings": {
+            "fantasy-pros-standard": "201"
+        },
+        "player-name": "Evan McPherson",
+        "team-name": "CIN",
+        "position": "K",
+        "rank": 201.0
+    },
+    "Ronald Jones II": {
+        "rankings": {
+            "fantasy-pros-standard": "202",
+            "fantasy-football-calculator-standard": "100"
+        },
+        "player-name": "Ronald Jones II",
+        "team-name": "KC",
+        "position": "RB",
+        "bye-week": "8",
+        "rank": 151.0
+    },
+    "Los Angeles Chargers": {
+        "rankings": {
+            "fantasy-pros-standard": "203",
+            "sporting-news-standard": "195"
+        },
+        "player-name": "Los Angeles Chargers",
+        "team-name": "LAC",
+        "position": "DST",
+        "rank": 199.0
+    },
+    "Alec Pierce": {
+        "rankings": {
+            "fantasy-pros-standard": "204",
+            "sporting-news-standard": "198"
+        },
+        "player-name": "Alec Pierce",
+        "team-name": "IND",
+        "position": "WR",
+        "rank": 201.0
+    },
+    "Daniel Carlson": {
+        "rankings": {
+            "fantasy-pros-standard": "205"
+        },
+        "player-name": "Daniel Carlson",
+        "team-name": "LV",
+        "position": "K",
+        "rank": 205.0
+    },
+    "Sony Michel": {
+        "rankings": {
+            "fantasy-pros-standard": "206"
+        },
+        "player-name": "Sony Michel",
+        "team-name": "LAC",
+        "position": "RB",
+        "rank": 206.0
+    },
+    "Romeo Doubs": {
+        "rankings": {
+            "fantasy-pros-standard": "207",
+            "sporting-news-standard": "144"
+        },
+        "player-name": "Romeo Doubs",
+        "team-name": "GB",
+        "position": "WR",
+        "rank": 175.5
+    },
+    "Isaiah McKenzie": {
+        "rankings": {
+            "fantasy-pros-standard": "208",
+            "sporting-news-standard": "165"
+        },
+        "player-name": "Isaiah McKenzie",
+        "team-name": "BUF",
+        "position": "WR",
+        "rank": 186.5
+    },
+    "Curtis Samuel": {
+        "rankings": {
+            "fantasy-pros-standard": "209"
+        },
+        "player-name": "Curtis Samuel",
+        "team-name": "WAS",
+        "position": "WR",
+        "rank": 209.0
+    },
+    "Donovan Peoples-Jones": {
+        "rankings": {
+            "fantasy-pros-standard": "210"
+        },
+        "player-name": "Donovan Peoples-Jones",
+        "team-name": "CLE",
+        "position": "WR",
+        "rank": 210.0
+    },
+    "Green Bay Packers": {
+        "rankings": {
+            "fantasy-pros-standard": "211"
+        },
+        "player-name": "Green Bay Packers",
+        "team-name": "GB",
+        "position": "DST",
+        "rank": 211.0
+    },
+    "Parris Campbell": {
+        "rankings": {
+            "fantasy-pros-standard": "212"
+        },
+        "player-name": "Parris Campbell",
+        "team-name": "IND",
+        "position": "WR",
+        "rank": 212.0
+    },
+    "Miami Dolphins": {
+        "rankings": {
+            "fantasy-pros-standard": "213",
+            "sporting-news-standard": "179"
+        },
+        "player-name": "Miami Dolphins",
+        "team-name": "MIA",
+        "position": "DST",
+        "rank": 196.0
+    },
+    "Brevin Jordan": {
+        "rankings": {
+            "fantasy-pros-standard": "214"
+        },
+        "player-name": "Brevin Jordan",
+        "team-name": "HOU",
+        "position": "TE",
+        "rank": 214.0
+    },
+    "Jeff Wilson": {
+        "rankings": {
+            "fantasy-pros-standard": "215"
+        },
+        "player-name": "Jeff Wilson",
+        "team-name": "SF",
+        "position": "RB",
+        "rank": 215.0
+    },
+    "Tyrion Davis-Price": {
+        "rankings": {
+            "fantasy-pros-standard": "216"
+        },
+        "player-name": "Tyrion Davis-Price",
+        "team-name": "SF",
+        "position": "RB",
+        "rank": 216.0
+    },
+    "Mo Alie-Cox": {
+        "rankings": {
+            "fantasy-pros-standard": "217",
+            "sporting-news-standard": "189"
+        },
+        "player-name": "Mo Alie-Cox",
+        "team-name": "IND",
+        "position": "TE",
+        "rank": 203.0
+    },
+    "Harrison Butker": {
+        "rankings": {
+            "fantasy-pros-standard": "218"
+        },
+        "player-name": "Harrison Butker",
+        "team-name": "KC",
+        "position": "K",
+        "rank": 218.0
+    },
+    "Kansas City Chiefs": {
+        "rankings": {
+            "fantasy-pros-standard": "219"
+        },
+        "player-name": "Kansas City Chiefs",
+        "team-name": "KC",
+        "position": "DST",
+        "rank": 219.0
+    },
+    "Marcus Mariota": {
+        "rankings": {
+            "fantasy-pros-standard": "220"
+        },
+        "player-name": "Marcus Mariota",
+        "team-name": "ATL",
+        "position": "QB",
+        "rank": 220.0
+    },
+    "Ryan Succop": {
+        "rankings": {
+            "fantasy-pros-standard": "221"
+        },
+        "player-name": "Ryan Succop",
+        "team-name": "TB",
+        "position": "K",
+        "rank": 221.0
+    },
+    "Cleveland Browns": {
+        "rankings": {
+            "fantasy-pros-standard": "222",
+            "sporting-news-standard": "197"
+        },
+        "player-name": "Cleveland Browns",
+        "team-name": "CLE",
+        "position": "DST",
+        "rank": 209.5
+    },
+    "Baltimore Ravens": {
+        "rankings": {
+            "fantasy-pros-standard": "223",
+            "sporting-news-standard": "194"
+        },
+        "player-name": "Baltimore Ravens",
+        "team-name": "BAL",
+        "position": "DST",
+        "rank": 208.5
+    },
+    "Matt Prater": {
+        "rankings": {
+            "fantasy-pros-standard": "224"
+        },
+        "player-name": "Matt Prater",
+        "team-name": "ARI",
+        "position": "K",
+        "rank": 224.0
+    },
+    "D'Ernest Johnson": {
+        "rankings": {
+            "fantasy-pros-standard": "225"
+        },
+        "player-name": "D'Ernest Johnson",
+        "team-name": "CLE",
+        "position": "RB",
+        "rank": 225.0
+    },
+    "Kendrick Bourne": {
+        "rankings": {
+            "fantasy-pros-standard": "226"
+        },
+        "player-name": "Kendrick Bourne",
+        "team-name": "NE",
+        "position": "WR",
+        "rank": 226.0
+    },
+    "Philadelphia Eagles": {
+        "rankings": {
+            "fantasy-pros-standard": "227",
+            "sporting-news-standard": "196"
+        },
+        "player-name": "Philadelphia Eagles",
+        "team-name": "PHI",
+        "position": "DST",
+        "rank": 211.5
+    },
+    "AJ Green": {
+        "rankings": {
+            "fantasy-pros-standard": "228"
+        },
+        "player-name": "AJ Green",
+        "team-name": "ARI",
+        "position": "WR",
+        "rank": 228.0
+    },
+    "Jamison Crowder": {
+        "rankings": {
+            "fantasy-pros-standard": "229"
+        },
+        "player-name": "Jamison Crowder",
+        "team-name": "BUF",
+        "position": "WR",
+        "rank": 229.0
+    },
+    "Pittsburgh Steelers": {
+        "rankings": {
+            "fantasy-pros-standard": "230"
+        },
+        "player-name": "Pittsburgh Steelers",
+        "team-name": "PIT",
+        "position": "DST",
+        "rank": 230.0
+    },
+    "David Bell": {
+        "rankings": {
+            "fantasy-pros-standard": "231"
+        },
+        "player-name": "David Bell",
+        "team-name": "CLE",
+        "position": "WR",
+        "rank": 231.0
+    },
+    "Samaje Perine": {
+        "rankings": {
+            "fantasy-pros-standard": "232"
+        },
+        "player-name": "Samaje Perine",
+        "team-name": "CIN",
+        "position": "RB",
+        "rank": 232.0
+    },
+    "Rex Burkhead": {
+        "rankings": {
+            "fantasy-pros-standard": "233",
+            "sporting-news-standard": "146"
+        },
+        "player-name": "Rex Burkhead",
+        "team-name": "HOU",
+        "position": "RB",
+        "rank": 189.5
+    },
+    "Sterling Shepard": {
+        "rankings": {
+            "fantasy-pros-standard": "234"
+        },
+        "player-name": "Sterling Shepard",
+        "team-name": "NYG",
+        "position": "WR",
+        "rank": 234.0
+    },
+    "Rodrigo Blankenship": {
+        "rankings": {
+            "fantasy-pros-standard": "235"
+        },
+        "player-name": "Rodrigo Blankenship",
+        "team-name": "IND",
+        "position": "K",
+        "rank": 235.0
+    },
+    "Jerick McKinnon": {
+        "rankings": {
+            "fantasy-pros-standard": "236"
+        },
+        "player-name": "Jerick McKinnon",
+        "team-name": "KC",
+        "position": "RB",
+        "rank": 236.0
+    },
+    "Chuba Hubbard": {
+        "rankings": {
+            "fantasy-pros-standard": "237"
+        },
+        "player-name": "Chuba Hubbard",
+        "team-name": "CAR",
+        "position": "RB",
+        "rank": 237.0
+    },
+    "Jonnu Smith": {
+        "rankings": {
+            "fantasy-pros-standard": "238"
+        },
+        "player-name": "Jonnu Smith",
+        "team-name": "NE",
+        "position": "TE",
+        "rank": 238.0
+    },
+    "Mike Davis": {
+        "rankings": {
+            "fantasy-pros-standard": "239"
+        },
+        "player-name": "Mike Davis",
+        "team-name": "BAL",
+        "position": "RB",
+        "rank": 239.0
+    },
+    "Jason Sanders": {
+        "rankings": {
+            "fantasy-pros-standard": "240"
+        },
+        "player-name": "Jason Sanders",
+        "team-name": "MIA",
+        "position": "K",
+        "rank": 240.0
+    },
+    "Damien Williams": {
+        "rankings": {
+            "fantasy-pros-standard": "241"
+        },
+        "player-name": "Damien Williams",
+        "team-name": "ATL",
+        "position": "RB",
+        "rank": 241.0
+    },
+    "Zack Moss": {
+        "rankings": {
+            "fantasy-pros-standard": "242"
+        },
+        "player-name": "Zack Moss",
+        "team-name": "BUF",
+        "position": "RB",
+        "rank": 242.0
+    },
+    "Kenyan Drake": {
+        "rankings": {
+            "fantasy-pros-standard": "243"
+        },
+        "player-name": "Kenyan Drake",
+        "team-name": "BAL",
+        "position": "RB",
+        "rank": 243.0
+    },
+    "Brandon McManus": {
+        "rankings": {
+            "fantasy-pros-standard": "244"
+        },
+        "player-name": "Brandon McManus",
+        "team-name": "DEN",
+        "position": "K",
+        "rank": 244.0
+    },
+    "Younghoe Koo": {
+        "rankings": {
+            "fantasy-pros-standard": "245"
+        },
+        "player-name": "Younghoe Koo",
+        "team-name": "ATL",
+        "position": "K",
+        "rank": 245.0
+    },
+    "Zay Jones": {
+        "rankings": {
+            "fantasy-pros-standard": "246"
+        },
+        "player-name": "Zay Jones",
+        "team-name": "JAC",
+        "position": "WR",
+        "rank": 246.0
+    },
+    "Arizona Cardinals": {
+        "rankings": {
+            "fantasy-pros-standard": "247"
+        },
+        "player-name": "Arizona Cardinals",
+        "team-name": "ARI",
+        "position": "DST",
+        "rank": 247.0
+    },
+    "Nick Folk": {
+        "rankings": {
+            "fantasy-pros-standard": "248"
+        },
+        "player-name": "Nick Folk",
+        "team-name": "NE",
+        "position": "K",
+        "rank": 248.0
+    },
+    "Laviska Shenault": {
+        "rankings": {
+            "fantasy-pros-standard": "249"
+        },
+        "player-name": "Laviska Shenault",
+        "team-name": "CAR",
+        "position": "WR",
+        "rank": 249.0
+    },
+    "Tennessee Titans": {
+        "rankings": {
+            "fantasy-pros-standard": "250"
+        },
+        "player-name": "Tennessee Titans",
+        "team-name": "TEN",
+        "position": "DST",
+        "rank": 250.0
+    },
+    "Cincinnati Bengals": {
+        "rankings": {
+            "fantasy-pros-standard": "251"
+        },
+        "player-name": "Cincinnati Bengals",
+        "team-name": "CIN",
+        "position": "DST",
+        "rank": 251.0
+    },
+    "Robbie Gould": {
+        "rankings": {
+            "fantasy-pros-standard": "252"
+        },
+        "player-name": "Robbie Gould",
+        "team-name": "SF",
+        "position": "K",
+        "rank": 252.0
+    },
+    "Adam Trautman": {
+        "rankings": {
+            "fantasy-pros-standard": "253"
+        },
+        "player-name": "Adam Trautman",
+        "team-name": "NO",
+        "position": "TE",
+        "rank": 253.0
+    },
+    "Mitch Trubisky": {
+        "rankings": {
+            "fantasy-pros-standard": "254"
+        },
+        "player-name": "Mitch Trubisky",
+        "team-name": "PIT",
+        "position": "QB",
+        "rank": 254.0
+    },
+    "Jake Elliott": {
+        "rankings": {
+            "fantasy-pros-standard": "255"
+        },
+        "player-name": "Jake Elliott",
+        "team-name": "PHI",
+        "position": "K",
+        "rank": 255.0
+    },
+    "Eno Benjamin": {
+        "rankings": {
+            "fantasy-pros-standard": "256"
+        },
+        "player-name": "Eno Benjamin",
+        "team-name": "ARI",
+        "position": "RB",
+        "rank": 256.0
+    },
+    "Sammy Watkins": {
+        "rankings": {
+            "fantasy-pros-standard": "257",
+            "sporting-news-standard": "167"
+        },
+        "player-name": "Sammy Watkins",
+        "team-name": "GB",
+        "position": "WR",
+        "rank": 212.0
+    },
+    "Byron Pringle": {
+        "rankings": {
+            "fantasy-pros-standard": "258"
+        },
+        "player-name": "Byron Pringle",
+        "team-name": "CHI",
+        "position": "WR",
+        "rank": 258.0
+    },
+    "Dustin Hopkins": {
+        "rankings": {
+            "fantasy-pros-standard": "259"
+        },
+        "player-name": "Dustin Hopkins",
+        "team-name": "LAC",
+        "position": "K",
+        "rank": 259.0
+    },
+    "Terrace Marshall": {
+        "rankings": {
+            "fantasy-pros-standard": "260"
+        },
+        "player-name": "Terrace Marshall",
+        "team-name": "CAR",
+        "position": "WR",
+        "rank": 260.0
+    },
+    "Marlon Mack": {
+        "rankings": {
+            "fantasy-pros-standard": "261",
+            "fantasy-football-calculator-standard": "118"
+        },
+        "player-name": "Marlon Mack",
+        "team-name": "HOU",
+        "position": "RB",
+        "bye-week": "6",
+        "rank": 189.5
+    },
+    "Cameron Brate": {
+        "rankings": {
+            "fantasy-pros-standard": "262",
+            "sporting-news-standard": "138"
+        },
+        "player-name": "Cameron Brate",
+        "team-name": "TB",
+        "position": "TE",
+        "rank": 200.0
+    },
+    "Bryan Edwards": {
+        "rankings": {
+            "fantasy-pros-standard": "263"
+        },
+        "player-name": "Bryan Edwards",
+        "team-name": "ATL",
+        "position": "WR",
+        "rank": 263.0
+    },
+    "Randall Cobb": {
+        "rankings": {
+            "fantasy-pros-standard": "264"
+        },
+        "player-name": "Randall Cobb",
+        "team-name": "GB",
+        "position": "WR",
+        "rank": 264.0
+    },
+    "Deshaun Watson": {
+        "rankings": {
+            "fantasy-pros-standard": "265"
+        },
+        "player-name": "Deshaun Watson",
+        "team-name": "CLE",
+        "position": "QB",
+        "rank": 265.0
+    },
+    "Braxton Berrios": {
+        "rankings": {
+            "fantasy-pros-standard": "266"
+        },
+        "player-name": "Braxton Berrios",
+        "team-name": "NYJ",
+        "position": "WR",
+        "rank": 266.0
+    },
+    "Wil Lutz": {
+        "rankings": {
+            "fantasy-pros-standard": "267"
+        },
+        "player-name": "Wil Lutz",
+        "team-name": "NO",
+        "position": "K",
+        "rank": 267.0
+    },
+    "Carolina Panthers": {
+        "rankings": {
+            "fantasy-pros-standard": "268"
+        },
+        "player-name": "Carolina Panthers",
+        "team-name": "CAR",
+        "position": "DST",
+        "rank": 268.0
+    },
+    "Minnesota Vikings": {
+        "rankings": {
+            "fantasy-pros-standard": "269"
+        },
+        "player-name": "Minnesota Vikings",
+        "team-name": "MIN",
+        "position": "DST",
+        "rank": 269.0
+    },
+    "Trey Sermon": {
+        "rankings": {
+            "fantasy-pros-standard": "270"
+        },
+        "player-name": "Trey Sermon",
+        "team-name": "PHI",
+        "position": "RB",
+        "rank": 270.0
+    },
+    "Matt Breida": {
+        "rankings": {
+            "fantasy-pros-standard": "271"
+        },
+        "player-name": "Matt Breida",
+        "team-name": "NYG",
+        "position": "RB",
+        "rank": 271.0
+    },
+    "Chris Boswell": {
+        "rankings": {
+            "fantasy-pros-standard": "272"
+        },
+        "player-name": "Chris Boswell",
+        "team-name": "PIT",
+        "position": "K",
+        "rank": 272.0
+    },
+    "C.J. Uzomah": {
+        "rankings": {
+            "fantasy-pros-standard": "273"
+        },
+        "player-name": "C.J. Uzomah",
+        "team-name": "NYJ",
+        "position": "TE",
+        "rank": 273.0
+    },
+    "Nelson Agholor": {
+        "rankings": {
+            "fantasy-pros-standard": "274",
+            "sporting-news-standard": "145"
+        },
+        "player-name": "Nelson Agholor",
+        "team-name": "NE",
+        "position": "WR",
+        "rank": 209.5
+    },
+    "Dan Arnold": {
+        "rankings": {
+            "fantasy-pros-standard": "275"
+        },
+        "player-name": "Dan Arnold",
+        "team-name": "JAC",
+        "position": "TE",
+        "rank": 275.0
+    },
+    "Cedrick Wilson": {
+        "rankings": {
+            "fantasy-pros-standard": "276"
+        },
+        "player-name": "Cedrick Wilson",
+        "team-name": "MIA",
+        "position": "WR",
+        "rank": 276.0
+    },
+    "Mason Crosby": {
+        "rankings": {
+            "fantasy-pros-standard": "277"
+        },
+        "player-name": "Mason Crosby",
+        "team-name": "GB",
+        "position": "K",
+        "rank": 277.0
+    },
+    "Greg Zuerlein": {
+        "rankings": {
+            "fantasy-pros-standard": "278"
+        },
+        "player-name": "Greg Zuerlein",
+        "team-name": "NYJ",
+        "position": "K",
+        "rank": 278.0
+    },
+    "Hassan Haskins": {
+        "rankings": {
+            "fantasy-pros-standard": "279"
+        },
+        "player-name": "Hassan Haskins",
+        "team-name": "TEN",
+        "position": "RB",
+        "rank": 279.0
+    },
+    "Myles Gaskin": {
+        "rankings": {
+            "fantasy-pros-standard": "280"
+        },
+        "player-name": "Myles Gaskin",
+        "team-name": "MIA",
+        "position": "RB",
+        "rank": 280.0
+    },
+    "Greg Joseph": {
+        "rankings": {
+            "fantasy-pros-standard": "281"
+        },
+        "player-name": "Greg Joseph",
+        "team-name": "MIN",
+        "position": "K",
+        "rank": 281.0
+    },
+    "Marquez Callaway": {
+        "rankings": {
+            "fantasy-pros-standard": "282"
+        },
+        "player-name": "Marquez Callaway",
+        "team-name": "NO",
+        "position": "WR",
+        "rank": 282.0
+    },
+    "Chicago Bears": {
+        "rankings": {
+            "fantasy-pros-standard": "283"
+        },
+        "player-name": "Chicago Bears",
+        "team-name": "CHI",
+        "position": "DST",
+        "rank": 283.0
+    },
+    "Washington Commanders": {
+        "rankings": {
+            "fantasy-pros-standard": "284"
+        },
+        "player-name": "Washington Commanders",
+        "team-name": "WAS",
+        "position": "DST",
+        "rank": 284.0
+    },
+    "Ke'Shawn Vaughn": {
+        "rankings": {
+            "fantasy-pros-standard": "285"
+        },
+        "player-name": "Ke'Shawn Vaughn",
+        "team-name": "TB",
+        "position": "RB",
+        "rank": 285.0
+    },
+    "Graham Gano": {
+        "rankings": {
+            "fantasy-pros-standard": "286"
+        },
+        "player-name": "Graham Gano",
+        "team-name": "NYG",
+        "position": "K",
+        "rank": 286.0
+    },
+    "Joshua Kelley": {
+        "rankings": {
+            "fantasy-pros-standard": "287",
+            "sporting-news-standard": "186"
+        },
+        "player-name": "Joshua Kelley",
+        "team-name": "LAC",
+        "position": "RB",
+        "rank": 236.5
+    },
+    "Trey McBride": {
+        "rankings": {
+            "fantasy-pros-standard": "288"
+        },
+        "player-name": "Trey McBride",
+        "team-name": "ARI",
+        "position": "TE",
+        "rank": 288.0
+    },
+    "Jason Myers": {
+        "rankings": {
+            "fantasy-pros-standard": "289"
+        },
+        "player-name": "Jason Myers",
+        "team-name": "SEA",
+        "position": "K",
+        "rank": 289.0
+    },
+    "New York Giants": {
+        "rankings": {
+            "fantasy-pros-standard": "290"
+        },
+        "player-name": "New York Giants",
+        "team-name": "NYG",
+        "position": "DST",
+        "rank": 290.0
+    },
+    "Kenny Pickett": {
+        "rankings": {
+            "fantasy-pros-standard": "291"
+        },
+        "player-name": "Kenny Pickett",
+        "team-name": "PIT",
+        "position": "QB",
+        "rank": 291.0
+    },
+    "Chris Evans": {
+        "rankings": {
+            "fantasy-pros-standard": "292"
+        },
+        "player-name": "Chris Evans",
+        "team-name": "CIN",
+        "position": "RB",
+        "rank": 292.0
+    },
+    "Jacoby Brissett": {
+        "rankings": {
+            "fantasy-pros-standard": "293"
+        },
+        "player-name": "Jacoby Brissett",
+        "team-name": "CLE",
+        "position": "QB",
+        "rank": 293.0
+    },
+    "William Fuller V": {
+        "rankings": {
+            "fantasy-pros-standard": "294"
+        },
+        "player-name": "William Fuller V",
+        "team-name": "FA",
+        "position": "WR",
+        "rank": 294.0
+    },
+    "Cairo Santos": {
+        "rankings": {
+            "fantasy-pros-standard": "295"
+        },
+        "player-name": "Cairo Santos",
+        "team-name": "CHI",
+        "position": "K",
+        "rank": 295.0
+    },
+    "Randy Bullock": {
+        "rankings": {
+            "fantasy-pros-standard": "296"
+        },
+        "player-name": "Randy Bullock",
+        "team-name": "TEN",
+        "position": "K",
+        "rank": 296.0
+    },
+    "Geno Smith": {
+        "rankings": {
+            "fantasy-pros-standard": "297"
+        },
+        "player-name": "Geno Smith",
+        "team-name": "SEA",
+        "position": "QB",
+        "rank": 297.0
+    },
+    "Kyle Rudolph": {
+        "rankings": {
+            "fantasy-pros-standard": "298"
+        },
+        "player-name": "Kyle Rudolph",
+        "team-name": "TB",
+        "position": "TE",
+        "rank": 298.0
+    },
+    "Nick Westbrook-Ikhine": {
+        "rankings": {
+            "fantasy-pros-standard": "299"
+        },
+        "player-name": "Nick Westbrook-Ikhine",
+        "team-name": "TEN",
+        "position": "WR",
+        "rank": 299.0
+    },
+    "Quez Watkins": {
+        "rankings": {
+            "fantasy-pros-standard": "300"
+        },
+        "player-name": "Quez Watkins",
+        "team-name": "PHI",
+        "position": "WR",
+        "rank": 300.0
+    },
+    "New York Jets": {
+        "rankings": {
+            "fantasy-pros-standard": "301"
+        },
+        "player-name": "New York Jets",
+        "team-name": "NYJ",
+        "position": "DST",
+        "rank": 301.0
+    },
+    "Kyren Williams": {
+        "rankings": {
+            "fantasy-pros-standard": "302",
+            "sporting-news-standard": "188"
+        },
+        "player-name": "Kyren Williams",
+        "team-name": "LAR",
+        "position": "RB",
+        "rank": 245.0
+    },
+    "Odell Beckham": {
+        "rankings": {
+            "fantasy-pros-standard": "303"
+        },
+        "player-name": "Odell Beckham",
+        "team-name": "FA",
+        "position": "WR",
+        "rank": 303.0
+    },
+    "Velus Jones": {
+        "rankings": {
+            "fantasy-pros-standard": "304"
+        },
+        "player-name": "Velus Jones",
+        "team-name": "CHI",
+        "position": "WR",
+        "rank": 304.0
+    },
+    "Josh Reynolds": {
+        "rankings": {
+            "fantasy-pros-standard": "305"
+        },
+        "player-name": "Josh Reynolds",
+        "team-name": "DET",
+        "position": "WR",
+        "rank": 305.0
+    },
+    "Seattle Seahawks": {
+        "rankings": {
+            "fantasy-pros-standard": "306"
+        },
+        "player-name": "Seattle Seahawks",
+        "team-name": "SEA",
+        "position": "DST",
+        "rank": 306.0
+    },
+    "Tyler Conklin": {
+        "rankings": {
+            "fantasy-pros-standard": "307"
+        },
+        "player-name": "Tyler Conklin",
+        "team-name": "NYJ",
+        "position": "TE",
+        "rank": 307.0
+    },
+    "Ka'imi Fairbairn": {
+        "rankings": {
+            "fantasy-pros-standard": "308"
+        },
+        "player-name": "Ka'imi Fairbairn",
+        "team-name": "HOU",
+        "position": "K",
+        "rank": 308.0
+    },
+    "O.J. Howard": {
+        "rankings": {
+            "fantasy-pros-standard": "309"
+        },
+        "player-name": "O.J. Howard",
+        "team-name": "HOU",
+        "position": "TE",
+        "rank": 309.0
+    },
+    "Daniel Bellinger": {
+        "rankings": {
+            "fantasy-pros-standard": "310"
+        },
+        "player-name": "Daniel Bellinger",
+        "team-name": "NYG",
+        "position": "TE",
+        "rank": 310.0
+    },
+    "Ameer Abdullah": {
+        "rankings": {
+            "fantasy-pros-standard": "311"
+        },
+        "player-name": "Ameer Abdullah",
+        "team-name": "LV",
+        "position": "RB",
+        "rank": 311.0
+    },
+    "Dontrell Hilliard": {
+        "rankings": {
+            "fantasy-pros-standard": "312"
+        },
+        "player-name": "Dontrell Hilliard",
+        "team-name": "TEN",
+        "position": "RB",
+        "rank": 312.0
+    },
+    "Devin Duvernay": {
+        "rankings": {
+            "fantasy-pros-standard": "313"
+        },
+        "player-name": "Devin Duvernay",
+        "team-name": "BAL",
+        "position": "WR",
+        "rank": 313.0
+    },
+    "Pierre Strong": {
+        "rankings": {
+            "fantasy-pros-standard": "314",
+            "sporting-news-standard": "187"
+        },
+        "player-name": "Pierre Strong",
+        "team-name": "NE",
+        "position": "RB",
+        "rank": 250.5
+    },
+    "Isaiah Likely": {
+        "rankings": {
+            "fantasy-pros-standard": "315"
+        },
+        "player-name": "Isaiah Likely",
+        "team-name": "BAL",
+        "position": "TE",
+        "rank": 315.0
+    },
+    "Travis": {
+        "rankings": {
+            "fantasy-football-calculator-standard": "42"
+        },
+        "player-name": "Travis",
+        "team-name": "JAX",
+        "position": "RB",
+        "bye-week": "11",
+        "rank": 42.0
+    },
+    "Buffalo Defense": {
+        "rankings": {
+            "fantasy-football-calculator-standard": "116"
+        },
+        "player-name": "Buffalo Defense",
+        "team-name": "BUF",
+        "position": "DEF",
+        "bye-week": "7",
+        "rank": 116.0
+    },
+    "Jauan Jennings": {
+        "rankings": {
+            "sporting-news-standard": "190"
+        },
+        "player-name": "Jauan Jennings",
+        "team-name": "49ers",
+        "position": "WR",
+        "rank": 190.0
+    }
+}
