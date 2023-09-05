@@ -10,7 +10,7 @@ export default class Player extends Component {
         if (!player.picked && !player.myteam && showPosition) {
             return (
                 <div style={{'paddingLeft': '2px'}}>
-                    <p><span onClick={toggleView}>[x]</span> {rank} <a href='javascript:void(0)' onClick={toggleDraft}>{name}</a> | {position} | {team} | {bye} </p>
+                    <p><span onClick={toggleView}>[ x ]</span> {rank} <a href='javascript:void(0)' onClick={toggleDraft}>{name}</a> | {position} | {team} | {bye} </p>
                 </div>
             )
         } else {
@@ -26,7 +26,7 @@ export default class Player extends Component {
         if (player.picked && !player.myteam && showPosition) {
             return (
                 <div style={{'paddingLeft': '2px'}}>
-                    <p><span onClick={toggleView}>[-]</span> {rank} {name} | {position} | {team} | {bye} </p>
+                    <p><span onClick={toggleView}>[ - ]</span> {rank} {name} | {position} | {team} | {bye} </p>
                 </div>
             )
         } else {

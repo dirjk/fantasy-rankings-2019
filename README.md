@@ -35,6 +35,10 @@ https://sports.yahoo.com/fantasy-football-draft-rankings-for-2021-nfl-season-164
 
 https://sports.yahoo.com/fantasy-football-2022-top-300-draft-rankings-202418103.html
 
+https://www.sportingnews.com/us/fantasy/news/fantasy-football-rankings-2023-top-200-cheat-sheet-standard/kcoetp3suupjkfgoxmwyuyhg
+
+https://betiq.teamrankings.com/fantasy-football/rankings/yahoo/
+
 ## Normalize the data
 
 Run the provided scripts. These scripts will parse the data from the copy/pasted format from the websites and normalize them to CSV files in the respective `parsed-data` folder.

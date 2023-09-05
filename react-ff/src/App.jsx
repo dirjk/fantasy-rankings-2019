@@ -110,24 +110,68 @@ class App extends Component {
         <FilterBox filter='PK' checked={PK} onToggle={() => {this.onCheckChange('PK')}}/>
         <FilterBox filter='DEFENSE' checked={DST} onToggle={() => {this.onCheckChange('DST')}}/>
         <FilterControls setAllFilterBoxes={this.setAllFilterBoxes}></FilterControls>
-        <div>
-          <span>Showing: <strong>{activeTab}</strong></span>
+        <div className="columnContainer">
+          <div className="leftColumn">
+            <div>
+              <span>Showing: <strong>{activeTab}</strong></span>
+            </div>
+            {
+              players.map((player, i) => {
+                return (
+                  <Player
+                    key={player['player-name']}
+                    player={player}
+                    toggleView={() => { this.togglePlayer(i) }}
+                    toggleDraft={() => { this.togglePlayerDraft(i) }}
+                    showPosition={this.state[player.position]}
+                    activeTab={activeTab}
+                    searchTerm={searchTerm}
+                    />
+                  )
+              })
+            }
+          </div>
+          <div className="rightColumn">
+            <div>
+              <span> Showing: <strong>my team</strong></span>
+            </div>
+            {
+              players.map((player, i) => {
+                return (
+                  <Player
+                    key={player['player-name']}
+                    player={player}
+                    toggleView={() => { this.togglePlayer(i) }}
+                    toggleDraft={() => { this.togglePlayerDraft(i) }}
+                    showPosition={this.state[player.position]}
+                    activeTab='my team'
+                    searchTerm={searchTerm}
+                    />
+                  )
+              })
+            }
+          </div>
+          <div className="rightColumn">
+            <div>
+              <span> Showing: <strong>already picked</strong></span>
+            </div>
+            {
+              [...players].reverse().map((player, i) => {
+                return (
+                  <Player
+                    key={player['player-name']}
+                    player={player}
+                    toggleView={() => { this.togglePlayer(players.length - 1 - i) }}
+                    toggleDraft={() => { this.togglePlayerDraft(players.length - 1 - i) }}
+                    showPosition={this.state[player.position]}
+                    activeTab='picked'
+                    searchTerm={searchTerm}
+                    />
+                  )
+              })
+            }
+          </div>
         </div>
-        {
-          players.map((player, i) => {
-            return (
-              <Player
-                key={player['player-name']}
-                player={player}
-                toggleView={() => { this.togglePlayer(i) }}
-                toggleDraft={() => { this.togglePlayerDraft(i) }}
-                showPosition={this.state[player.position]}
-                activeTab={activeTab}
-                searchTerm={searchTerm}
-                />
-              )
-          })
-        }
       </div>
     )
   }

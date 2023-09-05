@@ -2,7 +2,7 @@ import json
 
 global_players = {}
 
-currentYear = '2022'
+currentYear = '2023'
 
 ppr_paths = [
     f"./parsed-data-{currentYear}/ppr/yahoo-sports-expert-ranks-half-ppr.json",
@@ -13,18 +13,19 @@ ppr_paths = [
 standard_paths = [
     f"./parsed-data-{currentYear}/standard/fantasy-pros-standard.json",
     f"./parsed-data-{currentYear}/standard/fantasy-football-calculator-standard.json",
-    f"./parsed-data-{currentYear}/standard/sporting-news-standard.json"
+    f"./parsed-data-{currentYear}/standard/sporting-news-standard.json",
+    f"./parsed-data-{currentYear}/standard/betiq-yahoo.json"
 ]
 
 def combine_data():
     # reset every time:
     global_players = {}
     # ppr:
-    paths = ppr_paths
-    save_path = f"./parsed-data-{currentYear}/ppr/data.json"
+    # paths = ppr_paths
+    # save_path = f"./parsed-data-{currentYear}/ppr/data.json"
     # standard:
-    # paths = standard_paths
-    # save_path = f"./parsed-data-{currentYear}/standard/data.json"
+    paths = standard_paths
+    save_path = f"./parsed-data-{currentYear}/standard/data.json"
     # combined:
     # paths = ppr_paths + standard_paths
     # save_path = './parsed-data-{currentYear}/combined-data.json'
@@ -36,7 +37,7 @@ def combine_data():
             players = json.load(f)
             for data in players:
                 #rank, name, position, team, bye
-                name = data[1]
+                name = data[1].strip('.').strip("'")
                 player = {'rankings': {}}
                 if not name in global_players.keys():
                     # they don't exist!
@@ -63,8 +64,9 @@ def combine_data():
         for source in player['rankings'].keys():
             sum = sum + int(player['rankings'][source])
         player['rank'] = sum / source_count
-        if source_count != path_count:
-            print(player['player-name'])
+        if source_count < path_count:
+            if player['rank'] < 120:
+                print(player['player-name'])
         global_players[key] = player
     with open(save_path, 'w') as f:
         json.dump(global_players, f, indent=4)
